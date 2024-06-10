@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
+
 const AiPill = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [drugInfo, setDrugInfo] = useState(null);
