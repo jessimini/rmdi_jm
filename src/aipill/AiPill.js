@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-
 const AiPill = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [drugInfo, setDrugInfo] = useState(null);
@@ -69,7 +68,7 @@ const AiPill = () => {
           </div>
         )}
         {drugInfo && (
-          <div className="flex flex-col text-gray-700 bg-gray-100 p-5 rounded-lg shadow-md mt-8 mb-12 ">
+          <div className="flex flex-col text-gray-700 bg-gray-100 p-5 rounded-lg shadow-md mt-8 mb-12 w-full mr-10">
             <p className="font-semibold text-2xl mb-4 text-center">제품 기본정보</p>
             <p className='text-xl'><span className="font-semibold">약 이름 : </span>{drugInfo.dl_name}</p>
             <p className='text-xl'><span className="font-semibold">약 이름(영문) : </span>{drugInfo.dl_name_en}</p>
@@ -84,6 +83,15 @@ const AiPill = () => {
             <p className='text-xl'><span className="font-semibold">분류번호 : </span>{drugInfo.di_class_no}</p>
             <hr className="my-2 border-gray-300" />
             <p className='text-xl'><span className="font-semibold">형태 : </span>{drugInfo.chart}</p>
+            <div className="mt-5">
+              <p className='text-2xl text-center font-semibold text-gray-700'>상호작용 정보</p>
+              <p className='text-center text-gray-700 text-lg mt-2'>
+                <a href={`https://www.health.kr/interaction/drug.asp?drugname=${encodeURIComponent(drugInfo.dl_name)}`} className="text-xl text-blue-500 underline" target="_blank" rel="noopener noreferrer">
+                  약학정보원
+                </a>에서 <span className="font-semibold">{drugInfo.dl_name}</span>의 <span className="font-semibold">약물-약물 상호작용</span> 및 <span className="font-semibold">약물-음식 상호작용</span>을 확인해보세요.
+              </p>
+              <img src={require('../assets/img/약학정보원.png')} alt="약학정보원" className="mt-5 mx-auto" />
+            </div>
           </div>
         )}
       </div>
@@ -92,4 +100,3 @@ const AiPill = () => {
 }
 
 export default AiPill;
-
