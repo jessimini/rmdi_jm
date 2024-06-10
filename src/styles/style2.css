@@ -1,0 +1,589 @@
+/* 이 부분은 CSS 변수를 선언하는 곳입니다. 이 변수들은 웹페이지 전체에 걸쳐 사용될 수 있습니다. */
+:root {
+    --primary: #0463FA; /* 주 색상 */
+    --light: #EFF5FF; /* 밝은 색상 */
+    --dark: #1B2C51; /* 어두운 색상 */
+}
+
+/* 다음 클래스들은 텍스트의 굵기를 조절합니다. !important는 다른 스타일 규칙을 무시하고 이 규칙을 우선 적용하게 합니다. */
+.fw-medium {
+    font-weight: 500 !important; /* 중간 굵기의 글씨 */
+}
+
+.fw-bold {
+    font-weight: 700 !important; /* 굵은 글씨 */
+}
+
+.fw-black {
+    font-weight: 900 !important; /* 매우 굵은 글씨 */
+}
+
+/* 맨 위로 가기 버튼 스타일 */
+.back-to-top {
+    position: fixed; /* 고정 위치 */
+    display: none; /* 기본적으로 보이지 않음 */
+    right: 45px; /* 오른쪽에서 45px 떨어진 곳에 위치 */
+    bottom: 45px; /* 아래쪽에서 45px 떨어진 곳에 위치 */
+    z-index: 99; /* 다른 요소 위에 표시 */
+}
+
+.highlight {
+    background-color: #007bff; /* Bootstrap의 파란색 */
+    color: white;
+  }
+
+
+/*** Spinner ***/
+/* 로딩 스피너 스타일 */
+#spinner {
+    opacity: 0; /* 투명도 0으로 설정하여 보이지 않게 함 */
+    visibility: hidden; /* 화면에 표시되지 않음 */
+    transition: opacity .5s ease-out, visibility 0s linear .5s; /* 투명도와 가시성 변화에 대한 전환 효과 설정 */
+    z-index: 99999; /* 최상위에 표시 */
+}
+
+#spinner.show {
+    transition: opacity .5s ease-out, visibility 0s linear 0s; /* 스피너가 보일 때의 전환 효과 */
+    visibility: visible; /* 스피너가 보이도록 설정 */
+    opacity: 1; /* 투명도 100%로 설정 */
+}
+
+
+/*** Button ***/
+/* 버튼 스타일 */
+.btn {
+    font-weight: 500; /* 글씨 굵기 중간 */
+    transition: .5s; /* 상태 변화에 대한 전환 효과 설정 */
+}
+
+.btn.btn-primary,
+.btn.btn-secondary {
+    color: #FFFFFF; /* 글씨 색상을 흰색으로 설정 */
+}
+
+/* 다양한 크기의 사각형 버튼 스타일 */
+.btn-square {
+    width: 38px; /* 너비 38px */
+    height: 38px; /* 높이 38px */
+}
+
+.btn-sm-square {
+    width: 32px; /* 작은 사각형 버튼 너비 */
+    height: 32px; /* 작은 사각형 버튼 높이 */
+}
+
+.btn-lg-square {
+    width: 48px; /* 큰 사각형 버튼 너비 */
+    height: 48px; /* 큰 사각형 버튼 높이 */
+}
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    padding: 0; /* 패딩 없음 */
+    display: flex; /* flexbox를 사용하여 요소 배치 */
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    font-weight: normal; /* 글씨 굵기 기본값 */
+}
+
+
+/*** Navbar ***/
+/* 내비게이션 바 내 드롭다운 토글 후의 스타일 */
+.navbar .dropdown-toggle::after {
+    border: none; /* 테두리 없음 */
+    content: "\f107"; /* 폰트 어썸 아이콘 콘텐츠 */
+    font-family: "Font Awesome 5 Free"; /* 폰트 어썸 폰트 패밀리 */
+    font-weight: 900; /* 아이콘 글씨 굵기 */
+    vertical-align: middle; /* 수직 중앙 정렬 */
+    margin-left: 8px; /* 왼쪽 여백 설정 */
+}
+
+/* 내비게이션 바 내부 링크 스타일 */
+.navbar .navbar-nav .nav-link {
+    margin-right: 30px; /* 오른쪽 여백 설정 */
+    padding: 25px 0; /* 상하 패딩 설정 */
+    color: #FFFFFF; /* 글씨 색상 흰색 설정 */
+    font-size: 15px; /* 글씨 크기 */
+    font-weight: 500; /* 글씨 굵기 */
+    text-transform: uppercase; /* 글자 대문자 변환 */
+    outline: none; /* 윤곽선 제거 */
+}
+
+/* 네비게이션 바 링크 호버 및 활성화 상태 스타일 */
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active {
+    color: var(--primary); /* 호버하거나 활성화된 링크의 색상을 primary 변수로 설정 */
+}
+
+/* 화면 크기가 991.98px 이하일 때 네비게이션 바 스타일 */
+@media (max-width: 991.98px) {
+    .navbar .navbar-nav .nav-link  {
+        margin-right: 0; /* 오른쪽 여백을 0으로 설정 */
+        padding: 10px 0; /* 상하 패딩을 10px로 설정 */
+    }
+
+    .navbar .navbar-nav {
+        border-top: 1px solid #EEEEEE; /* 네비게이션 바 상단에 회색 테두리 추가 */
+    }
+}
+
+/* 네비게이션 바 브랜드 로고와 버튼 높이 설정 */
+.navbar .navbar-brand,
+.navbar a.btn {
+    height: 75px; /* 높이를 75px로 설정 */
+}
+
+/* 네비게이션 바 링크 기본 색상과 글꼴 무게 설정 */
+.navbar .navbar-nav .nav-link {
+    color: var(--dark); /* 링크의 색상을 dark 변수로 설정 */
+    font-weight: 500; /* 글꼴 무게를 500으로 설정 */
+}
+
+/* 스크롤 시 네비게이션 바가 상단에 고정되며 위에서 아래로 애니메이션 */
+.navbar.sticky-top {
+    top: -100px; /* 처음 위치를 위쪽으로 100px 이동 */
+    transition: .5s; /* 위치 변경에 대한 전환 효과 시간 설정 */
+}
+
+/* 화면 크기가 992px 이상일 때 드롭다운 메뉴 스타일 */
+@media (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu {
+        display: block; /* 드롭다운 메뉴를 블록 요소로 설정 */
+        border: none; /* 테두리 없음 */
+        margin-top: 0; /* 상단 여백 없음 */
+        top: 150%; /* 원래 위치에서 아래쪽으로 50% 떨어진 곳에 위치 */
+        opacity: 0; /* 투명도 0으로 설정 */
+        visibility: hidden; /* 기본적으로 보이지 않음 */
+        transition: .5s; /* 가시성 변경에 대한 전환 효과 시간 설정 */
+    }
+
+    .navbar .nav-item:hover .dropdown-menu {
+        top: 100%; /* 호버 시 드롭다운 메뉴가 완전히 보이도록 위치 조정 */
+        visibility: visible; /* 드롭다운 메뉴를 보이게 함 */
+        transition: .5s; /* 호버 시 전환 효과 */
+        opacity: 1; /* 투명도 100%로 설정 */
+    }
+}
+
+
+/*** Header Carousel ***/
+/* 헤더 캐러셀의 텍스트 영역 위치와 스타일 */
+.header-carousel .owl-carousel-text {
+    position: absolute; /* 절대 위치 */
+    width: 100%; /* 너비 100% */
+    height: 100%; /* 높이 100% */
+    padding: 3rem; /* 패딩 3rem */
+    top: 0; /* 상단 위치 0 */
+    left: 0; /* 왼쪽 위치 0 */
+    display: flex; /* flexbox 디스플레이 타입 */
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    text-shadow: 0 0 30px rgba(0, 0, 0, .1); /* 텍스트에 그림자 효과 */
+}
+
+/* 헤더 캐러셀 내비게이션 버튼 위치와 스타일 */
+.header-carousel .owl-nav {
+    position: absolute; /* 절대 위치 */
+    width: 200px; /* 너비 200px */
+    height: 45px; /* 높이 45px */
+    bottom: 30px; /* 아래에서 30px 떨어진 위치 */
+    left: 50%; /* 왼쪽에서 50% 위치 */
+    transform: translateX(-50%); /* X축 기준 중앙 정렬 */
+    display: flex; /* flexbox 디스플레이 타입 */
+    justify-content: space-between; /* 내부 요소를 양 끝에 배치 */
+}
+
+/* 헤더 캐러셀 이전/다음 버튼 공통 스타일 */
+.header-carousel .owl-nav .owl-prev,
+.header-carousel .owl-nav .owl-next {
+    width: 45px; /* 너비 45px */
+    height: 45px; /* 높이 45px */
+    display: flex; /* flexbox 디스플레이 타입 */
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    color: #FFFFFF; /* 글씨 색상 흰색 */
+    background: transparent; /* 배경색 투명 */
+    border: 1px solid #FFFFFF; /* 테두리 흰색 */
+    border-radius: 45px; /* 테두리 원형 */
+    font-size: 22px; /* 글씨 크기 22px */
+    transition: .5s; /* 전환 효과 */
+}
+
+/* 헤더 캐러셀 이전/다음 버튼 호버 스타일 */
+.header-carousel .owl-nav .owl-prev:hover,
+.header-carousel .owl-nav .owl-next:hover {
+    background: var(--primary); /* 호버 시 배경색을 primary 변수로 설정 */
+    border-color: var(--primary); /* 호버 시 테두리 색상을 primary 변수로 설정 */
+}
+
+/* 헤더 캐러셀 점 위치와 스타일 */
+.header-carousel .owl-dots {
+    position: absolute; /* 절대 위치 */
+    height: 45px; /* 높이 45px */
+    bottom: 30px; /* 아래에서 30px 떨어진 위치 */
+    left: 50%; /* 왼쪽에서 50% 위치 */
+    transform: translateX(-50%); /* X축 기준 중앙 정렬 */
+    display: flex; /* flexbox 디스플레이 타입 */
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+}
+
+/* 캐러셀 내의 점(dot) 요소 스타일 */
+.header-carousel .owl-dot {
+    position: relative; /* 상대 위치 */
+    display: inline-block; /* 인라인 블록 요소로 표시 */
+    margin: 0 5px; /* 좌우 마진 5px */
+    width: 15px; /* 너비 15px */
+    height: 15px; /* 높이 15px */
+    background: transparent; /* 배경색 투명 */
+    border: 1px solid #FFFFFF; /* 테두리는 흰색 */
+    border-radius: 15px; /* 원형 테두리 */
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 점(dot) 요소의 상태에 따른 스타일 변화를 위한 after 가상 요소 */
+.header-carousel .owl-dot::after {
+    position: absolute; /* 절대 위치 */
+    content: ""; /* 내용 없음 */
+    width: 5px; /* 너비 5px */
+    height: 5px; /* 높이 5px */
+    top: 4px; /* 상단 위치 4px */
+    left: 4px; /* 왼쪽 위치 4px */
+    background: #FFFFFF; /* 배경색 흰색 */
+    border-radius: 5px; /* 원형 테두리 */
+}
+
+/* 활성화된 점(dot) 요소 스타일 */
+.header-carousel .owl-dot.active {
+    background: var(--primary); /* 배경색을 primary 변수로 설정 */
+    border-color: var(--primary); /* 테두리 색상을 primary 변수로 설정 */
+}
+
+/* 페이지 헤더 배경 스타일 */
+.page-header {
+    background: url('../assets/img/pageheader.png') no-repeat right center; /* 배경 이미지를 오른쪽 중앙에 위치하도록 설정 */
+    background-size: contain; /* 배경 이미지가 컨테이너 내에서 비율을 유지하며 전체가 보이도록 설정 */
+    text-shadow: 0 0 30px rgba(0, 0, 0, .1); /* 텍스트 그림자 효과 */
+}
+
+
+/* 브레드크럼 아이템 구분자 스타일 */
+.breadcrumb-item + .breadcrumb-item::before {
+    color: var(--light); /* 구분자 색상을 light 변수로 설정 */
+}
+
+
+/*** Service ***/
+/* 서비스 아이템 전환 효과 */
+.service-item {
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 서비스 아이템 호버 시 스타일 */
+.service-item:hover {
+    margin-top: -10px; /* 상단 여백을 -10px로 설정 */
+    box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .08); /* 상자 그림자 효과 */
+}
+
+/* 서비스 아이템 내 버튼 스타일 */
+.service-item .btn {
+    width: 40px; /* 너비 40px */
+    height: 40px; /* 높이 40px */
+    display: inline-flex; /* 인라인 flex로 표시 */
+    align-items: center; /* 세로 중앙 정렬 */
+    background: #FFFFFF; /* 배경색 흰색 */
+    border-radius: 40px; /* 원형 테두리 */
+    white-space: nowrap; /* 텍스트 줄바꿈 없음 */
+    overflow: hidden; /* 내용이 넘칠 때 숨김 */
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 서비스 아이템 호버 시 버튼 스타일 변화 */
+.service-item:hover .btn {
+    width: 150px; /* 호버 시 버튼 너비를 150px로 확장 */
+}
+
+
+/*** Feature ***/
+/* 반응형 디자인에 따른 피처 컨테이너 최대 너비 설정 */
+@media (min-width: 992px) {
+    .container.feature {
+        max-width: 100% !important; /* 최대 너비를 100%로 설정 */
+    }
+
+    /* 피처 텍스트 패딩 설정 */
+    .feature-text  {
+        padding-left: calc(((100% - 960px) / 2) + .75rem); /* 좌측 패딩 계산 */
+    }
+}
+
+@media (min-width: 1200px) {
+    .feature-text  {
+        padding-left: calc(((100% - 1140px) / 2) + .75rem); /* 너비 1200px 이상일 때 좌측 패딩 계산 */
+    }
+}
+
+@media (min-width: 1400px) {
+    .feature-text  {
+        padding-left: calc(((100% - 1320px) / 2) + .75rem); /* 너비 1400px 이상일 때 좌측 패딩 계산 */
+    }
+}
+
+
+/*** Team ***/
+/* 팀 아이템 이미지 위치 및 전환 효과 */
+.team-item img {
+    position: relative; /* 상대 위치 */
+    top: 0; /* 상단 위치 초기값 */
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 팀 아이템 호버 시 이미지 위치 변화 */
+.team-item:hover img {
+    top: -30px; /* 호버 시 이미지를 위로 30px 이동 */
+}
+
+/* 팀 아이템 텍스트 영역 위치 및 높이 설정 */
+.team-item .team-text {
+    position: relative; /* 상대 위치 */
+    height: 100px; /* 높이 100px */
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 팀 섹션 스타일 */
+/* 팀 아이템 호버 시 텍스트 영역의 마진과 높이 조정 */
+.team-item:hover .team-text {
+    margin-top: -60px; /* 마진 상단을 -60px으로 */
+    height: 160px; /* 높이를 160px으로 설정 */
+}
+
+/* 팀 아이템 내 소셜 미디어 버튼 기본 투명도 설정 및 전환 효과 */
+.team-item .team-social {
+    opacity: 0; /* 기본 상태에서는 보이지 않도록 */
+    transition: .5s; /* 전환 효과 0.5초 설정 */
+}
+
+/* 팀 아이템 호버 시 소셜 미디어 버튼 투명도 조정 */
+.team-item:hover .team-text .team-social {
+    opacity: 1; /* 호버 시 완전히 보이도록 */
+}
+
+/* 소셜 미디어 버튼 기본 스타일 */
+.team-item .team-social .btn {
+    display: inline-flex; /* flex를 이용해 인라인으로 표시 */
+    color: var(--primary); /* 아이콘 색상은 primary 변수 사용 */
+    background: #FFFFFF; /* 배경색 흰색 */
+    border-radius: 40px; /* 둥근 테두리 설정 */
+}
+
+/* 소셜 미디어 버튼 호버 시 색상 변경 */
+.team-item .team-social .btn:hover {
+    color: #FFFFFF; /* 호버 시 아이콘 색상 흰색 */
+    background: var(--primary); /* 호버 시 배경색 primary 변수 색상 사용 */
+}
+
+
+/*** Appointment ***/
+/* 날짜 선택 위젯 스타일 */
+/* 아래로 떨어진 날짜 선택 위젯 상단 위치 조정 */
+.bootstrap-datetimepicker-widget.bottom {
+    top: auto !important; /* 위에서 자동으로 조정 */
+}
+
+/* 날짜 선택 위젯 테이블 내 모든 요소의 테두리 설정 제거 */
+.bootstrap-datetimepicker-widget .table * {
+    border-bottom-width: 0px; /* 테두리 너비 0으로 설정 */
+}
+
+/* 날짜 선택 위젯 테이블 요일 텍스트 스타일 */
+.bootstrap-datetimepicker-widget .table th {
+    font-weight: 500; /* 글씨 굵기 중간으로 설정 */
+}
+
+/* 날짜 선택 위젯 전체 컨테이너 스타일 */
+.bootstrap-datetimepicker-widget.dropdown-menu {
+    padding: 10px; /* 패딩 10px */
+    border-radius: 2px; /* 모서리 둥글게 설정 */
+}
+
+/* 날짜 선택 위젯 내 활성화된 날짜 스타일 */
+.bootstrap-datetimepicker-widget table td.active,
+.bootstrap-datetimepicker-widget table td.active:hover {
+    background: var(--primary); /* 배경색 primary 변수 사용 */
+}
+
+/* 날짜 선택 위젯 내 오늘 날짜 표시 스타일 */
+.bootstrap-datetimepicker-widget table td.today::before {
+  border-bottom-color: var(--primary); /* 아래쪽 테두리 색상 primary 변수 사용 */
+}
+
+
+/*** Testimonial ***/
+/* 추천 섹션 스타일 */
+/* 추천 캐러셀 가장자리 그라데이션 효과 */
+.testimonial-carousel::before {
+    position: absolute; /* 절대 위치 */
+    content: ""; /* 내용 없음 */
+    top: 0; /* 상단 위치 0 */
+    left: 0; /* 왼쪽 위치 0 */
+    height: 100%; /* 높이 100% */
+    width: 0; /* 너비 0으로 시작 */
+    background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%); /* 오른쪽으로 희미해지는 흰색 그라데이션 */
+    z-index: 1; /* 위에 놓임 */
+}
+
+.testimonial-carousel::after {
+    position: absolute; /* 절대 위치 */
+    content: ""; /* 내용 없음 */
+    top: 0; /* 상단 위치 0 */
+    right: 0; /* 오른쪽 위치 0 */
+    height: 100%; /* 높이 100% */
+    width: 0; /* 너비 0으로 시작 */
+    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%); /* 왼쪽으로 희미해지는 흰색 그라데이션 */
+    z-index: 1; /* 위에 놓임 */
+}
+
+/* 특정 브레이크포인트에서 추천 캐러셀 가장자리 그라데이션 너비 조정 */
+@media (min-width: 768px) {
+    .testimonial-carousel::before,
+    .testimonial-carousel::after {
+        width: 200px; /* 너비 200px */
+    }
+}
+
+@media (min-width: 992px) {
+    .testimonial-carousel::before,
+    .testimonial-carousel::after {
+        width: 300px; /* 너비 300px */
+    }
+}
+
+/* 추천 캐러셀 아이템의 텍스트 배경 및 변환 스케일 설정 */
+.testimonial-carousel .owl-item .testimonial-text {
+    background: var(--light); /* 배경색 light 변수 사용 */
+    transform: scale(.8); /* 스케일 축소 */
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 추천 캐러셀 중앙 아이템의 텍스트 배경 및 변환 스케일 조정 */
+.testimonial-carousel .owl-item.center .testimonial-text {
+    background: var(--primary); /* 배경색 primary 변수 사용 */
+    transform: scale(1); /* 스케일 원래대로 */
+}
+
+/* 추천 캐러셀 아이템의 텍스트와 이미지 전환 효과 설정 */
+.testimonial-carousel .owl-item .testimonial-text *,
+.testimonial-carousel .owl-item .testimonial-item img {
+    transition: .5s; /* 전환 효과 시간 설정 */
+}
+
+/* 추천 캐러셀 중앙 아이템의 텍스트 색상 및 이미지 배경 조정 */
+.testimonial-carousel .owl-item.center .testimonial-text * {
+    color: var(--light) !important; /* 중앙 텍스트 색상 light 변수로 설정, !important로 우선 순위 설정 */
+}
+
+.testimonial-carousel .owl-item.center .testimonial-item img {
+    background: var(--primary) !important; /* 중앙 이미지 배경색 primary 변수로 설정, !important로 우선 순위 설정 */
+} 
+
+/* 추천 캐러셀 내비게이션 스타일 설정 */
+.testimonial-carousel .owl-nav {
+    position: absolute; /* 절대 위치 */
+    width: 350px; /* 너비 350px */
+    top: 15px; /* 상단 위치 15px */
+    left: 50%; /* 가로 중앙 위치 */
+    transform: translateX(-50%); /* 가로 중앙 정렬 */
+    display: flex; /* flexbox 디스플레이 타입 */
+    justify-content: space-between; /* 내부 요소를 양 끝에 배치 */
+    opacity: 0; /* 기본 상태에서 보이지 않도록 */
+    transition: .5s; /* 전환 효과 시간 설정 */
+    z-index: 1; /* 위에 놓임 */
+}
+
+/* 추천 섹션 내 캐러셀의 내비게이션 호버 효과 */
+.testimonial-carousel:hover .owl-nav {
+    width: 300px; /* 호버 시 네비게이션 바의 너비를 300px로 조정 */
+    opacity: 1; /* 호버 시 네비게이션 바를 불투명하게 만들어 보임 */
+}
+
+/* 추천 캐러셀 내 이전, 다음 버튼 스타일 */
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+    position: relative; /* 상대적 위치 */
+    color: var(--primary); /* 기본 상태의 색상을 primary 변수로 설정 */
+    font-size: 45px; /* 폰트 크기를 45px로 설정 */
+    transition: .5s; /* 색상 변경에 대한 전환 효과 시간 설정 */
+}
+
+/* 추천 캐러셀 내 이전, 다음 버튼 호버 효과 */
+.testimonial-carousel .owl-nav .owl-prev:hover,
+.testimonial-carousel .owl-nav .owl-next:hover {
+    color: var(--dark); /* 호버 시 색상을 dark 변수로 변경 */
+}
+
+
+/*** Footer ***/
+/* 푸터의 소셜 버튼 스타일 */
+.footer .btn.btn-social {
+    margin-right: 5px; /* 우측 마진 설정 */
+    width: 35px; /* 너비 설정 */
+    height: 35px; /* 높이 설정 */
+    display: flex; /* flexbox 디스플레이로 설정 */
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    color: var(--light); /* 색상을 light 변수로 설정 */
+    border: 1px solid #FFFFFF; /* 테두리는 흰색으로 설정 */
+    transition: .3s; /* 전환 효과 시간 설정 */
+}
+
+/* 푸터의 소셜 버튼 호버 효과 */
+.footer .btn.btn-social:hover {
+    color: var(--primary); /* 호버 시 색상을 primary 변수로 변경 */
+}
+
+/* 푸터의 링크 버튼 스타일 */
+.footer .btn.btn-link {
+    display: block; /* 블록 요소로 표시 */
+    margin-bottom: 5px; /* 아래쪽 마진 설정 */
+    padding: 0; /* 패딩 없음 */
+    text-align: left; /* 텍스트 왼쪽 정렬 */
+    color: #FFFFFF; /* 텍스트 색상 흰색 설정 */
+    font-size: 15px; /* 폰트 크기 설정 */
+    font-weight: normal; /* 폰트 무게 기본 값 */
+    text-transform: capitalize; /* 첫 글자 대문자 변환 */
+    transition: .3s; /* 전환 효과 시간 설정 */
+}
+
+/* 푸터의 링크 버튼 앞에 아이콘 추가 */
+.footer .btn.btn-link::before {
+    position: relative; /* 상대적 위치 */
+    content: "\f105"; /* Font Awesome 아이콘 콘텐츠 */
+    font-family: "Font Awesome 5 Free"; /* Font Awesome 폰트 사용 */
+    font-weight: 900; /* 폰트 무게 굵게 */
+    margin-right: 10px; /* 아이콘과 텍스트 사이의 오른쪽 마진 설정 */
+}
+
+/* 푸터의 링크 버튼 호버 효과 */
+.footer .btn.btn-link:hover {
+    color: var(--primary); /* 호버 시 색상을 primary 변수로 변경 */
+    letter-spacing: 1px; /* 글자 간격 설정 */
+    box-shadow: none; /* 박스 그림자 없음 */
+}
+
+/* 푸터의 저작권 정보 스타일 */
+.footer .copyright {
+    padding: 25px 0; /* 상하 패딩 설정 */
+    font-size: 15px; /* 폰트 크기 설정 */
+    border-top: 1px solid rgba(256, 256, 256, .1); /* 상단 테두리 설정 */
+}
+
+/* 푸터의 저작권 정보 내 링크 스타일 */
+.footer .copyright a {
+    color: var(--light); /* 링크 색상을 light 변수로 설정 */
+}
+
+/* 푸터의 저작권 정보 내 링크 호버 효과 */
+.footer .copyright a:hover {
+    color: var(--primary); /* 호버 시 색상을 primary 변수로 변경 */
+}

@@ -1,0 +1,85 @@
+/* PatientRecord.css */
+
+/* 날짜 선택 및 진료기간 조회 버튼 스타일 */
+
+.date-search-form input[type="date"] {
+  font-size: 16px;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+}
+
+.date-search-form button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px; /* 버튼 아래 마진 추가 */
+}
+
+/* 섹션 구분선 */
+.date-search-form + .medical-records-results {
+  border-top: 2px solid #ccc;
+  padding-top: 20px;
+  margin-top: 60px;
+}
+
+/* 의료 기록 결과 스타일 */
+.medical-records-results {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 온라인 진료 결과 제목 및 컨테이너 스타일 */
+.medical-records-section {
+  margin-top: 20px;
+}
+
+/* 의료 기록 결과 및 온라인 진료 결과 박스 스타일 */
+.medical-records-results, .medical-records-section p {
+  max-width: 70%; /* 박스의 최대 너비 지정 */
+  margin: 20px auto; /* 상단 및 하단 마진을 0으로, 좌우 마진을 auto로 설정하여 중앙 정렬 */
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px; /* 박스 상단 마진 추가 */
+}
+
+.medical-records-section h2 {
+  text-align: center; /* 가운데 정렬 */
+  font-size: 1.5em; /* 글씨 크기 조정 */
+  margin-top: 20px; /* 상단 마진 추가 */
+  margin-bottom: 20px; /* 하단 마진 추가 */
+}
+
+/* 온라인 진료 결과 불러오기 버튼 스타일 */
+.medical-records-section button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: block; /* 블록 요소로 만들기 */
+  margin: 10px auto; /* 자동으로 중앙 정렬 */
+  font-size: 1em; /* 글씨 크기 */
+}
+
+@media (max-width: 768px) {
+  .date-search-form {
+    flex-direction: column;
+    width: 100%;
+  }
+  .medical-records-results, .medical-records-section p {
+    max-width: 100%; /* 모바일 화면에서는 박스 너비를 100%로 설정 */
+  }
+  .medical-records-section h2 {
+    font-size: 1.2em; /* 모바일 화면에서 글씨 크기 축소 */
+  }
+}

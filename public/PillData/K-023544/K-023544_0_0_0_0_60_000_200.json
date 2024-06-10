@@ -1,0 +1,94 @@
+{
+	"images": [
+		{
+			"file_name": "K-023544_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023544_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023544",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "23543",
+			"dl_mapping_code": "K-023544",
+			"dl_name": "트라스펜정",
+			"dl_name_en": "Traspen Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/151853646956100072.jpg",
+			"dl_material": "트라마돌염산염|아세트아미노펜",
+			"dl_material_en": "Acetaminophen| Tramadol Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200804560,
+			"di_item_permit_date": "20080423",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643504220,A21455261",
+			"chart": "연한 황색의 장방형의 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 4,
+			"leng_long": 15.4,
+			"leng_short": 6.3,
+			"print_front": "HM",
+			"print_back": "T/A",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080619",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210318",
+			"id": 1,
+			"효능 및 효과": [
+				"두통",
+				"치통",
+				"생리통",
+				"류마티스 관절염",
+				"골관절염",
+				"요통"
+			  ],
+			  "복용 방법": "성인 1일 3회, 1회 1-2정 식후 30분에 복용",
+			  "주의 사항": [
+				"다음 환자에게는 투여하지 말 것: 이 약 성분에 과민증이 있는 환자, 소화성 궤양 환자",
+				"다음 환자에게는 신중히 투여할 것: 천식 환자, 심장 질환 환자, 간기능 또는 신기능 장애 환자"
+			  ]
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 93330,
+			"iscrowd": 0,
+			"bbox": [
+				316,
+				464,
+				366,
+				255
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

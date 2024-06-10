@@ -1,0 +1,47 @@
+[
+  {
+    "nickname": "abc",
+    "email": "abc@gmail.com",
+    "date": "2024-05-14 13:00",
+    "professor": "김준완",
+    "memo": "첫 방문",
+    "professorId": "P001",
+    "department": "심장외과"
+  },
+  {
+    "nickname": "dhwjdals",
+    "email": "dhwjdals@yonsei.ac.kr",
+    "date": "2024-05-14 15:00",
+    "professor": "채송화",
+    "memo": "아이 검사",
+    "professorId": "P002",
+    "department": "소아외과"
+  },
+  {
+    "nickname": "ddmfla",
+    "email": "없음",
+    "date": "2024-05-14 14:30",
+    "professor": "양석형",
+    "memo": "간 이식 상담",
+    "professorId": "P003",
+    "department": "간담췌외과"
+  },
+  {
+    "nickname": "gmmldus",
+    "email": "없음",
+    "date": "2024-05-14 09:30",
+    "professor": "이익준",
+    "memo": "수술 후 점검",
+    "professorId": "P004",
+    "department": "일반외과"
+  },
+  {
+    "nickname": "ddfdfsf",
+    "email": "asf@gmail.com",
+    "date": "2024-05-14 15:00",
+    "professor": "이익준",
+    "memo": "수술 후 점검",
+    "professorId": "P004",
+    "department": "일반외과"
+  }
+]

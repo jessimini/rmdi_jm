@@ -1,0 +1,9 @@
+[
+    {"date": "05-04", "pageviews": 5, "visitors": 3},
+    {"date": "05-05", "pageviews": 10, "visitors": 5},
+    {"date": "05-06", "pageviews": 5, "visitors": 2},
+    {"date": "05-07", "pageviews": 15, "visitors": 10},
+    {"date": "05-08", "pageviews": 10, "visitors": 5},
+    {"date": "05-09", "pageviews": 15, "visitors": 10},
+    {"date": "05-10", "pageviews": 20, "visitors": 15}
+]
