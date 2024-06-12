@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-033353_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-033353_0_0_0_0_60_000_200.png",
+			"drug_N": "K-033353",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201402867",
+			"leng_long": "9",
+			"leng_short": "9",
+			"thick": "4",
+			"id": 1,
+			"dl_idx": "33352",
+			"dl_mapping_code": "K-033353",
+			"dl_name": "대웅바이오록소프로펜정(록소프로펜나트륨수화물)",
+			"dl_name_en": "Loxoprofen Tab. Daewoong Bio",
+			"img_key": "http://connectdi.com/design/img/drug/147426878513600016.jpg",
+			"dl_material": "록소프로펜나트륨수화물",
+			"dl_material_en": "Loxoprofen Sodium Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대웅바이오(주)",
+			"dl_company_en": "Daewoong Bio",
+			"di_company_mf": "대화제약(주)",
+			"di_company_mf_en": "Dhpharm",
+			"di_item_permit_date": "20140627",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "694000680",
+			"chart": "흰색∼미황색의 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "DWB",
+			"print_back": "LOX",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20140808",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210316"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 51959,
+			"iscrowd": 0,
+			"bbox": [
+				345,
+				533,
+				233,
+				223
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

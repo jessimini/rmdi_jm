@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011524_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011524_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011524",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11523",
+			"dl_mapping_code": "K-011524",
+			"dl_name": "리버힐정(비페닐디메칠디카르복실레이트)",
+			"dl_name_en": "Liverheal Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427985925200126.jpg",
+			"dl_material": "비페닐디메틸디카르복실레이트",
+			"dl_material_en": "Biphenyl Dimethyl Dicarboxylate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한올바이오파마(주)",
+			"dl_company_en": "Hanall Biopharma",
+			"di_company_mf": "경동제약(주)",
+			"di_company_mf_en": "Kyungdong Pharm",
+			"item_seq": 200200366,
+			"di_item_permit_date": "20021106",
+			"di_class_no": "[03910]간장질환용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "655600490,A03505011",
+			"chart": "백색의 타원형 정제",
+			"drug_shape": "타원형",
+			"thick": 3.96,
+			"leng_long": 12.1,
+			"leng_short": 6.01,
+			"print_front": "ha",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20051114",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180121",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 55242,
+			"iscrowd": 0,
+			"bbox": [
+				366,
+				499,
+				279,
+				198
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

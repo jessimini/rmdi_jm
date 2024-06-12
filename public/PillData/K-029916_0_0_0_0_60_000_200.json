@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-029916_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-029916_0_0_0_0_60_000_200.png",
+			"drug_N": "K-029916",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201206499",
+			"leng_long": "12",
+			"leng_short": "12",
+			"thick": "5.6",
+			"id": 1,
+			"dl_idx": "29915",
+			"dl_mapping_code": "K-029916",
+			"dl_name": "알게론정 500mg",
+			"dl_name_en": "Algeron Tab. 500mg",
+			"img_key": "http://connectdi.com/design/img/drug/146032189789500120.jpg",
+			"dl_material": "알마게이트",
+			"dl_material_en": "Almagate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동국제약(주)",
+			"dl_company_en": "Dongkook",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20120820",
+			"di_class_no": "[02340]제산제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "653402670",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "마크",
+			"print_back": "D04",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120906",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "dk,cK",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938644048800119.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20151217"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 91140,
+			"iscrowd": 0,
+			"bbox": [
+				333,
+				434,
+				310,
+				294
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

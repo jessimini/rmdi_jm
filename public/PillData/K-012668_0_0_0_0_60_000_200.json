@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-012668_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-012668_0_0_0_0_60_000_200.png",
+			"drug_N": "K-012668",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "12667",
+			"dl_mapping_code": "K-012668",
+			"dl_name": "글리멜정 2mg",
+			"dl_name_en": "Glimel Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428059700400108.jpg",
+			"dl_material": "글리메피리드",
+			"dl_material_en": "",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200300144,
+			"di_item_permit_date": "20031213",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642500170,A01508201",
+			"chart": "이 약은 녹색의 장방형 정제이다",
+			"drug_shape": "기타",
+			"thick": 2.85,
+			"leng_long": 10.05,
+			"leng_short": 5.02,
+			"print_front": "GL2 GL2",
+			"print_back": "",
+			"color_class1": "청록",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120312",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200303",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 42630,
+			"iscrowd": 0,
+			"bbox": [
+				338,
+				491,
+				245,
+				174
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011015_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011015_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011015",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11014",
+			"dl_mapping_code": "K-011015",
+			"dl_name": "시노카엔캡슐 0.13mg/PTP",
+			"dl_name_en": "Cinoca N Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/153495248483200062.jpg",
+			"dl_material": "벨라돈나총알카로이드|클로르페니라민말레산염|페닐레프린염산염",
+			"dl_material_en": "Belladonna Total Alkaloid| Phenylephrine Hydrochloride| Chlorpheniramine Maleate",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "현대약품(주)",
+			"dl_company_en": "Hyundai Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200103013,
+			"di_item_permit_date": "20010628",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642000610",
+			"chart": "백색의 분말이 든 상부는 담청색, 하부는 백색의 경질 캡슐제",
+			"drug_shape": "장방형",
+			"thick": 6.9,
+			"leng_long": 19.1,
+			"leng_short": 6.5,
+			"print_front": "현대약품 시노카N",
+			"print_back": "",
+			"color_class1": "파랑",
+			"color_class2": "하양",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20180810",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20160523",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 104922,
+			"iscrowd": 0,
+			"bbox": [
+				210,
+				534,
+				522,
+				201
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

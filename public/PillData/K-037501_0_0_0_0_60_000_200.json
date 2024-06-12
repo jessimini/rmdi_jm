@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-037501_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-037501_0_0_0_0_60_000_200.png",
+			"drug_N": "K-037501",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201506816",
+			"leng_long": "19.44",
+			"leng_short": "8.74",
+			"thick": "7.42",
+			"id": 1,
+			"dl_idx": "37500",
+			"dl_mapping_code": "K-037501",
+			"dl_name": "센티렉스어드밴스정 650.132mg/병",
+			"dl_name_en": "Centirex Advance Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NCzXnoXF28.jpg",
+			"dl_material": "",
+			"dl_material_en": "Anhydrous Dibasic Calcium Phosphate| Ascorbic Acid Gr. 97%| Calcium Carbonate Gr. 95%| Calcium Pantothenate| Cholecalciferol Mixture| Chromic Chloride Hydrate| Copper Sulfate| Cyanocobalamin 1%| D-Biotin 1%| Ferrous Fumarate| Folic Acid| Magnesium Oxide| Manganese Sulfate| Nicotinamide 99.5%| Phytonadione 5%| Potassium Iodide| Pyridoxine Hydrochloride| Riboflavin| Sodium Molybdate Hydrate| Sodium Selenate| Thiamine Nitrate| Tocopherol Acetate 50%| Vitamin A Acetate Granule| Zinc Oxide| β-Carotene 20% Gr.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)글락소스미스클라인컨슈머헬스케어코리아",
+			"dl_company_en": "Gsk Consumer Healthcare Korea",
+			"di_company_mf": "Pfizer Biotech Corporation Hsinchu Plant",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20150925",
+			"di_class_no": "[03190]기타의 비타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "648902890",
+			"chart": "보라색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"print_front": "T분할선7",
+			"print_back": "C",
+			"color_class1": "보라",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20161021",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20160713"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 155701,
+			"iscrowd": 0,
+			"bbox": [
+				321,
+				391,
+				413,
+				377
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

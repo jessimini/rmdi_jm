@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-038106_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-038106_0_0_0_0_60_000_200.png",
+			"drug_N": "K-038106",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201508554",
+			"leng_long": "19.4",
+			"leng_short": "9.7",
+			"thick": "8.6",
+			"id": 1,
+			"dl_idx": "38105",
+			"dl_mapping_code": "K-038106",
+			"dl_name": "슈가메트서방정 2.5/850mg",
+			"dl_name_en": "Sugamet XR Tab. 2.5/850mg",
+			"img_key": "http://connectdi.com/design/img/drug/1MiDE72HYDv.jpg",
+			"dl_material": "메트포르민염산염|에보글립틴타르타르산염",
+			"dl_material_en": "Evogliptin Tartrate| Metformin Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20151231",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642507350",
+			"chart": "속방층과 서방층으로 이루어진 연한 분홍색의 타원형 필름코팅 정제",
+			"drug_shape": "타원형",
+			"print_front": "SMH",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20190530",
+			"form_code_name": "다층정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201229"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 144303,
+			"iscrowd": 0,
+			"bbox": [
+				312,
+				440,
+				467,
+				309
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

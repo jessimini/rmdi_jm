@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005850_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005850_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005850",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "5849",
+			"dl_mapping_code": "K-005850",
+			"dl_name": "크래밍정(수출명:MigralTab.)",
+			"dl_name_en": "Craming Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154599010139700020.jpg",
+			"dl_material": "에르고타민타르타르산염|카페인무수물",
+			"dl_material_en": "Caffeine Anhydrous| Ergotamine Tartrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "지엘파마(주)",
+			"dl_company_en": "Glpharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199602669,
+			"di_item_permit_date": "19961017",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "649700890,A31050241",
+			"chart": "적색을 띤 분홍색의 정제",
+			"drug_shape": "원형",
+			"thick": 3.8,
+			"leng_long": 9.12,
+			"leng_short": 9.12,
+			"print_front": "마크",
+			"print_back": "분할선",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20051118",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "craming",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938654295100101.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201204",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 52899,
+			"iscrowd": 0,
+			"bbox": [
+				366,
+				484,
+				231,
+				229
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

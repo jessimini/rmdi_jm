@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-032167_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-032167_0_0_0_0_60_000_200.png",
+			"drug_N": "K-032167",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "32166",
+			"dl_mapping_code": "K-032167",
+			"dl_name": "덱시드정 480mg",
+			"dl_name_en": "Dexid Tab. 480mg",
+			"img_key": "http://connectdi.com/design/img/drug/147426799381700002.jpg",
+			"dl_material": "알티옥트산트로메타민염",
+			"dl_material_en": "R-Thioctic Acid Tromethamine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "부광약품(주)",
+			"dl_company_en": "Bukwang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201310244,
+			"di_item_permit_date": "20131121",
+			"di_class_no": "[03990]따로 분류되지 않는 대사성 의약품",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642203380",
+			"chart": "연두색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 5.8,
+			"leng_long": 15.66,
+			"leng_short": 7.81,
+			"print_front": "RT",
+			"print_back": "",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20140121",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201208",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 89148,
+			"iscrowd": 0,
+			"bbox": [
+				310,
+				500,
+				391,
+				228
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

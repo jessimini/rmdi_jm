@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-019790_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-019790_0_0_0_0_60_000_200.png",
+			"drug_N": "K-019790",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200608307",
+			"leng_long": "8.4",
+			"leng_short": "6",
+			"thick": "4.2",
+			"id": 1,
+			"dl_idx": "19789",
+			"dl_mapping_code": "K-019790",
+			"dl_name": "클로미딘정 100mg/병",
+			"dl_name_en": "Clomidine TAB.",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6P_U.jpg",
+			"dl_material": "건조레드클로버엑스",
+			"dl_material_en": "Red Clover Dried Ext.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)서울제약",
+			"dl_company_en": "Seoul Pharmaceuticals",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20061012",
+			"di_class_no": "[03980]종합대사성제제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "652901720",
+			"chart": "클로버 모양의 분홍색 필름코팅정",
+			"drug_shape": "기타",
+			"print_front": "CL",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20090716",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20100330"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 43036,
+			"iscrowd": 0,
+			"bbox": [
+				376,
+				560,
+				212,
+				203
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

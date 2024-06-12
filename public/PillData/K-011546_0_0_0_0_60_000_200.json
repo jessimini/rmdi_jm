@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011546_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011546_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011546",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11545",
+			"dl_mapping_code": "K-011546",
+			"dl_name": "파이네신캡슐 490mg/PTP",
+			"dl_name_en": "Painesin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147427768615900177.jpg",
+			"dl_material": "은교산건조엑스",
+			"dl_material_en": "은교산 건조엑스| lonicerae flos| mentha herb| platycodi radix| licorice| lophatheri herba| schizonepeta spica| sojae semen praeparatum| arctium fruit| antelopis cornu",
+			"dl_custom_shape": "",
+			"dl_company": "정우신약(주)",
+			"dl_company_en": "Jungwoo Medicines",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200200423,
+			"di_item_permit_date": "20020516",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "갈색의 분말이 충전된 상 녹색불투명·하 미황색불투명의 캅셀제.",
+			"drug_shape": "장방형",
+			"thick": 7.64,
+			"leng_long": 21.4,
+			"leng_short": 7.33,
+			"print_front": "JW3 JW3",
+			"print_back": "",
+			"color_class1": "초록",
+			"color_class2": "노랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081218",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20111127",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 115878,
+			"iscrowd": 0,
+			"bbox": [
+				263,
+				472,
+				534,
+				217
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

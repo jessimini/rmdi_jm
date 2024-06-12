@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-019469_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-019469_0_0_0_0_60_000_200.png",
+			"drug_N": "K-019469",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "19468",
+			"dl_mapping_code": "K-019469",
+			"dl_name": "큐레틴정(빌베리건조엑스)",
+			"dl_name_en": "Qretin Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428234068200039.jpg",
+			"dl_material": "빌베리건조엑스",
+			"dl_material_en": "Bilberry Dried Ext.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)태준제약",
+			"dl_company_en": "Taejoon Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200607018,
+			"di_item_permit_date": "20061009",
+			"di_class_no": "[01310]안과용제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "650101140,A28302561",
+			"chart": "적갈색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 5.65,
+			"leng_long": 12.84,
+			"leng_short": 7.6,
+			"print_front": "QRT",
+			"print_back": "분할선",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20070330",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130129",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 72657,
+			"iscrowd": 0,
+			"bbox": [
+				350,
+				490,
+				299,
+				243
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

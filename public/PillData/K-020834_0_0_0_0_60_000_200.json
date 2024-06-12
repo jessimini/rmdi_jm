@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-020834_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-020834_0_0_0_0_60_000_200.png",
+			"drug_N": "K-020834",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "20833",
+			"dl_mapping_code": "K-020834",
+			"dl_name": "디오반필름코팅정 320mg",
+			"dl_name_en": "Diovan Film Coated Tab. 320mg",
+			"img_key": "http://connectdi.com/design/img/drug/1MecIOjA6ZF.jpg",
+			"dl_material": "발사르탄",
+			"dl_material_en": "Valsartan",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한국노바티스(주)",
+			"dl_company_en": "Novartis Korea",
+			"di_company_mf": "Novartis Pharma Stein AG, Novartis Farmaceutica SA",
+			"di_company_mf_en": "",
+			"item_seq": 200703598,
+			"di_item_permit_date": "20070328",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "653600190,E01631471",
+			"chart": " 어두운 회색빛을 띠는 보라색의 둥근 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 5.7,
+			"leng_long": 17.6,
+			"leng_short": 8.1,
+			"print_front": "NVR",
+			"print_back": "DXL",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20070518",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200110",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 103569,
+			"iscrowd": 0,
+			"bbox": [
+				315,
+				520,
+				437,
+				237
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

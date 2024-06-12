@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-028468_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-028468_0_0_0_0_60_000_200.png",
+			"drug_N": "K-028468",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201103424",
+			"leng_long": "6.7",
+			"leng_short": "6.7",
+			"thick": "3.2",
+			"id": 1,
+			"dl_idx": "28467",
+			"dl_mapping_code": "K-028468",
+			"dl_name": "피타로우정 2mg",
+			"dl_name_en": "",
+			"img_key": "http://connectdi.com/design/img/drug/1NDmwB5AqlB.jpg",
+			"dl_material": "피타바스타틴칼슘",
+			"dl_material_en": "",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)종근당",
+			"dl_company_en": "Chong Kun Dang Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20110524",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643306060",
+			"chart": "분홍색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "PITA",
+			"print_back": "분할선",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20120522",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210419"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 29754,
+			"iscrowd": 0,
+			"bbox": [
+				376,
+				529,
+				171,
+				174
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

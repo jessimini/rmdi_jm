@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-028864_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-028864_0_0_0_0_60_000_200.png",
+			"drug_N": "K-028864",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "28863",
+			"dl_mapping_code": "K-028864",
+			"dl_name": "글리멜엠정 1/250mg",
+			"dl_name_en": "Glimel-M Tab. ",
+			"img_key": "http://connectdi.com/design/img/drug/147426575880200112.jpg",
+			"dl_material": "글리메피리드|메트포르민염산염",
+			"dl_material_en": "",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "한화제약(주)",
+			"di_company_mf_en": "Hanwha Pharma",
+			"item_seq": 201107526,
+			"di_item_permit_date": "20110929",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642506660",
+			"chart": "흰색의 장방형 필름코팅정제",
+			"drug_shape": "타원형",
+			"thick": 4.5,
+			"leng_long": 12.2,
+			"leng_short": 6.7,
+			"print_front": "GLM12",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20111114",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200420",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 63072,
+			"iscrowd": 0,
+			"bbox": [
+				338,
+				511,
+				292,
+				216
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

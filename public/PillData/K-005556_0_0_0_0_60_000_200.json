@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005556_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005556_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005556",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199600581",
+			"leng_long": "15.0",
+			"leng_short": "15.0",
+			"thick": "4.6",
+			"id": 1,
+			"dl_idx": "5555",
+			"dl_mapping_code": "K-005556",
+			"dl_name": "바이탈씨에프정 515.5mg/PTP",
+			"dl_name_en": "Vital-CF Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154601167157200105.jpg",
+			"dl_material": "아스코르브산과립97%|리보플라빈부티레이트|피리독신염산염|토코페롤아세테이트 2배산",
+			"dl_material_en": "Ascorbic Acid Gr. 97%| Pyridoxine Hydrochloride 97% Gr.| Riboflavin Butyrate| Tocopherol Acetate 50%",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19961001",
+			"di_class_no": "[03140]비타민 C 및 P제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642100570",
+			"chart": "미황색의 씹어먹는 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "YH",
+			"print_back": "V-C",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "추어블정(저작정)",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191202"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 145097,
+			"iscrowd": 0,
+			"bbox": [
+				363,
+				456,
+				389,
+				373
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

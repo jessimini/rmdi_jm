@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007388_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007388_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007388",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "7387",
+			"dl_mapping_code": "K-007388",
+			"dl_name": "크라운세티리진염산염정(군납용)",
+			"dl_name_en": "Cetirizine HCl Tab. 10mg Crown",
+			"img_key": "http://connectdi.com/design/img/drug/1Mxwka5v0_B.jpg",
+			"dl_material": "세티리진염산염",
+			"dl_material_en": "Ceftibuten Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "지엘파마(주)",
+			"dl_company_en": "Glpharma",
+			"di_company_mf": "(주)바스칸바이오제약",
+			"di_company_mf_en": "Baskhanbio Pharma",
+			"item_seq": 199803095,
+			"di_item_permit_date": "19981127",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "649700750,A31050471",
+			"chart": "흰색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"thick": 3.58,
+			"leng_long": 10.72,
+			"leng_short": 4.54,
+			"print_front": "CTZ",
+			"print_back": "마크",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20051014",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "CROWN,왕관",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "http://connectdi.com/design/img/drug/147938654295100044.jpg",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210212",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 29670,
+			"iscrowd": 0,
+			"bbox": [
+				356,
+				519,
+				230,
+				129
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007348_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007348_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007348",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199802671",
+			"leng_long": "8.8",
+			"leng_short": "8.8",
+			"thick": "4.8",
+			"id": 1,
+			"dl_idx": "7347",
+			"dl_mapping_code": "K-007348",
+			"dl_name": "리보테인정 33.33mg/PTP",
+			"dl_name_en": "Riboteine Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/151853651029700034.jpg",
+			"dl_material": "리보플라빈부티레이트|피리독신염산염|니코틴산아미드|비오틴|L-시스테인",
+			"dl_material_en": "Pyridoxine Hydrochloride| Biotin| L-Cysteine| Nicotinamide| Riboflavin Butyrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "조아제약(주)",
+			"dl_company_en": "Cho-A Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19981010",
+			"di_class_no": "[03130]비타민 B제(비타민 B1을 제외)",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "644600190",
+			"chart": "분홍색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "CARB",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080526",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20140430"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 52670,
+			"iscrowd": 0,
+			"bbox": [
+				388,
+				468,
+				230,
+				229
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

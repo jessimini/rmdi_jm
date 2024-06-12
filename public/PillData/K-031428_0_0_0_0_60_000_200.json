@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-031428_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-031428_0_0_0_0_60_000_200.png",
+			"drug_N": "K-031428",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "31427",
+			"dl_mapping_code": "K-031428",
+			"dl_name": "올로스타정 20/10mg",
+			"dl_name_en": "Olostar Tab. 20/10mg",
+			"img_key": "http://connectdi.com/design/img/drug/148111338421000121.jpg",
+			"dl_material": "로수바스타틴칼슘|올메사탄메독소밀",
+			"dl_material_en": "Olmesartan Medoxomil| Rosuvastatin Calcium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201308278,
+			"di_item_permit_date": "20130718",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641605690",
+			"chart": "흰색 또는 미황색의 원형 필름코팅정제",
+			"drug_shape": "원형",
+			"thick": 6.34,
+			"leng_long": 9.66,
+			"leng_short": 9.66,
+			"print_front": "OL 20RO 10",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20140310",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210719",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 63455,
+			"iscrowd": 0,
+			"bbox": [
+				374,
+				456,
+				245,
+				259
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

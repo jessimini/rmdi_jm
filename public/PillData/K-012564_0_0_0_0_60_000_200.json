@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-012564_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-012564_0_0_0_0_60_000_200.png",
+			"drug_N": "K-012564",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "12563",
+			"dl_mapping_code": "K-012564",
+			"dl_name": "케토스테릴정",
+			"dl_name_en": "Ketosteril Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428009393000034.jpg",
+			"dl_material": "L-리신아세트산염|L-트레오닌|L-트립토판|L-티로신|L-히스티딘|α-케토-DL-이소류신칼슘|α-케토류신칼슘|α-케토발린칼슘|α-케토페닐알라닌칼슘|α-히드록시-DL-메티오닌칼슘",
+			"dl_material_en": "L-Histidine| L-Lysine Acetate| L-Threonine| L-Tryptophan| L-Tyrosine| α-Hydroxy-DL-Methionine Calcium| α-Keto Valine Calcium| α-Keto-DL-Isoleucine Calcium| α-Keto-Leucine Calcium| α-Ketophenylalanine Calcium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "프레지니우스카비코리아(주)",
+			"dl_company_en": "Fresenius Kabi Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200210593,
+			"di_item_permit_date": "20020704",
+			"di_class_no": "[03250]단백아미노산제제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "650901060,E50310111",
+			"chart": "긴 타원형의 광택이 있는 황색 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 7,
+			"leng_long": 17,
+			"leng_short": 6.5,
+			"print_front": "",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20060106",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20090717",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 138303,
+			"iscrowd": 0,
+			"bbox": [
+				274,
+				377,
+				381,
+				363
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

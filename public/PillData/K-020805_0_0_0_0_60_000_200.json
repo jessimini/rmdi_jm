@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-020805_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-020805_0_0_0_0_60_000_200.png",
+			"drug_N": "K-020805",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "20804",
+			"dl_mapping_code": "K-020805",
+			"dl_name": "캐롤에프정 368.9mg/PTP",
+			"dl_name_en": "Carol-F Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6HaN.jpg",
+			"dl_material": "이부프로펜아르기닌",
+			"dl_material_en": "Ibuprofen arginine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "일동제약(주)",
+			"dl_company_en": "Ildong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200703429,
+			"di_item_permit_date": "20070326",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642902060",
+			"chart": "이 약은 연분홍색의 장방형 필름코팅정이다.",
+			"drug_shape": "타원형",
+			"thick": 6.4,
+			"leng_long": 15.8,
+			"leng_short": 8.6,
+			"print_front": "ID C·F",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120403",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190522",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 102200,
+			"iscrowd": 0,
+			"bbox": [
+				382,
+				447,
+				292,
+				350
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

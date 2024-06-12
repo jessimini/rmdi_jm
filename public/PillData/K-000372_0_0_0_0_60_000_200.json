@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000372_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000372_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000372",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "197600539",
+			"leng_long": "19",
+			"leng_short": "19",
+			"thick": "6",
+			"id": 1,
+			"dl_idx": "371",
+			"dl_mapping_code": "K-000372",
+			"dl_name": "세가톤트로키 1.5mg/PTP",
+			"dl_name_en": "Cegaton Troche",
+			"img_key": "http://connectdi.com/design/img/drug/1MaAIzBwRVi.jpg",
+			"dl_material": "염화세칠피리디늄",
+			"dl_material_en": "Cetylpyridinium Chloride Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "알파제약(주)",
+			"dl_company_en": "Al Pha",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19760209",
+			"di_class_no": "[02310]치과구강용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "654200320",
+			"chart": "황색의 원형 트로키제임.",
+			"drug_shape": "원형",
+			"print_front": "A",
+			"print_back": "A",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20090629",
+			"form_code_name": "트로키제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200330"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 233168,
+			"iscrowd": 0,
+			"bbox": [
+				267,
+				415,
+				472,
+				494
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

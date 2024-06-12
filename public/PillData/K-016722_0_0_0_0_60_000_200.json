@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016722_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016722_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016722",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "16721",
+			"dl_mapping_code": "K-016722",
+			"dl_name": "씨콜드코프정 200mg/PTP",
+			"dl_name_en": "C Cold Cough Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428288104000045.jpg",
+			"dl_material": "아세트아미노펜|구아이페네신|슈도에페드린염산염|클로페라스틴염산염|dl-메틸에페드린염산염|아스코르브산과립97%",
+			"dl_material_en": "Acetaminophen| Ascorbic Acid Gr. 97%| Cloperastine Hydrochloride| DL-Methylephedrine Hydrochloride| Guaifenesin| Pseudoephedrine Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200500554,
+			"di_item_permit_date": "20050614",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "641601720",
+			"chart": "녹색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 6,
+			"leng_long": 10.85,
+			"leng_short": 10.85,
+			"print_front": "CC",
+			"print_back": "",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080111",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191104",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 79523,
+			"iscrowd": 0,
+			"bbox": [
+				386,
+				465,
+				283,
+				281
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

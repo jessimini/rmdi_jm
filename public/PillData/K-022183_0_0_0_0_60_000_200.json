@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-022183_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-022183_0_0_0_0_60_000_200.png",
+			"drug_N": "K-022183",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200709913",
+			"leng_long": "14.9",
+			"leng_short": "8.5",
+			"thick": "6",
+			"id": 1,
+			"dl_idx": "22182",
+			"dl_mapping_code": "K-022183",
+			"dl_name": "제스판골드정 80mg/PTP",
+			"dl_name_en": "Zesfan Gold Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428248730900189.jpg",
+			"dl_material": "디아스타제·프로테아제·셀룰라제|프로자임|디메티콘|판크레아틴|DL-카르니틴염산염",
+			"dl_material_en": "DL-Carnitine Hydrochloride| Pancreatin I| Prozyme| Biodiastase| Dimethicone",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "(주)종근당",
+			"dl_company_en": "Chong Kun Dang Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20070829",
+			"di_class_no": "[02330]건위소화제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "643302430",
+			"chart": "녹색의 장방형 장용성 필름코팅정",
+			"drug_shape": "장방형",
+			"print_front": "ZPG",
+			"print_back": "",
+			"color_class1": "초록",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20070911",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120614"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 92628,
+			"iscrowd": 0,
+			"bbox": [
+				256,
+				474,
+				372,
+				249
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

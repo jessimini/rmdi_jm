@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-003078_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-003078_0_0_0_0_60_000_200.png",
+			"drug_N": "K-003078",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "3077",
+			"dl_mapping_code": "K-003078",
+			"dl_name": "뮤코스텐캡슐 100mg",
+			"dl_name_en": "Mucosten Cap. 100mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427490112100092.jpg",
+			"dl_material": "아세틸시스테인",
+			"dl_material_en": "Acetylcysteine",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "(주)메디카코리아",
+			"dl_company_en": "Medica Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199001080,
+			"di_item_permit_date": "19900711",
+			"di_class_no": "[02220]진해거담제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "646001100,A10001941",
+			"chart": "흰색의 분말이 든 상부 녹색, 하부 흰색의 경질캡슐제",
+			"drug_shape": "장방형",
+			"thick": 6.91,
+			"leng_long": 19.1,
+			"leng_short": 6.63,
+			"print_front": "MK MU1",
+			"print_back": "",
+			"color_class1": "초록",
+			"color_class2": "하양",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050324",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20151217",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 85794,
+			"iscrowd": 0,
+			"bbox": [
+				272,
+				470,
+				474,
+				181
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

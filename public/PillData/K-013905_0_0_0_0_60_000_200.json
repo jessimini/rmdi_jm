@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-013905_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-013905_0_0_0_0_60_000_200.png",
+			"drug_N": "K-013905",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "13904",
+			"dl_mapping_code": "K-013905",
+			"dl_name": "이소켓서방정 40mg",
+			"dl_name_en": "Isoket SR Tab. 40mg",
+			"img_key": "http://connectdi.com/design/img/drug/150885309980600040.jpg",
+			"dl_material": "이소소르비드이질산염",
+			"dl_material_en": "Isosorbide Dinitrate",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "에리슨제약(주)",
+			"dl_company_en": "Elyson Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200308343,
+			"di_item_permit_date": "20031120",
+			"di_class_no": "[02170]혈관확장제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "620500240,654100310",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 2.5,
+			"leng_long": 10,
+			"leng_short": 10,
+			"print_front": "SCHWARZPHARMA",
+			"print_back": "IR분할선40",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "서방정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200526",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 55225,
+			"iscrowd": 0,
+			"bbox": [
+				368,
+				481,
+				235,
+				235
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

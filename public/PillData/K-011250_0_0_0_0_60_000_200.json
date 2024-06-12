@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011250_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011250_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011250",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11249",
+			"dl_mapping_code": "K-011250",
+			"dl_name": "콩코르정 2.5mg",
+			"dl_name_en": "Concor Tab. 2.5mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427748827800046.jpg",
+			"dl_material": "비소프롤롤푸마르산염",
+			"dl_material_en": "Bisoprolol Fumarate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "머크(주)",
+			"dl_company_en": "Merck",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200108739,
+			"di_item_permit_date": "20010518",
+			"di_class_no": "[02110]강심제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "661700390,E01620021",
+			"chart": "양쪽에 절취하는 홈이 있는 볼록한 심장형의 순백색필름코팅정제",
+			"drug_shape": "기타",
+			"thick": 1.5,
+			"leng_long": 8,
+			"leng_short": 7,
+			"print_front": "분할선",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "-",
+			"img_regist_ts": "20050207",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200928",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 36091,
+			"iscrowd": 0,
+			"bbox": [
+				387,
+				470,
+				187,
+				193
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

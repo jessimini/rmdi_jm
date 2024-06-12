@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-004744_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-004744_0_0_0_0_60_000_200.png",
+			"drug_N": "K-004744",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "4743",
+			"dl_mapping_code": "K-004744",
+			"dl_name": "베니톨정(미세정제플라보노이드분획물)",
+			"dl_name_en": "Venitol Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427587462000057.jpg",
+			"dl_material": "미세정제플라보노이드분획물",
+			"dl_material_en": "Purified and Micronized Flavonoid Fraction",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "광동제약(주)",
+			"dl_company_en": "Kwang Dong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199401695,
+			"di_item_permit_date": "19940715",
+			"di_class_no": "[02150]혈관보강제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "641801640,A22604971",
+			"chart": "주황색의 타원형의 필름코팅정제",
+			"drug_shape": "타원형",
+			"thick": 8.5,
+			"leng_long": 16.6,
+			"leng_short": 8.4,
+			"print_front": "KD",
+			"print_back": "113",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050929",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190618",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 102424,
+			"iscrowd": 0,
+			"bbox": [
+				329,
+				533,
+				413,
+				248
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

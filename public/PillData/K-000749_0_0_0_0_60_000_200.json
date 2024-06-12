@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000749_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000749_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000749",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "748",
+			"dl_mapping_code": "K-000749",
+			"dl_name": "베타록정(메토프롤롤타르타르산염)",
+			"dl_name_en": "Betaloc Tab. 100mg",
+			"img_key": "http://connectdi.com/design/img/drug/151317997027100154.jpg",
+			"dl_material": "메토프롤롤타르타르산염",
+			"dl_material_en": "Metoprolol Tartrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198100126,
+			"di_item_permit_date": "19810304",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642100610,A04503291",
+			"chart": "백색원형의 정제.",
+			"drug_shape": "원형",
+			"thick": 4.6,
+			"leng_long": 10,
+			"leng_short": 10,
+			"print_front": "A분할선mE",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191031",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 62194,
+			"iscrowd": 0,
+			"bbox": [
+				361,
+				479,
+				257,
+				242
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

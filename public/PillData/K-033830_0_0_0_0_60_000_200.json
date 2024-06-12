@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-033830_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-033830_0_0_0_0_60_000_200.png",
+			"drug_N": "K-033830",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "33829",
+			"dl_mapping_code": "K-033830",
+			"dl_name": "자디앙정 25mg",
+			"dl_name_en": "Jardiance Tab. 25mg",
+			"img_key": "http://connectdi.com/design/img/drug/147426906991700052.jpg",
+			"dl_material": "엠파글리플로진",
+			"dl_material_en": "Empagliflozin",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한국베링거인겔하임(주)",
+			"dl_company_en": "Boehringer Ingelheim Korea",
+			"di_company_mf": "Boehringer Ingelheim Ellas A.E.",
+			"di_company_mf_en": "",
+			"item_seq": 201403745,
+			"di_item_permit_date": "20140812",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "653501470",
+			"chart": "연한 노란색의 양면이 볼록한 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 3,
+			"leng_long": 10,
+			"leng_short": 6,
+			"print_front": "마크",
+			"print_back": "S 25",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20141003",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "집,화살,교회",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938647484100129.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210223",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 53098,
+			"iscrowd": 0,
+			"bbox": [
+				364,
+				480,
+				278,
+				191
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

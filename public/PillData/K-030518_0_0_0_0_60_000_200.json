@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-030518_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-030518_0_0_0_0_60_000_200.png",
+			"drug_N": "K-030518",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "30517",
+			"dl_mapping_code": "K-030518",
+			"dl_name": "화이투벤씨플러스캡슐 200mg/PTP",
+			"dl_name_en": "Whituben C Plus Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147426658237900052.jpg",
+			"dl_material": "아세트아미노펜|클로르페니라민말레산염|dl-메틸에페드린염산염|클로페라스틴염산염|카페인무수물|티아민질산염|리보플라빈|아스코르브산",
+			"dl_material_en": "Acetaminophen| Ascorbic Acid| Caffeine Anhydrous| Chlorpheniramine Maleate| Cloperastine Hydrochloride| DL-Methylephedrine Hydrochloride| Riboflavin| Thiamine Nitrate",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "동화약품(주)",
+			"dl_company_en": "Dong Wha Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201300045,
+			"di_item_permit_date": "20130104",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642706150",
+			"chart": "이 약은 노란색의 과립이 충전된 상부 연주홍색, 하부 담황색 경질 캡슐제이다.",
+			"drug_shape": "장방형",
+			"thick": 5.8,
+			"leng_long": 17.8,
+			"leng_short": 5.3,
+			"print_front": "TAK WTCC",
+			"print_back": "",
+			"color_class1": "빨강",
+			"color_class2": "노랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20130212",
+			"form_code_name": "경질캡슐제, 과립제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190321",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 99452,
+			"iscrowd": 0,
+			"bbox": [
+				216,
+				467,
+				529,
+				188
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

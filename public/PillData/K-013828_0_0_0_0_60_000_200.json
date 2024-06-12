@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-013828_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-013828_0_0_0_0_60_000_200.png",
+			"drug_N": "K-013828",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "13827",
+			"dl_mapping_code": "K-013828",
+			"dl_name": "마이폴틱장용정 360mg",
+			"dl_name_en": "Myfortic Enteric Coated Tab. 360mg",
+			"img_key": "http://connectdi.com/design/img/drug/1MecIOjA6BV.jpg",
+			"dl_material": "미코페놀레이트나트륨",
+			"dl_material_en": "Mycophenolate Sodium",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "한국노바티스(주)",
+			"dl_company_en": "Novartis Korea",
+			"di_company_mf": "Novartis Pharma Stein AG, Novartis Pharma Produktions GmbH",
+			"di_company_mf_en": "",
+			"item_seq": 200307806,
+			"di_item_permit_date": "20030823",
+			"di_class_no": "[01420]자격요법제(비특이성면역억제제를 포함)",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "653600410,E01631101",
+			"chart": "연한 오렌지 - 적색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 5,
+			"leng_long": 12,
+			"leng_short": 5,
+			"print_front": "CT",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200831",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 114814,
+			"iscrowd": 0,
+			"bbox": [
+				326,
+				483,
+				413,
+				278
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-018409_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-018409_0_0_0_0_60_000_200.png",
+			"drug_N": "K-018409",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "18408",
+			"dl_mapping_code": "K-018409",
+			"dl_name": "대웅푸루나졸정 150mg",
+			"dl_name_en": "Plunazol Tab. 150mg DaeWoong",
+			"img_key": "http://connectdi.com/design/img/drug/150946223524600041.jpg",
+			"dl_material": "플루코나졸",
+			"dl_material_en": "Fluconazole",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200600116,
+			"di_item_permit_date": "20060428",
+			"di_class_no": "[06290]기타의 화학요법제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641601050,A04304491",
+			"chart": "분홍색의 장방형 정제",
+			"drug_shape": "장방형",
+			"thick": 4.9,
+			"leng_long": 12.3,
+			"leng_short": 6,
+			"print_front": "D.W",
+			"print_back": "PLUNAZOL150",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20061110",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210625",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 63300,
+			"iscrowd": 0,
+			"bbox": [
+				356,
+				473,
+				300,
+				211
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

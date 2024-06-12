@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-037029_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-037029_0_0_0_0_60_000_200.png",
+			"drug_N": "K-037029",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201504984",
+			"leng_long": "17.74",
+			"leng_short": "7.36",
+			"thick": "5.41",
+			"id": 1,
+			"dl_idx": "37028",
+			"dl_mapping_code": "K-037029",
+			"dl_name": "글리돈정 350mg/PTP",
+			"dl_name_en": "GLYDON TAB",
+			"img_key": "http://connectdi.com/design/img/drug/147817681683600072.jpg",
+			"dl_material": "작약감초탕건조엑스|감초|작약",
+			"dl_material_en": "작약감초탕건조엑스| Licorice| Peony Root",
+			"dl_custom_shape": "",
+			"dl_company": "(유)한풍제약",
+			"dl_company_en": "Hanpoong Pharm & Foods",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20150721",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "갈색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"print_front": "GHC",
+			"print_back": "",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20161102",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20160601"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 100152,
+			"iscrowd": 0,
+			"bbox": [
+				250,
+				484,
+				428,
+				234
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

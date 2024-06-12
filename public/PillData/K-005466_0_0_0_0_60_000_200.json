@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005466_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005466_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005466",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "5465",
+			"dl_mapping_code": "K-005466",
+			"dl_name": "베스자임정",
+			"dl_name_en": "Beszyme Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154730760479500022.jpg",
+			"dl_material": "디메티콘|판크레아틴|브로멜라인",
+			"dl_material_en": "Bromelain| Dimethicone| Pancreatin",
+			"dl_custom_shape": "",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199600246,
+			"di_item_permit_date": "19960507",
+			"di_class_no": "[02330]건위소화제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642502020,A01506711",
+			"chart": "이 약은 분홍색의 타원형의 장용성 내층을 포함하는 이중제피정이다.",
+			"drug_shape": "타원형",
+			"thick": 5.55,
+			"leng_long": 17.2,
+			"leng_short": 9.02,
+			"print_front": "BSZT",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200422",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 115630,
+			"iscrowd": 0,
+			"bbox": [
+				310,
+				445,
+				373,
+				310
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

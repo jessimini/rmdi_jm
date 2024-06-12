@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040336_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040336_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040336",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "40335",
+			"dl_mapping_code": "K-040336",
+			"dl_name": "투베로정30/5밀리그램",
+			"dl_name_en": "Tuvero Tab. 30/5mg",
+			"img_key": "http://connectdi.com/design/img/drug/147809066501400118.jpg",
+			"dl_material": "피마사르탄칼륨삼수화물과립|로수바스타틴칼슘",
+			"dl_material_en": "Fimasartan Potassium Trihydrate Granule| Rosuvastatin Calcium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "보령제약(주)",
+			"dl_company_en": "Boryung",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201605337,
+			"di_item_permit_date": "20160831",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641906560",
+			"chart": "흰색의 볼록한 팔각형 필름코팅정제",
+			"drug_shape": "팔각형",
+			"thick": 4.44,
+			"leng_long": 9.19,
+			"leng_short": 9.01,
+			"print_front": "F35",
+			"print_back": "R35",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20161026",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190826",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 59292,
+			"iscrowd": 0,
+			"bbox": [
+				359,
+				545,
+				243,
+				244
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007325_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007325_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007325",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "7324",
+			"dl_mapping_code": "K-007325",
+			"dl_name": "클래리정 250mg",
+			"dl_name_en": "Clari Tab. 250mg",
+			"img_key": "http://connectdi.com/design/img/drug/1Mv5PQjxq5j.jpg",
+			"dl_material": "클래리트로마이신",
+			"dl_material_en": "Clarithromycin",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199802438,
+			"di_item_permit_date": "19981112",
+			"di_class_no": "[06190]기타의 항생물질제제(복합항생물질제제를 포함)",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643502690,A21402901",
+			"chart": "노란색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 5.6,
+			"leng_long": 15.8,
+			"leng_short": 7.28,
+			"print_front": "HMP",
+			"print_back": "CL250",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041227",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200617",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 75480,
+			"iscrowd": 0,
+			"bbox": [
+				368,
+				406,
+				204,
+				370
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

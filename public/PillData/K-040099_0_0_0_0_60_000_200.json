@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040099_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040099_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040099",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "40098",
+			"dl_mapping_code": "K-040099",
+			"dl_name": "칸타벨정 16/10mg",
+			"dl_name_en": "Cantabell Tab. 16/10mg",
+			"img_key": "http://connectdi.com/design/img/drug/147446855372600137.jpg",
+			"dl_material": "칸데사르탄실렉세틸|암로디핀베실산염",
+			"dl_material_en": "Amlodipine Besylate| Candesartan Cilexetil",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)종근당",
+			"dl_company_en": "Chong Kun Dang Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201604622,
+			"di_item_permit_date": "20160726",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643307550",
+			"chart": "담적갈색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 4.18,
+			"leng_long": 9.13,
+			"leng_short": 9.13,
+			"print_front": "L31",
+			"print_back": "마크",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160909",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "클로버,+,꽃잎",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "http://connectdi.com/design/img/drug/147938669511100051.jpg",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200210",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 52668,
+			"iscrowd": 0,
+			"bbox": [
+				402,
+				465,
+				231,
+				228
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

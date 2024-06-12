@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016550_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016550_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016550",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200500253",
+			"leng_long": "8.8",
+			"leng_short": "6.3",
+			"thick": "3.35",
+			"id": 1,
+			"dl_idx": "16549",
+			"dl_mapping_code": "K-016550",
+			"dl_name": "오로디핀정(암로디핀오로트산염)",
+			"dl_name_en": "Orodipine Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150946223524600011.jpg",
+			"dl_material": "암로디핀오로트산염",
+			"dl_material_en": "Amlodipine Orotate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20050914",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642502930,A01508491",
+			"chart": "백색 또는 미황색의 팔각형 정제이다.",
+			"drug_shape": "팔각형",
+			"print_front": "DA",
+			"print_back": "OP분할선5",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20060612",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201229"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 39960,
+			"iscrowd": 0,
+			"bbox": [
+				377,
+				505,
+				222,
+				180
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

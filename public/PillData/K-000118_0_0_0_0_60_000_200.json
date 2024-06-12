@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000118_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000118_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000118",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "117",
+			"dl_mapping_code": "K-000118",
+			"dl_name": "다오닐정5mg(수출용)",
+			"dl_name_en": "Daonil Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150946443710600011.jpg",
+			"dl_material": "글리벤클라미드",
+			"dl_material_en": "Glibenclamide",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한독",
+			"dl_company_en": "Handok",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 197000068,
+			"di_item_permit_date": "19700601",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "652100130,A07401221",
+			"chart": "장방형 백색 정제",
+			"drug_shape": "장방형",
+			"thick": 2.8,
+			"leng_long": 10,
+			"leng_short": 5,
+			"print_front": "LDI분할선LDI",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20161228",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 45741,
+			"iscrowd": 0,
+			"bbox": [
+				355,
+				502,
+				237,
+				193
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

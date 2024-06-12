@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-025120_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-025120_0_0_0_0_60_000_200.png",
+			"drug_N": "K-025120",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200900207",
+			"leng_long": "10.7",
+			"leng_short": "4.4",
+			"thick": "3.3",
+			"id": 1,
+			"dl_idx": "25119",
+			"dl_mapping_code": "K-025120",
+			"dl_name": "세티스정 10mg/PTP",
+			"dl_name_en": "Cetis Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1MbDiGFWGJz.jpg",
+			"dl_material": "세티리진염산염",
+			"dl_material_en": "Ceftibuten Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한솔신약(주)",
+			"dl_company_en": "Hansol Pharm",
+			"di_company_mf": "(주)바스칸바이오제약",
+			"di_company_mf_en": "Baskhanbio Pharma",
+			"di_item_permit_date": "20090106",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645801480",
+			"chart": "흰색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"print_front": "T17",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20190228",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210212"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 37740,
+			"iscrowd": 0,
+			"bbox": [
+				392,
+				506,
+				222,
+				170
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

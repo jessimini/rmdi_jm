@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-004268_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-004268_0_0_0_0_60_000_200.png",
+			"drug_N": "K-004268",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199302061",
+			"leng_long": "7.2",
+			"leng_short": "7.2",
+			"thick": "3.4",
+			"id": 1,
+			"dl_idx": "4267",
+			"dl_mapping_code": "K-004268",
+			"dl_name": "듀오락스정 5mg/병",
+			"dl_name_en": "Duolax Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6SFg.jpg",
+			"dl_material": "도큐세이트나트륨|비사코딜",
+			"dl_material_en": "Bisacodyl| Docusate Sodium",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "영일제약(주)",
+			"dl_company_en": "Youngilpharm",
+			"di_company_mf": "경진제약(주)",
+			"di_company_mf_en": "Kyungjin Pharm",
+			"di_item_permit_date": "19930421",
+			"di_class_no": "[02380]하제, 완장제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "649400250",
+			"chart": "황색의 광택이 있는 장용성 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "YI",
+			"print_back": "24",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20180731",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200714"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 36456,
+			"iscrowd": 0,
+			"bbox": [
+				406,
+				513,
+				196,
+				186
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

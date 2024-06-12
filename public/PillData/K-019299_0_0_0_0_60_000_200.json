@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-019299_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-019299_0_0_0_0_60_000_200.png",
+			"drug_N": "K-019299",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200606294",
+			"leng_long": "17.49",
+			"leng_short": "9.23",
+			"thick": "6.77",
+			"id": 1,
+			"dl_idx": "19298",
+			"dl_mapping_code": "K-019299",
+			"dl_name": "동아가바펜틴정 600mg",
+			"dl_name_en": "Gabapentin Tab. 600mg Dong-A",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F66ng.jpg",
+			"dl_material": "가바펜틴",
+			"dl_material_en": "Gabapentin",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "(주)대웅제약",
+			"di_company_mf_en": "Daewoong Pharmaceutical",
+			"di_item_permit_date": "20060721",
+			"di_class_no": "[01130]항전간제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642505270,A01559671",
+			"chart": "흰색의 타원형필름코팅정",
+			"drug_shape": "타원형",
+			"print_front": "D분할선GT",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "-",
+			"img_regist_ts": "20101229",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190124"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 126248,
+			"iscrowd": 0,
+			"bbox": [
+				303,
+				428,
+				367,
+				344
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

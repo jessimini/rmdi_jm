@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-023337_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023337_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023337",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "23336",
+			"dl_mapping_code": "K-023337",
+			"dl_name": "아리셉트에비스정 10mg",
+			"dl_name_en": "Aricept Evess Tab. 10mg",
+			"img_key": "http://connectdi.com/design/img/drug/1N6T3OpVng7.jpg",
+			"dl_material": "도네페질염산염",
+			"dl_material_en": "Donepezil Hydrochloride",
+			"dl_custom_shape": "확산정, 속붕정, 구강붕해정",
+			"dl_company": "(주)한독",
+			"dl_company_en": "Handok",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200802980,
+			"di_item_permit_date": "20080319",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641602910,652105790,A04305791",
+			"chart": "황색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 4,
+			"leng_long": 9.5,
+			"leng_short": 9.5,
+			"print_front": "ARICEPT",
+			"print_back": "10",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081216",
+			"form_code_name": "구강붕해정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190721",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 61488,
+			"iscrowd": 0,
+			"bbox": [
+				400,
+				504,
+				244,
+				252
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

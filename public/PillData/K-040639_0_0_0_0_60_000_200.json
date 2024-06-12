@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040639_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040639_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040639",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201606307",
+			"leng_long": "14.07",
+			"leng_short": "6.87",
+			"thick": "5.35",
+			"id": 1,
+			"dl_idx": "40638",
+			"dl_mapping_code": "K-040639",
+			"dl_name": "트윈콤비정 40/5mg",
+			"dl_name_en": "Twyncombi Tab. 40/5mg",
+			"img_key": "http://connectdi.com/design/img/drug/148007764007400007.jpg",
+			"dl_material": "텔미사르탄|암로디핀베실산염",
+			"dl_material_en": "Amlodipine Besylate| Telmisartan　",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대원제약(주)",
+			"dl_company_en": "Daewon Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20161027",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "671806370",
+			"chart": "흰색 내지 미황색과 연한 파란색의 양면이 볼록한 타원형 이중정",
+			"drug_shape": "타원형",
+			"print_front": "A01",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "파랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20161124",
+			"form_code_name": "다층정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200914"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 86730,
+			"iscrowd": 0,
+			"bbox": [
+				362,
+				490,
+				295,
+				294
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

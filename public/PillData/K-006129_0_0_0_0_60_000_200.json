@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-006129_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-006129_0_0_0_0_60_000_200.png",
+			"drug_N": "K-006129",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "6128",
+			"dl_mapping_code": "K-006129",
+			"dl_name": "사미온정 30mg",
+			"dl_name_en": "Sermion Tab. 30mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427348400300061.jpg",
+			"dl_material": "니세르골린",
+			"dl_material_en": "Nicergoline",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "일동제약(주)",
+			"dl_company_en": "Ildong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199700555,
+			"di_item_permit_date": "19970328",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642900690,A03403981",
+			"chart": "황색의 필름제피정이다.",
+			"drug_shape": "원형",
+			"thick": 4.02,
+			"leng_long": 8.19,
+			"leng_short": 8.19,
+			"print_front": "ID",
+			"print_back": "분할선",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20050707",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210511",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 40376,
+			"iscrowd": 0,
+			"bbox": [
+				392,
+				496,
+				206,
+				196
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

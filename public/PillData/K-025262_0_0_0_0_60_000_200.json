@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-025262_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-025262_0_0_0_0_60_000_200.png",
+			"drug_N": "K-025262",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200901146",
+			"leng_long": "14.0",
+			"leng_short": "8.3",
+			"thick": "5.6",
+			"id": 1,
+			"dl_idx": "25261",
+			"dl_mapping_code": "K-025262",
+			"dl_name": "뉴클로정 125mg/PTP",
+			"dl_name_en": "Newclo Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/153002376642900093.jpg",
+			"dl_material": "클로닉신리시네이트",
+			"dl_material_en": "Clonixin Lysinate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한솔신약(주)",
+			"dl_company_en": "Hansol Pharm",
+			"di_company_mf": "미래제약(주)",
+			"di_company_mf_en": "Mirae Pharm Korea",
+			"di_item_permit_date": "20090209",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645801490",
+			"chart": "분홍색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"print_front": "T18",
+			"print_back": "",
+			"color_class1": "빨강",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20180621",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200630"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 90780,
+			"iscrowd": 0,
+			"bbox": [
+				338,
+				464,
+				340,
+				267
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

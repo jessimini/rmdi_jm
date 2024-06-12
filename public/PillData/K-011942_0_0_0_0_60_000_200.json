@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011942_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011942_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011942",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200201695",
+			"leng_long": "14",
+			"leng_short": "8",
+			"thick": "5.5",
+			"id": 1,
+			"dl_idx": "11941",
+			"dl_mapping_code": "K-011942",
+			"dl_name": "맥스펜정(덱시부프로펜디.씨)",
+			"dl_name_en": "Maxpen Tab. 300mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427975564100129.jpg",
+			"dl_material": "덱시부프로펜",
+			"dl_material_en": "Dexibuprofen D.C.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "오스틴제약(주)",
+			"dl_company_en": "Austin Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20020312",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "654300930,A15204061",
+			"chart": "흰색의 장방형 필름코팅정 ",
+			"drug_shape": "장방형",
+			"print_front": "WK21",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20051006",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190109"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 81624,
+			"iscrowd": 0,
+			"bbox": [
+				369,
+				423,
+				228,
+				358
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-015530_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-015530_0_0_0_0_60_000_200.png",
+			"drug_N": "K-015530",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "15529",
+			"dl_mapping_code": "K-015530",
+			"dl_name": "휴온스시메티딘정 200mg",
+			"dl_name_en": "Cimetidine Tab. 200mg Huons",
+			"img_key": "http://connectdi.com/design/img/drug/147428059700400021.jpg",
+			"dl_material": "시메티딘",
+			"dl_material_en": "Cimetidine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)휴온스",
+			"dl_company_en": "Huons",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200403137,
+			"di_item_permit_date": "20040513",
+			"di_class_no": "[02320]소화성궤양용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "670603190,A29555171",
+			"chart": "(내수용) 연녹색의 원형정제(수출용) 연한녹색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 4.9,
+			"leng_long": 9.1,
+			"leng_short": 9.1,
+			"print_front": "HS",
+			"print_back": "200",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20070724",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20151217",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 50600,
+			"iscrowd": 0,
+			"bbox": [
+				402,
+				472,
+				230,
+				220
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

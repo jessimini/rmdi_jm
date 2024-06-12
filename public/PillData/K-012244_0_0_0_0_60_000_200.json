@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-012244_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-012244_0_0_0_0_60_000_200.png",
+			"drug_N": "K-012244",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200202873",
+			"leng_long": "19.3",
+			"leng_short": "7.7",
+			"thick": "6.2",
+			"id": 1,
+			"dl_idx": "12243",
+			"dl_mapping_code": "K-012244",
+			"dl_name": "엔시드8시간이알서방정 650mg",
+			"dl_name_en": "Ensid 8 hours ER Tab. 650mg",
+			"img_key": "http://connectdi.com/design/img/drug/1N8nQbYPpWe.jpg",
+			"dl_material": "아세트아미노펜",
+			"dl_material_en": "Acetaminophen Encapsulated",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "한림제약(주)",
+			"dl_company_en": "Hanlim Pharm",
+			"di_company_mf": "콜마파마(주)",
+			"di_company_mf_en": "Kolmar Pharma",
+			"di_item_permit_date": "20021204",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645301160,A37850711",
+			"chart": "흰색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"print_front": "ENSIDER",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20181129"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 107880,
+			"iscrowd": 0,
+			"bbox": [
+				249,
+				480,
+				465,
+				232
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

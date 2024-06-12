@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-020330_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-020330_0_0_0_0_60_000_200.png",
+			"drug_N": "K-020330",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200701280",
+			"leng_long": "14.2",
+			"leng_short": "8.3",
+			"thick": "5.5",
+			"id": 1,
+			"dl_idx": "20329",
+			"dl_mapping_code": "K-020330",
+			"dl_name": "렉스펜정 300mg/PTP",
+			"dl_name_en": "Lexpen Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NZWOAuKk-Z.jpg",
+			"dl_material": "클로르족사존|아세트아미노펜",
+			"dl_material_en": "Acetaminophen| Chlorzoxazone",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한솔신약(주)",
+			"dl_company_en": "Hansol Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20070130",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645800080",
+			"chart": "흰색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"print_front": "T39",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20210413",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20150131"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 80850,
+			"iscrowd": 0,
+			"bbox": [
+				300,
+				480,
+				350,
+				231
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

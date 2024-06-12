@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-038957_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-038957_0_0_0_0_60_000_200.png",
+			"drug_N": "K-038957",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "38956",
+			"dl_mapping_code": "K-038957",
+			"dl_name": "엘레비트정 121mg/PTP",
+			"dl_name_en": "Elevit Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/149347908275600118.jpg",
+			"dl_material": "",
+			"dl_material_en": "Anhydrous Dibasic Calcium Phosphate| Biotin| Calcium Ascorbate Hydrate| Calcium Pantothenate| Cholecalciferol Concentrated Powder| Cupric Sulfate Anhydrous| Cyanocobalamin(1000倍散)| Ferrous Fumarate| Folic Acid| Light Magnesium Oxide| Magnesium Hydrogen Phosphate Hydrate| Manganse Sulfate Hydrate| Nicotinamide| Pyridoxine Hydrochloride(3倍散)| Retinol Palmitate Concentrated Powder| Riboflavin| Thiamine Nitrate| Tocopherol Acetate 50%| Zinc Sulfate Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "바이엘코리아(주)",
+			"dl_company_en": "Bayer Korea",
+			"di_company_mf": "Rottendorf Pharma GmbH",
+			"di_company_mf_en": "",
+			"item_seq": 201602683,
+			"di_item_permit_date": "20160516",
+			"di_class_no": "[03160]혼합비타민제(비타민AD 혼합제제를 제외)",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "641106030",
+			"chart": "미황색의 장방형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 8.41,
+			"leng_long": 19.24,
+			"leng_short": 9.09,
+			"print_front": "ELEVIT",
+			"print_back": "분할선",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20170426",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210113",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 113475,
+			"iscrowd": 0,
+			"bbox": [
+				358,
+				336,
+				255,
+				445
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

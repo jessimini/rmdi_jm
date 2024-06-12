@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-026581_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-026581_0_0_0_0_60_000_200.png",
+			"drug_N": "K-026581",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200906052",
+			"leng_long": null,
+			"leng_short": null,
+			"thick": null,
+			"id": 1,
+			"dl_idx": "26580",
+			"dl_mapping_code": "K-026581",
+			"dl_name": "속시판정 175mg/PTP",
+			"dl_name_en": "Soksipan Tab.",
+			"img_key": null,
+			"dl_material": "판크레아틴|헤미셀룰라제|디메치콘|우르소데옥시콜산",
+			"dl_material_en": "Dimethicone| Hemicellulase| Pancreatin| Ursodeoxycholic Acid",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "(주)녹십자",
+			"dl_company_en": "Green Cross Corp",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20090730",
+			"di_class_no": "[02330]건위소화제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "643603710",
+			"chart": null,
+			"drug_shape": null,
+			"print_front": null,
+			"print_back": null,
+			"color_class1": null,
+			"color_class2": null,
+			"line_front": null,
+			"line_back": null,
+			"img_regist_ts": null,
+			"form_code_name": null,
+			"mark_code_front_anal": null,
+			"mark_code_back_anal": null,
+			"mark_code_front_img": null,
+			"mark_code_back_img": null,
+			"mark_code_front": null,
+			"mark_code_back": null,
+			"change_date": null
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 76175,
+			"iscrowd": 0,
+			"bbox": [
+				348,
+				480,
+				277,
+				275
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

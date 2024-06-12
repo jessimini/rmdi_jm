@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040244_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040244_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040244",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201605000",
+			"leng_long": "13.32",
+			"leng_short": "7.51",
+			"thick": "4.84",
+			"id": 1,
+			"dl_idx": "40243",
+			"dl_mapping_code": "K-040244",
+			"dl_name": "슈가린정 200mg/병",
+			"dl_name_en": "Sugarin Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147978961711600009.jpg",
+			"dl_material": "아세트아미노펜|에페드린염산염|카페인무수물",
+			"dl_material_en": "Acetaminophen| Caffeine Anhydrous| Ephedrine Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "알리코제약(주)",
+			"dl_company_en": "Arlico",
+			"di_company_mf": "구주제약(주)",
+			"di_company_mf_en": "Guju",
+			"di_item_permit_date": "20160818",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "656004280",
+			"chart": "연두색의 타원형 정제",
+			"drug_shape": "타원형",
+			"print_front": "A분할선C",
+			"print_back": "S",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20161117",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190305"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 80518,
+			"iscrowd": 0,
+			"bbox": [
+				332,
+				465,
+				317,
+				254
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

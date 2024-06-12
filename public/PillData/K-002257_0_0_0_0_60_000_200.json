@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-002257_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-002257_0_0_0_0_60_000_200.png",
+			"drug_N": "K-002257",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "198800902",
+			"leng_long": "8.5",
+			"leng_short": "8.5",
+			"thick": "4",
+			"id": 1,
+			"dl_idx": "2256",
+			"dl_mapping_code": "K-002257",
+			"dl_name": "트리마정 200mg",
+			"dl_name_en": "Trima Tab. 200mg",
+			"img_key": "http://connectdi.com/design/img/drug/154065480340000011.jpg",
+			"dl_material": "트리메부틴말레산염",
+			"dl_material_en": "Trimebutine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "진양제약(주)",
+			"dl_company_en": "Jinyang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19880729",
+			"di_class_no": "[02390]기타의 소화기관용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "650301520,A10701101",
+			"chart": "연한 노란색의 원형정제",
+			"drug_shape": "원형",
+			"print_front": "Jy",
+			"print_back": "분할선",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20060306",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200930"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 45369,
+			"iscrowd": 0,
+			"bbox": [
+				374,
+				457,
+				213,
+				213
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

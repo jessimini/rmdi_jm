@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-015759_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-015759_0_0_0_0_60_000_200.png",
+			"drug_N": "K-015759",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200403655",
+			"leng_long": "6",
+			"leng_short": "6",
+			"thick": "1",
+			"id": 1,
+			"dl_idx": "15758",
+			"dl_mapping_code": "K-015759",
+			"dl_name": "에이스타정",
+			"dl_name_en": "A Star Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428038475100109.jpg",
+			"dl_material": "레바미피드",
+			"dl_material_en": "Rebamipide",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한국유나이티드제약(주)",
+			"dl_company_en": "Korea United Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20040131",
+			"di_class_no": "[02320]소화성궤양용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "644307960,661600280,A43900341",
+			"chart": "흰색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "RM",
+			"print_back": "UT",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20110113",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130422"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 46655,
+			"iscrowd": 0,
+			"bbox": [
+				370,
+				560,
+				217,
+				215
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-017258_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-017258_0_0_0_0_60_000_200.png",
+			"drug_N": "K-017258",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "17257",
+			"dl_mapping_code": "K-017258",
+			"dl_name": "씬지로이드정 0.15mg",
+			"dl_name_en": "Synthyroid Tab. 0.15mg",
+			"img_key": "http://connectdi.com/design/img/drug/1MksuF0DVpy.jpg",
+			"dl_material": "레보티록신나트륨수화물",
+			"dl_material_en": "Levothyroxine Sodium Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "부광약품(주)",
+			"dl_company_en": "Bukwang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200501664,
+			"di_item_permit_date": "20050831",
+			"di_class_no": "[02430]갑상선, 부갑상선호르몬제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642201360,A13150981",
+			"chart": "흰색의 타원형 정제",
+			"drug_shape": "타원형",
+			"thick": 3.8,
+			"leng_long": 11.3,
+			"leng_short": 6.3,
+			"print_front": "B분할선K",
+			"print_back": "150",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20190625",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210422",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 52234,
+			"iscrowd": 0,
+			"bbox": [
+				321,
+				541,
+				287,
+				182
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

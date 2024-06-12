@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-031974_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-031974_0_0_0_0_60_000_200.png",
+			"drug_N": "K-031974",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "31973",
+			"dl_mapping_code": "K-031974",
+			"dl_name": "메가트루골드정 25mg/병",
+			"dl_name_en": "Megatrue Gold Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1M-8WFxDrdL.jpg",
+			"dl_material": "",
+			"dl_material_en": "1% Cyanocobalamin Powder| 50% Tocopherol Acetate Powder| Ascorbic Acid Gr. 97%| Benfotiamine| Calcium Pantothenate| Cholecalciferol Gr.| Choline Bitartrate| Chondroitin Sulfate Sodium| D-Biotin 1%| Dibasic Calcium Phosphate Hydrate| Folic Acid| Inositol| Magnesium Oxide| Manganse Sulfate Hydrate| Molybden in Dried Yeast| Nicotinamide| Pyridoxine Hydrochloride| Riboflavin| Selenium in Dried Yeast| Ursodeoxycholic Acid| Zinc Oxide| β-Carotene 20% Gr.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201309612,
+			"di_item_permit_date": "20131010",
+			"di_class_no": "[03190]기타의 비타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642104390",
+			"chart": "분할선이 있는 갈색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6.4,
+			"leng_long": 18,
+			"leng_short": 8.9,
+			"print_front": "Y분할선H",
+			"print_back": "B-All",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20131127",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191212",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 114840,
+			"iscrowd": 0,
+			"bbox": [
+				269,
+				446,
+				440,
+				261
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

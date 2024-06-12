@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-010446_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-010446_0_0_0_0_60_000_200.png",
+			"drug_N": "K-010446",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "10445",
+			"dl_mapping_code": "K-010446",
+			"dl_name": "유한비타민씨정1000mg/PTP",
+			"dl_name_en": "Vitamin C Tab. 1000mg Yuhan",
+			"img_key": "http://connectdi.com/design/img/drug/147427738395000126.jpg",
+			"dl_material": "아스코르브산과립97%",
+			"dl_material_en": "Ascorbic Acid Gr. 97%",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200100586,
+			"di_item_permit_date": "20010212",
+			"di_class_no": "[03140]비타민 C 및 P제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642101540",
+			"chart": "백색의 장방형 정제 ",
+			"drug_shape": "장방형",
+			"thick": 6,
+			"leng_long": 19.2,
+			"leng_short": 9.3,
+			"print_front": "1000",
+			"print_back": "Y분할선H",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20120817",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190826",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 156618,
+			"iscrowd": 0,
+			"bbox": [
+				275,
+				492,
+				462,
+				339
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

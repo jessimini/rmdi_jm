@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-010158_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-010158_0_0_0_0_60_000_200.png",
+			"drug_N": "K-010158",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "10157",
+			"dl_mapping_code": "K-010158",
+			"dl_name": "젤로다정 500mg",
+			"dl_name_en": "Xeloda Tab. 500mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427677718300023.jpg",
+			"dl_material": "카페시타빈",
+			"dl_material_en": "Capecitabine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한국로슈",
+			"dl_company_en": "Roche Korea",
+			"di_company_mf": "Excella GmbH & Co. KG",
+			"di_company_mf_en": "",
+			"item_seq": 200008797,
+			"di_item_permit_date": "20000513",
+			"di_class_no": "[04210]항악성종양제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "645000400,E01840551",
+			"chart": "미홍색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6,
+			"leng_long": 16,
+			"leng_short": 8.5,
+			"print_front": "XELODA",
+			"print_back": "500",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210421",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 108472,
+			"iscrowd": 0,
+			"bbox": [
+				334,
+				430,
+				364,
+				298
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

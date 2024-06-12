@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011543_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011543_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011543",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200200406",
+			"leng_long": "9.8",
+			"leng_short": "9.8",
+			"thick": "4.7",
+			"id": 1,
+			"dl_idx": "11542",
+			"dl_mapping_code": "K-011543",
+			"dl_name": "이바내정 51.55mg/PTP",
+			"dl_name_en": "Ibane Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NeFqpW1gmR.jpg",
+			"dl_material": "리보플라빈부티레이트|피리독신염산염97%과립|아스코르브산97%과립|니코틴산아미드|비오틴1%|L-시스테인|의이인건조엑스",
+			"dl_material_en": "Coix Seed Dried Ext.| Ascorbic Acid Gr. 97%| Biotin 1%| L-Cysteine| Nicotinamide| Pyridoxine Hydrochloride 97% Gr.| Riboflavin Butyrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "정우신약(주)",
+			"dl_company_en": "Jungwoo Medicines",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20020411",
+			"di_class_no": "[03130]비타민 B제(비타민 B1을 제외)",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "694200050",
+			"chart": "갈색의 원형 필름코팅정제  ",
+			"drug_shape": "원형",
+			"print_front": "JW2",
+			"print_back": "",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20210607",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210330"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 62750,
+			"iscrowd": 0,
+			"bbox": [
+				320,
+				448,
+				251,
+				250
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

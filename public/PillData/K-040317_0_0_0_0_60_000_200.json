@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040317_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040317_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040317",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "40316",
+			"dl_mapping_code": "K-040317",
+			"dl_name": "헬스피온서방정 150mg",
+			"dl_name_en": "Healthpion ER Tab. 150mg",
+			"img_key": "http://connectdi.com/design/img/drug/147825848967300059.jpg",
+			"dl_material": "부프로피온염산염",
+			"dl_material_en": "Buflomedil Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "콜마파마(주)",
+			"di_company_mf_en": "Kolmar Pharma",
+			"item_seq": 201605174,
+			"di_item_permit_date": "20160830",
+			"di_class_no": "[01170]정신신경용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651904440",
+			"chart": "양면이 볼록한 흰색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 4.95,
+			"leng_long": 11.28,
+			"leng_short": 11.28,
+			"print_front": "HP",
+			"print_back": "MI",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20161024",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201215",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 76410,
+			"iscrowd": 0,
+			"bbox": [
+				361,
+				538,
+				283,
+				270
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

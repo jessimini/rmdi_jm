@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-001728_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-001728_0_0_0_0_60_000_200.png",
+			"drug_N": "K-001728",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "198601047",
+			"leng_long": "9.7",
+			"leng_short": "9.7",
+			"thick": "4.1",
+			"id": 1,
+			"dl_idx": "1727",
+			"dl_mapping_code": "K-001728",
+			"dl_name": "디크로닉정(클로닉신리시네이트)",
+			"dl_name_en": "Diclonic Tab. 125mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NXVKYFvlJJ.jpg",
+			"dl_material": "클로닉신리시네이트",
+			"dl_material_en": "Clonixin Lysinate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대화제약(주)",
+			"dl_company_en": "Dhpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19861117",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645600710,A15600691",
+			"chart": "하늘색의 원형 제피정",
+			"drug_shape": "원형",
+			"print_front": "마크",
+			"print_back": "DC125",
+			"color_class1": "파랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "dHP,d-P,d P,dP",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938640332900184.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180814"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 62499,
+			"iscrowd": 0,
+			"bbox": [
+				341,
+				490,
+				251,
+				249
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

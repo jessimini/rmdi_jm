@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011617_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011617_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011617",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11616",
+			"dl_mapping_code": "K-011617",
+			"dl_name": "모아코정 500mg/PTP",
+			"dl_name_en": "Moaco Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427753862000189.jpg",
+			"dl_material": "아세트아미노펜|슈도에페드린염산염|클로르페니라민말레산염",
+			"dl_material_en": "Acetaminophen| Chlorpheniramine Maleate| Pseudoephedrine Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "알리코제약(주)",
+			"dl_company_en": "Arlico",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200200677,
+			"di_item_permit_date": "20020404",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "656000390",
+			"chart": "흰색의 장방형 필름 코팅정",
+			"drug_shape": "장방형",
+			"thick": 5.5,
+			"leng_long": 17.3,
+			"leng_short": 7.8,
+			"print_front": "AC",
+			"print_back": "MO",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081030",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191104",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 115354,
+			"iscrowd": 0,
+			"bbox": [
+				309,
+				516,
+				421,
+				274
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

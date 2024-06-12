@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007923_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007923_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007923",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "7922",
+			"dl_mapping_code": "K-007923",
+			"dl_name": "콘로인캡슐(황산콘드로이틴나트륨)",
+			"dl_name_en": "Chonroin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/151317992996500142.jpg",
+			"dl_material": "콘드로이틴설페이트나트륨",
+			"dl_material_en": "Chondroitin Sulfate Sodium",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "삼진제약(주)",
+			"dl_company_en": "Samjinpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199901507,
+			"di_item_permit_date": "19990803",
+			"di_class_no": "[03990]따로 분류되지 않는 대사성 의약품",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "647802150,A12750771",
+			"chart": "흰색-유백색의 분말이 충진된 상부주황색, 하부담황색 캡슐제",
+			"drug_shape": "장방형",
+			"thick": 7.7,
+			"leng_long": 21.6,
+			"leng_short": 7.4,
+			"print_front": "SAMJIN CHONROIN",
+			"print_back": "",
+			"color_class1": "주황",
+			"color_class2": "노랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041126",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210208",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 150960,
+			"iscrowd": 0,
+			"bbox": [
+				215,
+				482,
+				510,
+				296
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

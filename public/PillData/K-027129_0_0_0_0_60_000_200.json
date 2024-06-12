@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-027129_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-027129_0_0_0_0_60_000_200.png",
+			"drug_N": "K-027129",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201001424",
+			"leng_long": "9.12",
+			"leng_short": "9.12",
+			"thick": "2.94",
+			"id": 1,
+			"dl_idx": "27128",
+			"dl_mapping_code": "K-027129",
+			"dl_name": "포타스틴오디정(비매품)",
+			"dl_name_en": "Potastine OD Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154661648918900130.jpg",
+			"dl_material": "베포타스틴칼슘이수화물",
+			"dl_material_en": "Bepotastine Calcium Dihydrate",
+			"dl_custom_shape": "확산정, 속붕정, 구강붕해정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20100211",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643505450",
+			"chart": "흰색 내지 미백색의 원형 구강붕해정",
+			"drug_shape": "원형",
+			"print_front": "7.79",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20100330",
+			"form_code_name": "구강붕해정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120108"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 49486,
+			"iscrowd": 0,
+			"bbox": [
+				383,
+				503,
+				227,
+				218
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-014409_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-014409_0_0_0_0_60_000_200.png",
+			"drug_N": "K-014409",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "14408",
+			"dl_mapping_code": "K-014409",
+			"dl_name": "비타콤비500정 515.46mg",
+			"dl_name_en": "Vitacombi 500 Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150834121591000022.jpg",
+			"dl_material": "아스코르브산과립|토코페롤아세테이트 2배산|폴산|티아민질산염|리보플라빈|니코틴산아미드|피리독신염산염|시아노코발라민|판토텐산칼슘|황산아연수화물",
+			"dl_material_en": "Pyridoxine Hydrochloride| Ascorbic Acid Coated| Calcium Pantothenate| Cyanocobalamin| Folic Acid| Nicotinamide| Riboflavin| Thiamine Nitrate| Tocopherol Acetate 50%| Zinc Sulfate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "알리코제약(주)",
+			"dl_company_en": "Arlico",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200400872,
+			"di_item_permit_date": "20040715",
+			"di_class_no": "[03160]혼합비타민제(비타민AD 혼합제제를 제외)",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "656000570",
+			"chart": "갈색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 6.1,
+			"leng_long": 18.7,
+			"leng_short": 7.9,
+			"print_front": "ΛL",
+			"print_back": "",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20071227",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20170405",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 150841,
+			"iscrowd": 0,
+			"bbox": [
+				274,
+				460,
+				467,
+				323
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

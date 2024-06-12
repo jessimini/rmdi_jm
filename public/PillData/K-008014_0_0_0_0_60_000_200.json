@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-008014_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-008014_0_0_0_0_60_000_200.png",
+			"drug_N": "K-008014",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "8013",
+			"dl_mapping_code": "K-008014",
+			"dl_name": "한신리페인캡슐 1g/PTP",
+			"dl_name_en": "Hanshin Repain Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147427533079100146.jpg",
+			"dl_material": "작약|감초",
+			"dl_material_en": "Licorice| Peony Root",
+			"dl_custom_shape": "",
+			"dl_company": "(주)한국신약",
+			"dl_company_en": "Han Kook Shin Yak",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199901886,
+			"di_item_permit_date": "19991016",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "암갈색의 분말이 충진된 상.하부 하늘색의 캡슐제",
+			"drug_shape": "장방형",
+			"thick": 7.5,
+			"leng_long": 21.3,
+			"leng_short": 7.5,
+			"print_front": "REP AIN",
+			"print_back": "",
+			"color_class1": "파랑",
+			"color_class2": "파랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20071220",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20171213",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 163875,
+			"iscrowd": 0,
+			"bbox": [
+				277,
+				400,
+				375,
+				437
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

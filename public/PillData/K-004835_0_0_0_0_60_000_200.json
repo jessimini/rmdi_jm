@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-004835_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-004835_0_0_0_0_60_000_200.png",
+			"drug_N": "K-004835",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "4834",
+			"dl_mapping_code": "K-004835",
+			"dl_name": "타모프렉스정 20mg",
+			"dl_name_en": "Tamoplex Tab. 20mg",
+			"img_key": "http://connectdi.com/design/img/drug/151689487764000027.jpg",
+			"dl_material": "타목시펜시트르산염",
+			"dl_material_en": "Tamoxifen Citrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한독테바",
+			"dl_company_en": "Teva Handok",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199403106,
+			"di_item_permit_date": "19940903",
+			"di_class_no": "[04210]항악성종양제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "626900290,648000470,649806060,E01510451",
+			"chart": "백색의 정제",
+			"drug_shape": "원형",
+			"thick": 2.8,
+			"leng_long": 9,
+			"leng_short": 9,
+			"print_front": "TEVA20",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080801",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200223",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 55225,
+			"iscrowd": 0,
+			"bbox": [
+				374,
+				523,
+				235,
+				235
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

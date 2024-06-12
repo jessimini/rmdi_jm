@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-017713_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-017713_0_0_0_0_60_000_200.png",
+			"drug_N": "K-017713",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "17712",
+			"dl_mapping_code": "K-017713",
+			"dl_name": "유레민정 0.1mg",
+			"dl_name_en": "Uremin Tab. 0.1mg",
+			"img_key": "http://connectdi.com/design/img/drug/151335245510200010.jpg",
+			"dl_material": "데스모프레신아세트산염",
+			"dl_material_en": "Desmopressin Acetate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "현대약품(주)",
+			"dl_company_en": "Hyundai Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200502639,
+			"di_item_permit_date": "20050531",
+			"di_class_no": "[02410]뇌하수체호르몬제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642000930,A30650981",
+			"chart": "백색의 난원형정제",
+			"drug_shape": "타원형",
+			"thick": 3.8,
+			"leng_long": 9.7,
+			"leng_short": 6.8,
+			"print_front": "URM0.1",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20050915",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130218",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 48375,
+			"iscrowd": 0,
+			"bbox": [
+				384,
+				531,
+				215,
+				225
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

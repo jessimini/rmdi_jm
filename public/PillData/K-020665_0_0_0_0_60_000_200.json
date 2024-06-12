@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-020665_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-020665_0_0_0_0_60_000_200.png",
+			"drug_N": "K-020665",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "20664",
+			"dl_mapping_code": "K-020665",
+			"dl_name": "모푸렌정(모사프리드시트르산염) ",
+			"dl_name_en": "Mopuren Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154298778984500009.jpg",
+			"dl_material": "모사프리드시트르산염",
+			"dl_material_en": "Mosapride Citrate Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "삼천당제약(주)",
+			"dl_company_en": "Scd Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200702965,
+			"di_item_permit_date": "20070309",
+			"di_class_no": "[02390]기타의 소화기관용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651200450,A08403921",
+			"chart": "흰색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 3.28,
+			"leng_long": 9.03,
+			"leng_short": 4.56,
+			"print_front": "MP5",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20110511",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20150501",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 33086,
+			"iscrowd": 0,
+			"bbox": [
+				339,
+				582,
+				233,
+				142
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

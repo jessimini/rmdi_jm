@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-031365_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-031365_0_0_0_0_60_000_200.png",
+			"drug_N": "K-031365",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "31364",
+			"dl_mapping_code": "K-031365",
+			"dl_name": "뉴토르정 10mg",
+			"dl_name_en": "Newtor Tab. 10mg",
+			"img_key": "http://connectdi.com/design/img/drug/147426729915800164.jpg",
+			"dl_material": "아토르바스타틴칼슘삼수화물",
+			"dl_material_en": "Atorvastatin Calcium Trihydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대한뉴팜(주)",
+			"dl_company_en": "Daehan New Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201308048,
+			"di_item_permit_date": "20130705",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "669905840",
+			"chart": "흰색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 4,
+			"leng_long": 10,
+			"leng_short": 5,
+			"print_front": "NTL",
+			"print_back": "10",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20130913",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190805",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 27864,
+			"iscrowd": 0,
+			"bbox": [
+				398,
+				526,
+				216,
+				129
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

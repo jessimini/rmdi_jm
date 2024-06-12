@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-041997_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-041997_0_0_0_0_60_000_200.png",
+			"drug_N": "K-041997",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201705467",
+			"leng_long": "12.73",
+			"leng_short": "6.77",
+			"thick": "4.41",
+			"id": 1,
+			"dl_idx": "41996",
+			"dl_mapping_code": "K-041997",
+			"dl_name": "진코발정 80mg",
+			"dl_name_en": "Ginkgobal Tab. 80mg",
+			"img_key": "http://connectdi.com/design/img/drug/150609481508100066.jpg",
+			"dl_material": "은행엽건조엑스",
+			"dl_material_en": "Ginkgo Leaf Ext.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)휴온스",
+			"dl_company_en": "Huons",
+			"di_company_mf": "",
+			"di_company_mf_en": "Korea Pharma",
+			"di_item_permit_date": "20170707",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "670607740",
+			"chart": "녹색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"print_front": "GK분할선80",
+			"print_back": "HS",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20170918",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200723"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 72611,
+			"iscrowd": 0,
+			"bbox": [
+				382,
+				421,
+				253,
+				287
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

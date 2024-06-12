@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005087_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005087_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005087",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "5086",
+			"dl_mapping_code": "K-005087",
+			"dl_name": "일성이솦틴서방정 180mg",
+			"dl_name_en": "Isoptin SR Tab. 180mg Ilsung",
+			"img_key": "http://connectdi.com/design/img/drug/150885962952100009.jpg",
+			"dl_material": "베라파밀염산염",
+			"dl_material_en": "Verapamil Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "일성신약(주)",
+			"dl_company_en": "Ilsung Pharmaceuticals",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199501060,
+			"di_item_permit_date": "19951016",
+			"di_class_no": "[02170]혈관확장제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "655401550,A11303331",
+			"chart": "서방성의 필름코팅된 회자색의 타원형 정제이다.",
+			"drug_shape": "타원형",
+			"thick": 6,
+			"leng_long": 15.6,
+			"leng_short": 7.8,
+			"print_front": "ISOPTIN",
+			"print_back": "SR분할선180",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210507",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 92686,
+			"iscrowd": 0,
+			"bbox": [
+				292,
+				466,
+				383,
+				242
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

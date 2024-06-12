@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-025194_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-025194_0_0_0_0_60_000_200.png",
+			"drug_N": "K-025194",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "25193",
+			"dl_mapping_code": "K-025194",
+			"dl_name": "스토마신캡슐 500mg/PTP",
+			"dl_name_en": "Stomasin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147427945799800169.jpg",
+			"dl_material": "구풍해독탕건조엑스",
+			"dl_material_en": "",
+			"dl_custom_shape": "",
+			"dl_company": "(주)아이월드제약",
+			"dl_company_en": "I-World Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200900767,
+			"di_item_permit_date": "20090121",
+			"di_class_no": "[01320]이비과용제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "갈색 분말이 든 상부 연청색, 하부 담청색의 불투명한 캡슐제",
+			"drug_shape": "장방형",
+			"thick": 6,
+			"leng_long": 20,
+			"leng_short": 6,
+			"print_front": "IWP STM",
+			"print_back": "",
+			"color_class1": "파랑",
+			"color_class2": "파랑, 옅은",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20090317",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180726",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 132600,
+			"iscrowd": 0,
+			"bbox": [
+				172,
+				486,
+				600,
+				221
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

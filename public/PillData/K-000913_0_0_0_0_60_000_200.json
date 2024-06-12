@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000913_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000913_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000913",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "912",
+			"dl_mapping_code": "K-000913",
+			"dl_name": "디스토시드정(프라지콴텔정)군납명:프라지콴텔정",
+			"dl_name_en": "Distocide Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/152285645249900067.jpg",
+			"dl_material": "프라지콴텔",
+			"dl_material_en": "Praziquantel",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "신풍제약(주)",
+			"dl_company_en": "Shinpoong Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198300002,
+			"di_item_permit_date": "19830521",
+			"di_class_no": "[06420]구충제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "648500340,A00301421",
+			"chart": "백색-미황색의 장방형 제피정.",
+			"drug_shape": "장방형",
+			"thick": 4.87,
+			"leng_long": 22.74,
+			"leng_short": 8.68,
+			"print_front": "S분할선P분할선P분할선C",
+			"print_back": "분할선분할선분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "기타",
+			"line_back": "기타",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200123",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 144560,
+			"iscrowd": 0,
+			"bbox": [
+				199,
+				505,
+				556,
+				260
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

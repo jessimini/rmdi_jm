@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-015279_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-015279_0_0_0_0_60_000_200.png",
+			"drug_N": "K-015279",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "15278",
+			"dl_mapping_code": "K-015279",
+			"dl_name": "알렌맥스정(알렌드론산나트륨)",
+			"dl_name_en": "Alenmax Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428124064400136.jpg",
+			"dl_material": "알렌드론산나트륨",
+			"dl_material_en": "Sodium Alendronate Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200402671,
+			"di_item_permit_date": "20040917",
+			"di_class_no": "[03990]따로 분류되지 않는 대사성 의약품",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643501790,A21404141",
+			"chart": "백색의 타원형 정제",
+			"drug_shape": "타원형",
+			"thick": 4.8,
+			"leng_long": 12.8,
+			"leng_short": 7.2,
+			"print_front": "HM",
+			"print_back": "AM70",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20070312",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20161026",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 61370,
+			"iscrowd": 0,
+			"bbox": [
+				325,
+				524,
+				323,
+				190
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

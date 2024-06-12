@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016230_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016230_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016230",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "16229",
+			"dl_mapping_code": "K-016230",
+			"dl_name": "비아그라정50mg/PTP",
+			"dl_name_en": "Viagra Tab. 50mg",
+			"img_key": "http://connectdi.com/design/img/drug/153002764366400091.jpg",
+			"dl_material": "실데나필시트르산염",
+			"dl_material_en": "Sildenafil Citrate",
+			"dl_custom_shape": "",
+			"dl_company": "비아트리스코리아(주)",
+			"dl_company_en": "Pfizer Korea",
+			"di_company_mf": "Fareva Amboise",
+			"di_company_mf_en": "",
+			"item_seq": 200410082,
+			"di_item_permit_date": "20040503",
+			"di_class_no": "[02590]기타의 비뇨생식기관 및 항문용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "648900390",
+			"chart": "약간 둥근 다이아몬드형의 푸른색 필름코팅정",
+			"drug_shape": "마름모형",
+			"thick": 4,
+			"leng_long": 11.2,
+			"leng_short": 8.2,
+			"print_front": "마크",
+			"print_back": "VGR50",
+			"color_class1": "파랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "pfizer",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938657883200003.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20170811",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 51756,
+			"iscrowd": 0,
+			"bbox": [
+				363,
+				554,
+				227,
+				228
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

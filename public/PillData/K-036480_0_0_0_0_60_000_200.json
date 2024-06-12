@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-036480_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-036480_0_0_0_0_60_000_200.png",
+			"drug_N": "K-036480",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "36479",
+			"dl_mapping_code": "K-036480",
+			"dl_name": "레나메진캡슐(구형흡착탄)",
+			"dl_name_en": "Renamezin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147427070775200087.jpg",
+			"dl_material": "구형흡착탄",
+			"dl_material_en": "Spherical Adsorptive Carbon",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "대원제약(주)",
+			"dl_company_en": "Daewon Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201503253,
+			"di_item_permit_date": "20150528",
+			"di_class_no": "[03920]해독제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "671805920",
+			"chart": "검은색의 구형미립자가 충진된 상하부 흰색의 경질캡슐제",
+			"drug_shape": "장방형",
+			"thick": 7.64,
+			"leng_long": 21.4,
+			"leng_short": 7.33,
+			"print_front": "REN DWP",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "하양",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20150608",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20161031",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 123165,
+			"iscrowd": 0,
+			"bbox": [
+				169,
+				469,
+				595,
+				207
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

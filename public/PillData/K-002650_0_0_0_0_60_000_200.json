@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-002650_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-002650_0_0_0_0_60_000_200.png",
+			"drug_N": "K-002650",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "2649",
+			"dl_mapping_code": "K-002650",
+			"dl_name": "우루사정 200mg",
+			"dl_name_en": "Ursa Tab. 200mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F68i1.jpg",
+			"dl_material": "우르소데옥시콜산",
+			"dl_material_en": "Ursodeoxycholic Acid",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "대웅바이오(주)",
+			"di_company_mf_en": "Daewoong Bio",
+			"item_seq": 198900463,
+			"di_item_permit_date": "19891109",
+			"di_class_no": "[02360]이담제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641602060,A04303011",
+			"chart": "이약은 흰색의 정제이다.",
+			"drug_shape": "원형",
+			"thick": 4,
+			"leng_long": 11,
+			"leng_short": 11,
+			"print_front": "D분할선W",
+			"print_back": "200",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200405",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 84390,
+			"iscrowd": 0,
+			"bbox": [
+				349,
+				493,
+				290,
+				291
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

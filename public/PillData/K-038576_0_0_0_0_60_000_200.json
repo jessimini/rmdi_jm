@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-038576_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-038576_0_0_0_0_60_000_200.png",
+			"drug_N": "K-038576",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "38575",
+			"dl_mapping_code": "K-038576",
+			"dl_name": "씨투스정 50mg",
+			"dl_name_en": "Ctus Tab. 50mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427226381000013.jpg",
+			"dl_material": "프란루카스트수화물",
+			"dl_material_en": "Pranlukast Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "삼아제약(주)",
+			"dl_company_en": "Sama Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201601582,
+			"di_item_permit_date": "20160318",
+			"di_class_no": "[01490]기타의 알레르기용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "645702760",
+			"chart": "분할선이 있는 흰색 또는 연한 노란색의 장방형의 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 4.7,
+			"leng_long": 11.46,
+			"leng_short": 6,
+			"print_front": "마크",
+			"print_back": "C I",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20160428",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "SA,5A,SΛ,VS,5Λ",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938665320000113.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190509",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 57939,
+			"iscrowd": 0,
+			"bbox": [
+				399,
+				486,
+				267,
+				217
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

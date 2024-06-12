@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-003945_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-003945_0_0_0_0_60_000_200.png",
+			"drug_N": "K-003945",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "3944",
+			"dl_mapping_code": "K-003945",
+			"dl_name": "파루탈정(메드록시프로게스테론아세테이트)",
+			"dl_name_en": "Farlutal Tab. 500mg",
+			"img_key": "http://connectdi.com/design/img/drug/151317988895100040.jpg",
+			"dl_material": "메드록시프로게스테론아세테이트",
+			"dl_material_en": "Methylenediphosphonic Acid",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한국화이자제약(주)",
+			"dl_company_en": "Pfizer Korea",
+			"di_company_mf": "Pfizer Italia S.rl.",
+			"di_company_mf_en": "",
+			"item_seq": 199203279,
+			"di_item_permit_date": "20060901",
+			"di_class_no": "[04210]항악성종양제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "648901090,W21890271",
+			"chart": "백색 캅셀 모양의 정제",
+			"drug_shape": "장방형",
+			"thick": 7,
+			"leng_long": 22,
+			"leng_short": 8,
+			"print_front": "FCE분할선500",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20150608",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 190520,
+			"iscrowd": 0,
+			"bbox": [
+				276,
+				389,
+				440,
+				433
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-018254_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-018254_0_0_0_0_60_000_200.png",
+			"drug_N": "K-018254",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "18253",
+			"dl_mapping_code": "K-018254",
+			"dl_name": "다이아벡스엑스알서방정(메트포르민염산염)",
+			"dl_name_en": "Diabex XR Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428185705700046.jpg",
+			"dl_material": "메트포르민염산염",
+			"dl_material_en": "Metformin Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "Merck Sante S.A.S.",
+			"di_company_mf_en": "",
+			"item_seq": 200511904,
+			"di_item_permit_date": "20050930",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641600360,E31490031",
+			"chart": "양면이 볼록하고 각각 DXR, 500이라고 새겨진 장방형의 흰색 내지 미색 정제",
+			"drug_shape": "장방형",
+			"thick": 6.5,
+			"leng_long": 19.1,
+			"leng_short": 9.3,
+			"print_front": "DXR",
+			"print_back": "500",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20061023",
+			"form_code_name": "서방정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180809",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 166988,
+			"iscrowd": 0,
+			"bbox": [
+				189,
+				387,
+				436,
+				383
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

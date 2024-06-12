@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-023208_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023208_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023208",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "23207",
+			"dl_mapping_code": "K-023208",
+			"dl_name": "글루코다운오알서방정 750mg",
+			"dl_name_en": "Glucodaun OR Tab. 750mg",
+			"img_key": "http://connectdi.com/design/img/drug/148665483160200094.jpg",
+			"dl_material": "메트포르민염산염",
+			"dl_material_en": "Metformin Hydrochloride",
+			"dl_custom_shape": "",
+			"dl_company": "한올바이오파마(주)",
+			"dl_company_en": "Hanall Biopharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200802053,
+			"di_item_permit_date": "20080221",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "655603450,A03505761",
+			"chart": "앞면은 GD OR, 뒷면은 750이 새겨진 분홍색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"thick": 7,
+			"leng_long": 19.2,
+			"leng_short": 8.55,
+			"print_front": "GD OR",
+			"print_back": "750",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081203",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180809",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 159354,
+			"iscrowd": 0,
+			"bbox": [
+				249,
+				426,
+				454,
+				351
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

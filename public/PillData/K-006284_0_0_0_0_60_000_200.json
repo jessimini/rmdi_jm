@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-006284_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-006284_0_0_0_0_60_000_200.png",
+			"drug_N": "K-006284",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "6283",
+			"dl_mapping_code": "K-006284",
+			"dl_name": "애니탈삼중정 50mg/병",
+			"dl_name_en": "Anytal Triple Layered Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1N0Qg3ADMaF.jpg",
+			"dl_material": "메타규산알루민산마그네슘|탄산수소나트륨|침강탄산칼슘|디아스타제·프로테아제·셀룰라제|리파제|감초가루|스코폴리아엑스|트리메부틴말레산염",
+			"dl_material_en": "Biodiastase2000| Calcium Carbonate P.P.T.| LipaseⅡ| Magnesium Aluminometasilicate| Powdered Licorice| Scopolia Ext.| Sodium Bicarbonate| Trimebutine Maleate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "안국약품(주)",
+			"dl_company_en": "Ahngook Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199701224,
+			"di_item_permit_date": "19970804",
+			"di_class_no": "[02320]소화성궤양용제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "650201670",
+			"chart": "상,하층은 흰색 내지 연한 노란색을 띠는 흰색이고 중간층은 연갈색인 원형 필름코팅 삼중정",
+			"drug_shape": "원형",
+			"thick": 5.3,
+			"leng_long": 10.2,
+			"leng_short": 10.2,
+			"print_front": "AG",
+			"print_back": "A",
+			"color_class1": "하양, 갈색",
+			"color_class2": "하양",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "다층정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190614",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 68120,
+			"iscrowd": 0,
+			"bbox": [
+				373,
+				521,
+				260,
+				262
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

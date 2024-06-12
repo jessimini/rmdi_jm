@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-003611_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-003611_0_0_0_0_60_000_200.png",
+			"drug_N": "K-003611",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "3610",
+			"dl_mapping_code": "K-003611",
+			"dl_name": "유니메톤정(나부메톤)(수출명:필유니메톤정)",
+			"dl_name_en": "Unimeton Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427304865900198.jpg",
+			"dl_material": "나부메톤",
+			"dl_material_en": "Nabumetone",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동광제약(주)",
+			"dl_company_en": "Dongkwang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199200248,
+			"di_item_permit_date": "19920317",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "645902450,A01304151",
+			"chart": "황색 원형의 필름코팅정제",
+			"drug_shape": "원형",
+			"thick": 5.8,
+			"leng_long": 12,
+			"leng_short": 12,
+			"print_front": "DPC",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050726",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200903",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 90890,
+			"iscrowd": 0,
+			"bbox": [
+				342,
+				446,
+				305,
+				298
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

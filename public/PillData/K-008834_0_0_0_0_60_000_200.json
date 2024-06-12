@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-008834_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-008834_0_0_0_0_60_000_200.png",
+			"drug_N": "K-008834",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "8833",
+			"dl_mapping_code": "K-008834",
+			"dl_name": "아리셉트정 5mg",
+			"dl_name_en": "Aricept Tab. 5mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NUBfpZPSEv.jpg",
+			"dl_material": "도네페질염산염",
+			"dl_material_en": "Donepezil Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한독",
+			"dl_company_en": "Handok",
+			"di_company_mf": "(주)대웅제약",
+			"di_company_mf_en": "Daewoong Pharmaceutical",
+			"item_seq": 200000796,
+			"di_item_permit_date": "20000804",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641601790,652105760,A04391001",
+			"chart": "흰색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 3.5,
+			"leng_long": 7.2,
+			"leng_short": 7.2,
+			"print_front": "ARICEPT",
+			"print_back": "5",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190721",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 37248,
+			"iscrowd": 0,
+			"bbox": [
+				384,
+				588,
+				192,
+				194
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

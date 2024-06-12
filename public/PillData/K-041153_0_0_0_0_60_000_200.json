@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-041153_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-041153_0_0_0_0_60_000_200.png",
+			"drug_N": "K-041153",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "41152",
+			"dl_mapping_code": "K-041153",
+			"dl_name": "도베인정 500mg",
+			"dl_name_en": "Dobein Tab. 500mg",
+			"img_key": "http://connectdi.com/design/img/drug/149581320241300146.jpg",
+			"dl_material": "도베실산칼슘수화물",
+			"dl_material_en": "Dobesilate Calcium Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한국팜비오",
+			"dl_company_en": "Pharmbio",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201700814,
+			"di_item_permit_date": "20170215",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "659901250",
+			"chart": "흰색의 장방형 정제",
+			"drug_shape": "타원형",
+			"thick": 5.66,
+			"leng_long": 18.67,
+			"leng_short": 9.13,
+			"print_front": "P분할선B",
+			"print_back": "500",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20170524",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180214",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 124544,
+			"iscrowd": 0,
+			"bbox": [
+				292,
+				503,
+				448,
+				278
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

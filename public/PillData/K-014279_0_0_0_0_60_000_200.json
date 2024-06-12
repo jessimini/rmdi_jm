@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-014279_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-014279_0_0_0_0_60_000_200.png",
+			"drug_N": "K-014279",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "14278",
+			"dl_mapping_code": "K-014279",
+			"dl_name": "팜빅스정(팜시클로비르)",
+			"dl_name_en": "Famvics Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147765859194400044.jpg",
+			"dl_material": "팜시클로비르",
+			"dl_material_en": "Famciclovir",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "경동제약(주)",
+			"di_company_mf_en": "Kyungdong Pharm",
+			"item_seq": 200400512,
+			"di_item_permit_date": "20041119",
+			"di_class_no": "[06290]기타의 화학요법제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642102550,A04506681",
+			"chart": "흰색원형의 필름코팅정 ",
+			"drug_shape": "원형",
+			"thick": 4.3,
+			"leng_long": 10.5,
+			"leng_short": 10.5,
+			"print_front": "YH",
+			"print_back": "FVS",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050704",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190813",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 62678,
+			"iscrowd": 0,
+			"bbox": [
+				373,
+				463,
+				259,
+				242
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

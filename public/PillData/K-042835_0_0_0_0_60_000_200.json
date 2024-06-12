@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-042835_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-042835_0_0_0_0_60_000_200.png",
+			"drug_N": "K-042835",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "42834",
+			"dl_mapping_code": "K-042835",
+			"dl_name": "슈퍼피린캡슐 75/75mg",
+			"dl_name_en": "Superpirin Cap. 75/75mg",
+			"img_key": "http://connectdi.com/design/img/drug/151499405691800128.jpg",
+			"dl_material": "아스피린|클로피도그렐황산염",
+			"dl_material_en": "Aspirin| Clopidogrel Bisulfate",
+			"dl_custom_shape": "장용캡슐제",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201708219,
+			"di_item_permit_date": "20171204",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651904620",
+			"chart": "흰색 내지 연한 노란색의 과립 및 장용코팅된 펠렛을 함유하는 상·하부 주황색의 경질캡슐.",
+			"drug_shape": "장방형",
+			"thick": 6.91,
+			"leng_long": 19.1,
+			"leng_short": 6.63,
+			"print_front": "Super 75--------  마크",
+			"print_back": "",
+			"color_class1": "주황",
+			"color_class2": "주황",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20171215",
+			"form_code_name": "경질캡슐제, 서방성장용성펠렛",
+			"mark_code_front_anal": "마름모,꽃잎,원",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938661567700076.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20181005",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 126148,
+			"iscrowd": 0,
+			"bbox": [
+				237,
+				515,
+				517,
+				244
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

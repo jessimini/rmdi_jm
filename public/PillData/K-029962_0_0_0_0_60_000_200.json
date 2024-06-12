@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-029962_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-029962_0_0_0_0_60_000_200.png",
+			"drug_N": "K-029962",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "29961",
+			"dl_mapping_code": "K-029962",
+			"dl_name": "펜타사서방정 1g",
+			"dl_name_en": "Pentasa SR Tab. 1g",
+			"img_key": "http://connectdi.com/design/img/drug/146031168173000109.jpg",
+			"dl_material": "메살라진",
+			"dl_material_en": "Mesalazine",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "한국페링제약(주)",
+			"dl_company_en": "Ferring Korea",
+			"di_company_mf": "Ferring International Center SA",
+			"di_company_mf_en": "",
+			"item_seq": 201206669,
+			"di_item_permit_date": "20120831",
+			"di_class_no": "[02390]기타의 소화기관용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "652500320",
+			"chart": "회백색에서 엷은 갈색의 반점이 있는 타원형 정제",
+			"drug_shape": "타원형",
+			"thick": 7.15,
+			"leng_long": 20,
+			"leng_short": 11,
+			"print_front": "PENTASA",
+			"print_back": "PENTASA",
+			"color_class1": "회색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120924",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180727",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 177375,
+			"iscrowd": 0,
+			"bbox": [
+				243,
+				426,
+				473,
+				375
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

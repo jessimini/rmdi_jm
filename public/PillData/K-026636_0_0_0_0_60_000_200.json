@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-026636_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-026636_0_0_0_0_60_000_200.png",
+			"drug_N": "K-026636",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "26635",
+			"dl_mapping_code": "K-026636",
+			"dl_name": "보령바이오아스트릭스캡슐 100mg",
+			"dl_name_en": "Boryungbio Astrix Cap. 100mg",
+			"img_key": "http://connectdi.com/design/img/drug/154598997427900105.jpg",
+			"dl_material": "아스피린장용과립",
+			"dl_material_en": "Aspirin Enteric Gr.",
+			"dl_custom_shape": "장용캡슐제",
+			"dl_company": "(주)보령바이오파마",
+			"dl_company_en": "Boryung Biophama",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200906484,
+			"di_item_permit_date": "20090821",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "670500540",
+			"chart": "흰색의 장용피 구형입자가 든 상하 주황색의 투명한 경질캡슐제",
+			"drug_shape": "장방형",
+			"thick": 5.32,
+			"leng_long": 14.2,
+			"leng_short": 5.05,
+			"print_front": "ASTX 100",
+			"print_back": "",
+			"color_class1": "주황, 투명",
+			"color_class2": "주황, 투명",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20140702",
+			"form_code_name": "장용성캡슐제, 펠렛",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210309",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 72600,
+			"iscrowd": 0,
+			"bbox": [
+				290,
+				517,
+				330,
+				220
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

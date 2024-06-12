@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007381_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007381_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007381",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199803062",
+			"leng_long": "11.1",
+			"leng_short": "11.1",
+			"thick": "4.8",
+			"id": 1,
+			"dl_idx": "7380",
+			"dl_mapping_code": "K-007381",
+			"dl_name": "휴온스탈니플루메이트정",
+			"dl_name_en": "Talniflumate Tab. Huons",
+			"img_key": "http://connectdi.com/design/img/drug/152716494050200125.jpg",
+			"dl_material": "탈니플루메이트",
+			"dl_material_en": "Talniflumate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)휴온스",
+			"dl_company_en": "Huons",
+			"di_company_mf": "위더스제약(주)",
+			"di_company_mf_en": "Withus Pharmaceutical",
+			"di_item_permit_date": "19981128",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "670600080,A29551201",
+			"chart": "주황색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "KM",
+			"print_back": "",
+			"color_class1": "주황",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180723"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 78624,
+			"iscrowd": 0,
+			"bbox": [
+				358,
+				468,
+				288,
+				273
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-017220_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-017220_0_0_0_0_60_000_200.png",
+			"drug_N": "K-017220",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200501559",
+			"leng_long": "8.1",
+			"leng_short": "8.1",
+			"thick": "3.65",
+			"id": 1,
+			"dl_idx": "17219",
+			"dl_mapping_code": "K-017220",
+			"dl_name": "니자티드정(니자티딘)(비매품)",
+			"dl_name_en": "Nizatid Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147765867288000094.jpg",
+			"dl_material": "니자티딘",
+			"dl_material_en": "Nizatidine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)한국파마",
+			"dl_company_en": "Korea Pharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20050715",
+			"di_class_no": "[02320]소화성궤양용제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "653000210,A12653701",
+			"chart": "연한 황색의 원형 필름코팅정제",
+			"drug_shape": "원형",
+			"print_front": "NZT 75",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20051007",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130129"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 39585,
+			"iscrowd": 0,
+			"bbox": [
+				399,
+				511,
+				203,
+				195
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

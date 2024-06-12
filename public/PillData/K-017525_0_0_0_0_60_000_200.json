@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-017525_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-017525_0_0_0_0_60_000_200.png",
+			"drug_N": "K-017525",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "17524",
+			"dl_mapping_code": "K-017525",
+			"dl_name": "독사존엑스엘서방정 4mg",
+			"dl_name_en": "Doxazon XL Tab. 4mg",
+			"img_key": "http://connectdi.com/design/img/drug/1MnfO1MVzR5.jpg",
+			"dl_material": "독사조신메실산염",
+			"dl_material_en": "Doxazosin Mesylate",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200502216,
+			"di_item_permit_date": "20050325",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643500350,A21404191",
+			"chart": "양면이 볼록한 흰색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 5,
+			"leng_long": 9.3,
+			"leng_short": 9.3,
+			"print_front": "DXL 4",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20060331",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201030",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 54990,
+			"iscrowd": 0,
+			"bbox": [
+				368,
+				493,
+				235,
+				234
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

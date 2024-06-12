@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-021617_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-021617_0_0_0_0_60_000_200.png",
+			"drug_N": "K-021617",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200707596",
+			"leng_long": "16.3",
+			"leng_short": "8.7",
+			"thick": "6.2",
+			"id": 1,
+			"dl_idx": "21616",
+			"dl_mapping_code": "K-021617",
+			"dl_name": "플라벤정 500mg/PTP",
+			"dl_name_en": "Flaven Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NcjsrU2ZaJ.jpg",
+			"dl_material": "미세정제플라보노이드분획물",
+			"dl_material_en": "Purified and Micronized Flavonoid Fraction",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "태극제약(주)",
+			"dl_company_en": "Tai Guk Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20070702",
+			"di_class_no": "[02150]혈관보강제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "644802990",
+			"chart": "주황색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"print_front": "TGFB",
+			"print_back": "",
+			"color_class1": "주황",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080930",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200206"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 118340,
+			"iscrowd": 0,
+			"bbox": [
+				307,
+				430,
+				388,
+				305
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

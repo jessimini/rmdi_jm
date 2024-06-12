@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016645_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016645_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016645",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "16644",
+			"dl_mapping_code": "K-016645",
+			"dl_name": "후로목스정 100mg",
+			"dl_name_en": "Flomox Tab. 100mg",
+			"img_key": "http://connectdi.com/design/img/drug/147428162236600150.jpg",
+			"dl_material": "세프카펜피복실염산염수화물",
+			"dl_material_en": "Cefcapene Pivoxil Hydrochloride Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "일동제약(주)",
+			"dl_company_en": "Ildong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200500421,
+			"di_item_permit_date": "20050517",
+			"di_class_no": "[06180]주로 그람양성, 음성균에 작용하는 것",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642902570,A03404761",
+			"chart": "엷은 홍색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 3.96,
+			"leng_long": 8.66,
+			"leng_short": 8.66,
+			"print_front": "ID",
+			"print_back": "100",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20051007",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20170916",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 46224,
+			"iscrowd": 0,
+			"bbox": [
+				384,
+				499,
+				216,
+				214
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

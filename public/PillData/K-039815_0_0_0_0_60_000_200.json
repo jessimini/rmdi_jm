@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-039815_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-039815_0_0_0_0_60_000_200.png",
+			"drug_N": "K-039815",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "39814",
+			"dl_mapping_code": "K-039815",
+			"dl_name": "옥사제핀정 600mg",
+			"dl_name_en": "Oxazepine Tab. 600mg",
+			"img_key": "http://connectdi.com/design/img/drug/147244407644200184.jpg",
+			"dl_material": "옥스카르바제핀",
+			"dl_material_en": "Oxcarbazepine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201604015,
+			"di_item_permit_date": "20160628",
+			"di_class_no": "[01130]항전간제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651904400",
+			"chart": "밝은 분홍색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6.65,
+			"leng_long": 18.45,
+			"leng_short": 8.3,
+			"print_front": "OZ분할선60",
+			"print_back": "OZ분할선MI",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "-",
+			"img_regist_ts": "20160823",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191101",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 143311,
+			"iscrowd": 0,
+			"bbox": [
+				285,
+				439,
+				413,
+				347
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

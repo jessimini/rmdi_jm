@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-001451_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-001451_0_0_0_0_60_000_200.png",
+			"drug_N": "K-001451",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "1450",
+			"dl_mapping_code": "K-001451",
+			"dl_name": "명인할로페리돌정 1.5mg",
+			"dl_name_en": "Haloperidol Tab. 1.5mg Myungin",
+			"img_key": "http://connectdi.com/design/img/drug/147427468292700071.jpg",
+			"dl_material": "할로페리돌",
+			"dl_material_en": "Haloperidol",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198500618,
+			"di_item_permit_date": "19850417",
+			"di_class_no": "[01170]정신신경용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651900970,A09200321",
+			"chart": "백색의 원형정제",
+			"drug_shape": "원형",
+			"thick": 3.3,
+			"leng_long": 7.4,
+			"leng_short": 7.4,
+			"print_front": "HLP",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210304",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 34965,
+			"iscrowd": 0,
+			"bbox": [
+				383,
+				510,
+				189,
+				185
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

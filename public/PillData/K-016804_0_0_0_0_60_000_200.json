@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016804_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016804_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016804",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200500715",
+			"leng_long": "8.7",
+			"leng_short": "8.7",
+			"thick": "4.1",
+			"id": 1,
+			"dl_idx": "16803",
+			"dl_mapping_code": "K-016804",
+			"dl_name": "클로피정(클로피도그렐황산수소염)",
+			"dl_name_en": "Clopi Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NWx1EjEQf0.jpg",
+			"dl_material": "클로피도그렐황산수소염",
+			"dl_material_en": "Clopidogrel Bisulfate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동화약품(주)",
+			"dl_company_en": "Dong Wha Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20050726",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642703010,A05705761",
+			"chart": "분홍색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "D-W",
+			"print_back": "75",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20200923",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180928"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 51513,
+			"iscrowd": 0,
+			"bbox": [
+				398,
+				531,
+				231,
+				223
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

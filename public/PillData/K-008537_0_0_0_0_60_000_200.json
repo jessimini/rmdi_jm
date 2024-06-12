@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-008537_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-008537_0_0_0_0_60_000_200.png",
+			"drug_N": "K-008537",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "8536",
+			"dl_mapping_code": "K-008537",
+			"dl_name": "한미알마게이트정 500mg",
+			"dl_name_en": "Almagate Tab. Hanmi",
+			"img_key": "http://connectdi.com/design/img/drug/1NCzXnoXErT.jpg",
+			"dl_material": "알마게이트",
+			"dl_material_en": "Almagate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "(주)한국파마",
+			"di_company_mf_en": "Korea Pharma",
+			"item_seq": 199907335,
+			"di_item_permit_date": "19990126",
+			"di_class_no": "[02340]제산제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "643503660,A21450201",
+			"chart": "백색의 장방형 정제",
+			"drug_shape": "장방형",
+			"thick": 6.56,
+			"leng_long": 17.42,
+			"leng_short": 8.27,
+			"print_front": "HMP",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191126",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 101388,
+			"iscrowd": 0,
+			"bbox": [
+				260,
+				503,
+				426,
+				238
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

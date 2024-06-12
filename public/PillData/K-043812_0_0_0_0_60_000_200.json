@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-043812_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-043812_0_0_0_0_60_000_200.png",
+			"drug_N": "K-043812",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "43811",
+			"dl_mapping_code": "K-043812",
+			"dl_name": "텔로스톱플러스정 40/5/5mg",
+			"dl_name_en": "Telostop Plus Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/152852205705100035.jpg",
+			"dl_material": "텔미사르탄|암로디핀베실산염|로수바스타틴칼슘",
+			"dl_material_en": "",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "일동제약(주)",
+			"dl_company_en": "Ildong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201801975,
+			"di_item_permit_date": "20180510",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642906010",
+			"chart": "분홍색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 5,
+			"leng_long": 13.4,
+			"leng_short": 6.6,
+			"print_front": "ID 455",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20180604",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191017",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 74151,
+			"iscrowd": 0,
+			"bbox": [
+				311,
+				465,
+				321,
+				231
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

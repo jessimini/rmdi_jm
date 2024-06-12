@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-037043_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-037043_0_0_0_0_60_000_200.png",
+			"drug_N": "K-037043",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "37042",
+			"dl_mapping_code": "K-037043",
+			"dl_name": "임팩타민파워에이플러스정 50mg/병",
+			"dl_name_en": "Impactamine Power A Plus Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/148387985149700125.jpg",
+			"dl_material": "벤포티아민|리보플라빈|니코틴산아미드|판토텐산칼슘|피리독신염산염|시아노코발라민1000배산|콜린타르타르산염|이노시톨|비오틴|폴산|베타카로틴20%과립|농축콜레칼시페롤분말|경질산화마그네슘|무수인산수소칼슘|산화아연",
+			"dl_material_en": "Anhydrous Dibasic Calcium Phosphate| Benfotiamine| Biotin| Calcium Pantothenate| Cholecalciferol Concentrated Powder| Choline Bitartrate| Cyanocobalamin(1000倍散)| Folic Acid| Inositol| Light Magnesium Oxide| Nicotinamide| Pyridoxine Hydrochloride| Riboflavin| Zinc Oxide| β-Carotene 20% Gr.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)대웅제약",
+			"dl_company_en": "Daewoong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201505018,
+			"di_item_permit_date": "20150723",
+			"di_class_no": "[03190]기타의 비타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "641606110",
+			"chart": "미황색 내지 황색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6.78,
+			"leng_long": 17.71,
+			"leng_short": 9.42,
+			"print_front": "VBT",
+			"print_back": "분할선",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20170106",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": null,
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 138432,
+			"iscrowd": 0,
+			"bbox": [
+				270,
+				363,
+				412,
+				336
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

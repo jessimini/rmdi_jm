@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-003137_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-003137_0_0_0_0_60_000_200.png",
+			"drug_N": "K-003137",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199001612",
+			"leng_long": "11.0",
+			"leng_short": "11.0",
+			"thick": "4.4",
+			"id": 1,
+			"dl_idx": "3136",
+			"dl_mapping_code": "K-003137",
+			"dl_name": "시로판정(시프로플록사신염산염수화물)",
+			"dl_name_en": "Ciropan Tab. 250mg",
+			"img_key": "http://connectdi.com/design/img/drug/152035092098000091.jpg",
+			"dl_material": "시프로플록사신염산염수화물",
+			"dl_material_en": "Ciprofloxacin Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "에스케이케미칼(주)",
+			"dl_company_en": "Sk Chemicals",
+			"di_company_mf": "신일제약(주)",
+			"di_company_mf_en": "Sinil Pharmaceutical",
+			"di_item_permit_date": "19901129",
+			"di_class_no": "[06290]기타의 화학요법제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "644700940,A18901341",
+			"chart": "흰색의 원형 필름코팅정제",
+			"drug_shape": "원형",
+			"print_front": "CRP",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200521"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 75051,
+			"iscrowd": 0,
+			"bbox": [
+				402,
+				481,
+				279,
+				269
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

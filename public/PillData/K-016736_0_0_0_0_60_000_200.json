@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-016736_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-016736_0_0_0_0_60_000_200.png",
+			"drug_N": "K-016736",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200500570",
+			"leng_long": "16.8",
+			"leng_short": "7.8",
+			"thick": "5.9",
+			"id": 1,
+			"dl_idx": "16735",
+			"dl_mapping_code": "K-016736",
+			"dl_name": "타나센정 500mg/PTP",
+			"dl_name_en": "Tanaxen Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147428292906000164.jpg",
+			"dl_material": "아세트아미노펜|카페인수화물",
+			"dl_material_en": "Acetaminophen| Caffeine Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20050428",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642102430",
+			"chart": "연두색의 장방형 정제",
+			"drug_shape": "타원형",
+			"print_front": "YH",
+			"print_back": "TNX",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20071113",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190826"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 123794,
+			"iscrowd": 0,
+			"bbox": [
+				311,
+				419,
+				374,
+				331
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

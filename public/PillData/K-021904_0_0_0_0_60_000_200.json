@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-021904_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-021904_0_0_0_0_60_000_200.png",
+			"drug_N": "K-021904",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "21903",
+			"dl_mapping_code": "K-021904",
+			"dl_name": "심바스트씨알정(심바스타틴)",
+			"dl_name_en": "Simvast CR Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/151672201851600002.jpg",
+			"dl_material": "심바스타틴",
+			"dl_material_en": "Simvastatin",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200708762,
+			"di_item_permit_date": "20070727",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643501450,A21404801",
+			"chart": "백색 내지 미백색의 원형코팅정",
+			"drug_shape": "원형",
+			"thick": 4.5,
+			"leng_long": 9.7,
+			"leng_short": 9.7,
+			"print_front": "SIMVAST C R",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20071112",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130605",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 59778,
+			"iscrowd": 0,
+			"bbox": [
+				409,
+				498,
+				246,
+				243
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-022749_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-022749_0_0_0_0_60_000_200.png",
+			"drug_N": "K-022749",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "22748",
+			"dl_mapping_code": "K-022749",
+			"dl_name": "아이월드요비신정 416.7mg/PTP",
+			"dl_name_en": "I-World Yobisin Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427814578200035.jpg",
+			"dl_material": "지황|당귀|목통|황금|택사|차전자|감초|치자|용담|육계|생강|대황|마황|연교",
+			"dl_material_en": "Akebia Stem| Alisma Rhizome| Angelica Gigas Root| Cinnamon Bark| Ephedra Herb| Forsythia Fruit| Gardenia Fruit| Gentian Root| Licorice| Plantago Seed| Raw Ginger| Rehmannia Root| Rhubarb| Scutellaria Root　",
+			"dl_custom_shape": "",
+			"dl_company": "(주)아이월드제약",
+			"dl_company_en": "I-World Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200713170,
+			"di_item_permit_date": "20071210",
+			"di_class_no": "[03990]따로 분류되지 않는 대사성 의약품",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "황갈색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 3,
+			"leng_long": 10,
+			"leng_short": 10,
+			"print_front": "T2",
+			"print_back": "",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20130125",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120216",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 64008,
+			"iscrowd": 0,
+			"bbox": [
+				345,
+				461,
+				254,
+				252
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

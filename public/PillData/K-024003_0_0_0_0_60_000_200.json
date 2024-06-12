@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-024003_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-024003_0_0_0_0_60_000_200.png",
+			"drug_N": "K-024003",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "24002",
+			"dl_mapping_code": "K-024003",
+			"dl_name": "카나쿨린정(칼리디노게나제)",
+			"dl_name_en": "CARNACULIN TAB",
+			"img_key": "http://connectdi.com/design/img/drug/147446841603700082.jpg",
+			"dl_material": "칼리디노게나제",
+			"dl_material_en": "Kallidinogenase",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "코오롱제약(주)",
+			"dl_company_en": "Kolon Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200806668,
+			"di_item_permit_date": "20080618",
+			"di_class_no": "[02190]기타의 순환계용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "670302150,W24400061",
+			"chart": "주황색 원형의 장용성 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 3.89,
+			"leng_long": 7.82,
+			"leng_short": 7.82,
+			"print_front": "마크50",
+			"print_back": "마크50",
+			"color_class1": "주황",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160908",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "カルナクリン",
+			"mark_code_back_anal": "カルナクリン",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938669511100069.jpg",
+			"mark_code_back_img": "http://connectdi.com/design/img/drug/147938669511100069.jpg",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191002",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 39565,
+			"iscrowd": 0,
+			"bbox": [
+				397,
+				531,
+				205,
+				193
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

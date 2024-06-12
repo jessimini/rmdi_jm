@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-023933_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023933_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023933",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200806365",
+			"leng_long": "16.15",
+			"leng_short": "6.3",
+			"thick": "5.5",
+			"id": 1,
+			"dl_idx": "23932",
+			"dl_mapping_code": "K-023933",
+			"dl_name": "알러딘정(펙소페나딘염산염)",
+			"dl_name_en": "Allerdin Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150834126208100086.jpg",
+			"dl_material": "펙소페나딘염산염",
+			"dl_material_en": "Fexofenadine Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)휴온스",
+			"dl_company_en": "Huons",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20080609",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "670604370,A29506781",
+			"chart": "연분홍색의 긴 타원형의 필름코팅정",
+			"drug_shape": "타원형",
+			"print_front": "HS",
+			"print_back": "ΛD",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081203",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200715"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 82000,
+			"iscrowd": 0,
+			"bbox": [
+				281,
+				520,
+				400,
+				205
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

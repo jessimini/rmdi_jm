@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-037933_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-037933_0_0_0_0_60_000_200.png",
+			"drug_N": "K-037933",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "37932",
+			"dl_mapping_code": "K-037933",
+			"dl_name": "디클렉틴장용정 10mg/병",
+			"dl_name_en": "Diclectin Enteric Coated Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427158517500035.jpg",
+			"dl_material": "독실아민숙신산염|피리독신염산염",
+			"dl_material_en": "Doxylamine Succinate| Pyridoxine Hydrochloride",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "현대약품(주)",
+			"dl_company_en": "Hyundai Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201508016,
+			"di_item_permit_date": "20151130",
+			"di_class_no": "[02350]최토제, 진토제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642003810",
+			"chart": "한쪽면에 핑크색 임산부 그림이 새겨진 양면이 볼록한 흰색의  원형 필름코팅 장용정",
+			"drug_shape": "원형",
+			"thick": 3,
+			"leng_long": 8,
+			"leng_short": 8,
+			"print_front": "마크",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160222",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "임산부",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938669511100036.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190630",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 43460,
+			"iscrowd": 0,
+			"bbox": [
+				345,
+				494,
+				212,
+				205
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-035291_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-035291_0_0_0_0_60_000_200.png",
+			"drug_N": "K-035291",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201500533",
+			"leng_long": "10.5",
+			"leng_short": "5.6",
+			"thick": "3.4",
+			"id": 1,
+			"dl_idx": "35290",
+			"dl_mapping_code": "K-035291",
+			"dl_name": "대화로자탄정(로사르탄칼륨)",
+			"dl_name_en": "Losatan Tab. Daehwa",
+			"img_key": "http://connectdi.com/design/img/drug/149723193923400086.jpg",
+			"dl_material": "로사르탄칼륨",
+			"dl_material_en": "Losartan potassium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대화제약(주)",
+			"dl_company_en": "Dhpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20150130",
+			"di_class_no": "[02140]혈압강하제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "645604500",
+			"chart": "흰색의 타원형 필름코팅 정제",
+			"drug_shape": "타원형",
+			"print_front": "마크",
+			"print_back": "LO",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20150413",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "dHP,dP,d-P,cHP",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "http://connectdi.com/design/img/drug/147938657883200180.jpg",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200818"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 46854,
+			"iscrowd": 0,
+			"bbox": [
+				369,
+				556,
+				274,
+				171
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

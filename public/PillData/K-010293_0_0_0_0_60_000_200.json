@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-010293_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-010293_0_0_0_0_60_000_200.png",
+			"drug_N": "K-010293",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "10292",
+			"dl_mapping_code": "K-010293",
+			"dl_name": "리노에바스텔캡슐(비매품)",
+			"dl_name_en": "Rino-Ebastel Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/147427480189500026.jpg",
+			"dl_material": "에바스틴구형과립|수도에페드린염산염 과립",
+			"dl_material_en": "Ebastine| Pseudoephedrine Hydrochloride",
+			"dl_custom_shape": "서방캡슐제",
+			"dl_company": "보령제약(주)",
+			"dl_company_en": "Boryung",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200009625,
+			"di_item_permit_date": "20000525",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641900460,A09304941",
+			"chart": "상하부 적색의 경질캡슐이며, 내용물은 흰색 및 회백색의 구형과립임",
+			"drug_shape": "장방형",
+			"thick": 6.91,
+			"leng_long": 19.1,
+			"leng_short": 6.63,
+			"print_front": "EBA PSE",
+			"print_back": "",
+			"color_class1": "빨강",
+			"color_class2": "빨강",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050718",
+			"form_code_name": "서방성캡슐제, 펠렛",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210218",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 122508,
+			"iscrowd": 0,
+			"bbox": [
+				219,
+				457,
+				492,
+				249
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

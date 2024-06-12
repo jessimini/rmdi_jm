@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007588_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007588_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007588",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "7587",
+			"dl_mapping_code": "K-007588",
+			"dl_name": "씨메탈시정 50mg/PTP",
+			"dl_name_en": "Cimetalci Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427727923900085.jpg",
+			"dl_material": "시메티딘|규산알루민산마그네슘|히드로탈시트|탄산수소나트륨",
+			"dl_material_en": "Hydrotalcite| Aluminum Magnesium Silicate| Cimetidine| Sodium Bicarbonate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "초당약품공업(주)",
+			"dl_company_en": "Chodang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199806985,
+			"di_item_permit_date": "19980417",
+			"di_class_no": "[02340]제산제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "670700610",
+			"chart": "백색의 타원형 필림코팅정제",
+			"drug_shape": "타원형",
+			"thick": 4.7,
+			"leng_long": 13.3,
+			"leng_short": 8.3,
+			"print_front": "CI",
+			"print_back": "CD",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080121",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20151217",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 76167,
+			"iscrowd": 0,
+			"bbox": [
+				389,
+				447,
+				217,
+				351
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

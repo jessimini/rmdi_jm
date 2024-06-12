@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-001460_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-001460_0_0_0_0_60_000_200.png",
+			"drug_N": "K-001460",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "1459",
+			"dl_mapping_code": "K-001460",
+			"dl_name": "명인벤즈트로핀메실산염정 2mg",
+			"dl_name_en": "Myungin Benztropine Mesylate Tab. 2mg",
+			"img_key": "http://connectdi.com/design/img/drug/154151882208400086.jpg",
+			"dl_material": "벤즈트로핀메실산염",
+			"dl_material_en": "Benztropine Mesylate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198500629,
+			"di_item_permit_date": "19850417",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "651900610,A09200311",
+			"chart": "흰색의 원형정제",
+			"drug_shape": "원형",
+			"thick": 2,
+			"leng_long": 7.5,
+			"leng_short": 7.5,
+			"print_front": "B분할선2",
+			"print_back": "마크",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20051102",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "꽃잎,마름모",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "http://connectdi.com/design/img/drug/147938640332900082.jpg",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20171122",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 39396,
+			"iscrowd": 0,
+			"bbox": [
+				380,
+				498,
+				201,
+				196
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

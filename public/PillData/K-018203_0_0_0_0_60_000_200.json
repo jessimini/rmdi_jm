@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-018203_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-018203_0_0_0_0_60_000_200.png",
+			"drug_N": "K-018203",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "18202",
+			"dl_mapping_code": "K-018203",
+			"dl_name": "오큐바이트프리저비전정 200mg/병",
+			"dl_name_en": "OCCUBITE PRESERVISION TAB.",
+			"img_key": "http://connectdi.com/design/img/drug/152188712226700025.jpg",
+			"dl_material": "토코페롤아세테이트 2배산|β-카로틴10%|아스코르브산 과립90%|산화제이구리|산화아연",
+			"dl_material_en": "Ascorbic Acid 90%| Cupric Oxide| Tocopherol Acetate 50%| Zinc Oxide| β-Carotene 10%",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)바슈헬스코리아",
+			"dl_company_en": "Bausch & Lomb Incorporated",
+			"di_company_mf": "Nutra Manufacturing Inc.",
+			"di_company_mf_en": "",
+			"item_seq": 200511293,
+			"di_item_permit_date": "20050715",
+			"di_class_no": "[03190]기타의 비타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "664400090",
+			"chart": "진한 오렌지색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 8.38,
+			"leng_long": 19,
+			"leng_short": 9,
+			"print_front": "BL 01",
+			"print_back": "분할선",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20150206",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200525",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 165200,
+			"iscrowd": 0,
+			"bbox": [
+				331,
+				407,
+				400,
+				413
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

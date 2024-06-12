@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-017057_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-017057_0_0_0_0_60_000_200.png",
+			"drug_N": "K-017057",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "17056",
+			"dl_mapping_code": "K-017057",
+			"dl_name": "환인아캄프로세이트정(아캄프로세이트칼슘)",
+			"dl_name_en": "Acamprol Enteric Coated Tab. Whanin",
+			"img_key": "http://connectdi.com/design/img/drug/148609551813100002.jpg",
+			"dl_material": "아캄프로세이트칼슘",
+			"dl_material_en": "Acamprosate Calcium",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "환인제약(주)",
+			"dl_company_en": "Whan In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200501241,
+			"di_item_permit_date": "20051213",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "657201040,A09704091",
+			"chart": "백색 원형의 장용성 필름코팅정제",
+			"drug_shape": "원형",
+			"thick": 6.3,
+			"leng_long": 10.25,
+			"leng_short": 10.25,
+			"print_front": "AC",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120128",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 64008,
+			"iscrowd": 0,
+			"bbox": [
+				392,
+				493,
+				254,
+				252
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

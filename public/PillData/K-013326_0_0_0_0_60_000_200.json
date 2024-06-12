@@ -1,0 +1,48 @@
+{
+	"images": [
+		{
+			"file_name": "K-013326_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-013326_0_0_0_0_60_000_200.png",
+			"drug_N": "K-013326",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": null,
+			"leng_long": null,
+			"leng_short": null,
+			"thick": null,
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 80625,
+			"iscrowd": 0,
+			"bbox": [
+				311,
+				434,
+				375,
+				215
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

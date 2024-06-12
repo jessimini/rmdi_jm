@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-010554_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-010554_0_0_0_0_60_000_200.png",
+			"drug_N": "K-010554",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200101032",
+			"leng_long": "10.0",
+			"leng_short": "10.0",
+			"thick": "4.5",
+			"id": 1,
+			"dl_idx": "10553",
+			"dl_mapping_code": "K-010554",
+			"dl_name": "알베오텐정(비매품) (수출용)",
+			"dl_name_en": "Alveoten Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427743488900102.jpg",
+			"dl_material": "넬테넥신일수화물",
+			"dl_material_en": "Neltenexine Monohydrate",
+			"dl_custom_shape": "",
+			"dl_company": "명인제약(주)",
+			"dl_company_en": "Myung In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20011016",
+			"di_class_no": "[02220]진해거담제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "651901540",
+			"chart": "유백색의 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "α",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041223",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191230"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 68376,
+			"iscrowd": 0,
+			"bbox": [
+				319,
+				448,
+				259,
+				264
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-023719_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023719_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023719",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "23718",
+			"dl_mapping_code": "K-023719",
+			"dl_name": "리큅피디정 4mg",
+			"dl_name_en": "Requip PD Tab. 4mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427878780200079.jpg",
+			"dl_material": "로피니롤염산염",
+			"dl_material_en": "Ropinirole Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "(주)글락소스미스클라인",
+			"dl_company_en": "Gsk",
+			"di_company_mf": "Glaxo Wellcome S.A.",
+			"di_company_mf_en": "",
+			"item_seq": 200805459,
+			"di_item_permit_date": "20080515",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "650001860,E00891721",
+			"chart": "밝은 갈색의 양면이 볼록한 장방형의 필름코팅 서방정제",
+			"drug_shape": "장방형",
+			"thick": 7.04,
+			"leng_long": 12.76,
+			"leng_short": 6.39,
+			"print_front": "GS",
+			"print_back": "WXG",
+			"color_class1": "갈색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20081205",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201130",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 72417,
+			"iscrowd": 0,
+			"bbox": [
+				335,
+				462,
+				303,
+				239
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-019963_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-019963_0_0_0_0_60_000_200.png",
+			"drug_N": "K-019963",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "19962",
+			"dl_mapping_code": "K-019963",
+			"dl_name": "토르셈정 10mg",
+			"dl_name_en": "Torsem Tab. 10mg",
+			"img_key": "http://connectdi.com/design/img/drug/151853646956100054.jpg",
+			"dl_material": "토르세미드",
+			"dl_material_en": "Torasemide",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200611121,
+			"di_item_permit_date": "20061129",
+			"di_class_no": "[02130]이뇨제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643502920,A21404571",
+			"chart": "백색 내지 옅은 황백색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 3.2,
+			"leng_long": 8.1,
+			"leng_short": 8.1,
+			"print_front": "H분할선M",
+			"print_back": "T10",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20070404",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210304",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 45150,
+			"iscrowd": 0,
+			"bbox": [
+				385,
+				480,
+				215,
+				210
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

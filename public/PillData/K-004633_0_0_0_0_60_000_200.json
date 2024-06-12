@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-004633_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-004633_0_0_0_0_60_000_200.png",
+			"drug_N": "K-004633",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "4632",
+			"dl_mapping_code": "K-004633",
+			"dl_name": "일성이솦틴정 80mg",
+			"dl_name_en": "Isoptin Tab. 80mg Ilsung",
+			"img_key": "http://connectdi.com/design/img/drug/150885962952100021.jpg",
+			"dl_material": "베라파밀염산염",
+			"dl_material_en": "Verapamil Hydrochloride",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "일성신약(주)",
+			"dl_company_en": "Ilsung Pharmaceuticals",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199400992,
+			"di_item_permit_date": "19940827",
+			"di_class_no": "[02170]혈관확장제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "655401580,A11350021",
+			"chart": "흰색의 원형 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 4.15,
+			"leng_long": 9.15,
+			"leng_short": 9.15,
+			"print_front": "KNOLL분할선",
+			"print_back": "ISOPTIN80",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210507",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 53562,
+			"iscrowd": 0,
+			"bbox": [
+				372,
+				479,
+				237,
+				226
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

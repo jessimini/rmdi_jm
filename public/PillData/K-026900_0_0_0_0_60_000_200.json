@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-026900_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-026900_0_0_0_0_60_000_200.png",
+			"drug_N": "K-026900",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "26899",
+			"dl_mapping_code": "K-026900",
+			"dl_name": "스타레보필름코팅정 125/31.25/200mg",
+			"dl_name_en": "Stalevo Film Coated Tab. 125/31.25/200mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6F2L.jpg",
+			"dl_material": "엔타카폰|레보도파|카르비도파수화물",
+			"dl_material_en": "Carbidopa Monohydrate| Entacapone| Levodopa",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "알보젠코리아(주)",
+			"dl_company_en": "Alvogen Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200908500,
+			"di_item_permit_date": "20091207",
+			"di_class_no": "[01190]기타의 중추신경용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "652606900,653602090",
+			"chart": "밝은 적갈색의 타원형 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6,
+			"leng_long": 14,
+			"leng_short": 9,
+			"print_front": "LCE125",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20100318",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191029",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 88631,
+			"iscrowd": 0,
+			"bbox": [
+				359,
+				439,
+				337,
+				263
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

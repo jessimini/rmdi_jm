@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000147_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000147_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000147",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "197100081",
+			"leng_long": "9.4",
+			"leng_short": "9.4",
+			"thick": "4.6",
+			"id": 1,
+			"dl_idx": "146",
+			"dl_mapping_code": "K-000147",
+			"dl_name": "키모랄에스정 40mg/PTP",
+			"dl_name_en": "Kimoral-S Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NjeveJRSOJ.jpg",
+			"dl_material": "브로멜라인|결정트립신",
+			"dl_material_en": "Bromelain| Trypsin",
+			"dl_custom_shape": "장용정제",
+			"dl_company": "에이프로젠제약(주)",
+			"dl_company_en": "Aprogen Pharmaceuticals",
+			"di_company_mf": "(주)노바엠헬스케어, 한국프라임제약(주)",
+			"di_company_mf_en": "Korea Prime Pharm",
+			"di_item_permit_date": "19710506",
+			"di_class_no": "[03950]효소제제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "645204260",
+			"chart": "내수용 : 연녹색의 원형 장용성 필름코팅정, 수출용 : 적색의 원형 장용성 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "KS",
+			"print_back": "BT",
+			"color_class1": "연두",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20210820",
+			"form_code_name": "장용성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200310"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 50175,
+			"iscrowd": 0,
+			"bbox": [
+				337,
+				504,
+				223,
+				225
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-038245_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-038245_0_0_0_0_60_000_200.png",
+			"drug_N": "K-038245",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "38244",
+			"dl_mapping_code": "K-038245",
+			"dl_name": "후로스판디정(플로로글루시놀)",
+			"dl_name_en": "Frospan-D Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/149723193923400101.jpg",
+			"dl_material": "플로로글루시놀",
+			"dl_material_en": "Phloroglucinol",
+			"dl_custom_shape": "설하정",
+			"dl_company": "대화제약(주)",
+			"dl_company_en": "Dhpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201600576,
+			"di_item_permit_date": "20160128",
+			"di_class_no": "[01240]진경제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "645604690",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 5,
+			"leng_long": 11,
+			"leng_short": 11,
+			"print_front": "FD",
+			"print_back": "마크",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160307",
+			"form_code_name": "설하정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "dHP,d-P,d P,dP",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "http://connectdi.com/design/img/drug/147938640332900184.jpg",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210201",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 73968,
+			"iscrowd": 0,
+			"bbox": [
+				365,
+				480,
+				276,
+				268
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

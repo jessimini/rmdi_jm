@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-023248_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-023248_0_0_0_0_60_000_200.png",
+			"drug_N": "K-023248",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "23247",
+			"dl_mapping_code": "K-023248",
+			"dl_name": "클리마토플란정 25mg/PTP",
+			"dl_name_en": "Klimaktoplan Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147800431864400026.jpg",
+			"dl_material": "이그나시아 trituration D3|승마 trituration D2|세피아 trituration D2|생귀나리아 trituration D6",
+			"dl_material_en": "Cimicifuga Rhizome Trituration D2| Ignatia Trituration D3| Sanguinaria Trituration D6| Sepia Trituration D2",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)엘브리지",
+			"dl_company_en": "Lbridge",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200802337,
+			"di_item_permit_date": "20080229",
+			"di_class_no": "[03990]따로 분류되지 않는 대사성 의약품",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "681300010",
+			"chart": "회색의 원형 나정",
+			"drug_shape": "원형",
+			"thick": 2,
+			"leng_long": 8,
+			"leng_short": 8,
+			"print_front": "",
+			"print_back": "",
+			"color_class1": "회색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20080227",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20121013",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 51067,
+			"iscrowd": 0,
+			"bbox": [
+				355,
+				518,
+				229,
+				223
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

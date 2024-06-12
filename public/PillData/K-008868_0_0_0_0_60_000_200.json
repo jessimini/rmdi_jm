@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-008868_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-008868_0_0_0_0_60_000_200.png",
+			"drug_N": "K-008868",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200001102",
+			"leng_long": "",
+			"leng_short": "",
+			"thick": "",
+			"id": 1,
+			"dl_idx": "8867",
+			"dl_mapping_code": "K-008868",
+			"dl_name": "샤이닝정 500mg/PTP",
+			"dl_name_en": "Shining Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154653000721000037.jpg",
+			"dl_material": "아세트아미노펜|부틸스코폴라민브롬화물",
+			"dl_material_en": "Acetaminophen| Scopolamine Butylbromide",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동화약품(주)",
+			"dl_company_en": "Dong Wha Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20001108",
+			"di_class_no": "[01240]진경제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642701850",
+			"chart": "백색의 장방형 제피정 ",
+			"drug_shape": "타원형",
+			"print_front": "D-W",
+			"print_back": "S분할선G",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20080422",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200917"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 131262,
+			"iscrowd": 0,
+			"bbox": [
+				287,
+				459,
+				393,
+				334
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-013403_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-013403_0_0_0_0_60_000_200.png",
+			"drug_N": "K-013403",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "13402",
+			"dl_mapping_code": "K-013403",
+			"dl_name": "엘도인캡슐 300mg",
+			"dl_name_en": "Erdoin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/1NQDCuOtpjs.jpg",
+			"dl_material": "에르도스테인",
+			"dl_material_en": "Erdosteine",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "(주)동구바이오제약",
+			"di_company_mf_en": "Dongkoo Bio&Pharma",
+			"item_seq": 200301833,
+			"di_item_permit_date": "20030919",
+			"di_class_no": "[02220]진해거담제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "643501900,A21403881",
+			"chart": "흰색의 분말이 들어있는 상부 초록색, 하부 연한 노란색의 경질캡슐제",
+			"drug_shape": "장방형",
+			"thick": 6.91,
+			"leng_long": 19.1,
+			"leng_short": 6.63,
+			"print_front": "HMP ERD",
+			"print_back": "",
+			"color_class1": "초록",
+			"color_class2": "노랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041227",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201012",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 128372,
+			"iscrowd": 0,
+			"bbox": [
+				206,
+				488,
+				479,
+				268
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

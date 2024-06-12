@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-029251_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-029251_0_0_0_0_60_000_200.png",
+			"drug_N": "K-029251",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201110747",
+			"leng_long": "18.06",
+			"leng_short": "7.35",
+			"thick": "5.7",
+			"id": 1,
+			"dl_idx": "29250",
+			"dl_mapping_code": "K-029251",
+			"dl_name": "이부플러스생정 200mg/PTP",
+			"dl_name_en": "Ibuplussaeng Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147426592401600096.jpg",
+			"dl_material": "이부프로펜|감초|육계|작약|생강",
+			"dl_material_en": "Cinnamon Bark| Ibuprofen| Licorice| Peony Root| Raw Ginger",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "정우신약(주)",
+			"dl_company_en": "Jungwoo Medicines",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20111212",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "694203220",
+			"chart": "청색 장방형 필름코팅정",
+			"drug_shape": "타원형",
+			"print_front": "J분할선W",
+			"print_back": "",
+			"color_class1": "파랑",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20120823",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190522"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 128954,
+			"iscrowd": 0,
+			"bbox": [
+				281,
+				397,
+				427,
+				302
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

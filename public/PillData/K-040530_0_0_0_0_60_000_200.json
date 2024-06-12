@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-040530_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-040530_0_0_0_0_60_000_200.png",
+			"drug_N": "K-040530",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "40529",
+			"dl_mapping_code": "K-040530",
+			"dl_name": "케프라엑스알서방정 750mg",
+			"dl_name_en": "Keppra XR Tab. 750mg",
+			"img_key": "http://connectdi.com/design/img/drug/149287562196300020.jpg",
+			"dl_material": "레비티라세탐",
+			"dl_material_en": "Levetiracetam",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "한국유씨비제약(주)",
+			"dl_company_en": "Korea Ucb",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201605863,
+			"di_item_permit_date": "20160930",
+			"di_class_no": "[01130]항전간제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "654100870",
+			"chart": "백색의 장방형 서방성 필름코팅정제",
+			"drug_shape": "타원형",
+			"thick": 7.58,
+			"leng_long": 19.25,
+			"leng_short": 9.83,
+			"print_front": "UCB750XR",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20170420",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210402",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 142435,
+			"iscrowd": 0,
+			"bbox": [
+				294,
+				450,
+				467,
+				305
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

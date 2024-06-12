@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-013470_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-013470_0_0_0_0_60_000_200.png",
+			"drug_N": "K-013470",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200301966",
+			"leng_long": "17.7",
+			"leng_short": "8.2",
+			"thick": "5.3",
+			"id": 1,
+			"dl_idx": "13469",
+			"dl_mapping_code": "K-013470",
+			"dl_name": "클록펜정 300mg/PTP",
+			"dl_name_en": "Clocpen Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1MdYV-PxYDm.jpg",
+			"dl_material": "아세트아미노펜|클로르족사존",
+			"dl_material_en": "Acetaminophen| Chlorzoxazone",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)씨엠지제약",
+			"dl_company_en": "Cmg Pharm",
+			"di_company_mf": "(주)바스칸바이오제약",
+			"di_company_mf_en": "Baskhanbio Pharma",
+			"di_item_permit_date": "20030603",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "648601680",
+			"chart": "흰색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"print_front": "CP",
+			"print_back": "ΛC",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20130731",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190109"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 102236,
+			"iscrowd": 0,
+			"bbox": [
+				319,
+				449,
+				419,
+				244
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

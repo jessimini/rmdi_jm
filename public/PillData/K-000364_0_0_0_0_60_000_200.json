@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-000364_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-000364_0_0_0_0_60_000_200.png",
+			"drug_N": "K-000364",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "197600345",
+			"leng_long": "8.15",
+			"leng_short": "8.15",
+			"thick": "3.29",
+			"id": 1,
+			"dl_idx": "363",
+			"dl_mapping_code": "K-000364",
+			"dl_name": "페리나정 25mg/PTP",
+			"dl_name_en": "Perina Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/149140683129300030.jpg",
+			"dl_material": "수도에페드린염산염|클로르페니라민말레산염",
+			"dl_material_en": "Pseudoephedrine Hydrochloride| Chlorpheniramine Maleate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "삼진제약(주)",
+			"dl_company_en": "Samjinpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19760622",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "647802520",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "SJP",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20170404",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20191104"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 45580,
+			"iscrowd": 0,
+			"bbox": [
+				370,
+				471,
+				215,
+				212
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

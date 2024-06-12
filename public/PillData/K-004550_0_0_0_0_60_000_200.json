@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-004550_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-004550_0_0_0_0_60_000_200.png",
+			"drug_N": "K-004550",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199400511",
+			"leng_long": "17.7",
+			"leng_short": "7.1",
+			"thick": "5.6",
+			"id": 1,
+			"dl_idx": "4549",
+			"dl_mapping_code": "K-004550",
+			"dl_name": "유한폰탈정 500mg",
+			"dl_name_en": "Pontal Tab. 500mg Yuhan",
+			"img_key": "http://connectdi.com/design/img/drug/147427388029500076.jpg",
+			"dl_material": "메페남산",
+			"dl_material_en": "Mefenamic Acid",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)유한양행",
+			"dl_company_en": "Yuhan",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19940930",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642101970,A04550021",
+			"chart": "백색의 장방형 필림코팅정",
+			"drug_shape": "장방형",
+			"print_front": "Y분할선H",
+			"print_back": "PT",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20050704",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201207"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 131296,
+			"iscrowd": 0,
+			"bbox": [
+				327,
+				460,
+				373,
+				352
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

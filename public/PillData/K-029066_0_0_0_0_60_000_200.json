@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-029066_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-029066_0_0_0_0_60_000_200.png",
+			"drug_N": "K-029066",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "29065",
+			"dl_mapping_code": "K-029066",
+			"dl_name": "미놀에프트로키 12.5mg/PTP",
+			"dl_name_en": "Minol-F Troche",
+			"img_key": "http://connectdi.com/design/img/drug/1N4C9E6ncfn.jpg",
+			"dl_material": "dl-메틸에페드린염산염|노스카핀|구아야콜설폰산칼륨|세틸피리디늄염화물수화물|DL-메틸에페드린염산염",
+			"dl_material_en": "Cetylpyridinium Chloride Hydrate| DL-Methylephedrine Hydrochloride| Noscapine| Potassium Guaiacolsulfonate",
+			"dl_custom_shape": "트로키제",
+			"dl_company": "경남제약(주)",
+			"dl_company_en": "Kyung Nam Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201109733,
+			"di_item_permit_date": "20111108",
+			"di_class_no": "[02220]진해거담제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "647603010",
+			"chart": "미놀에프트로키(페퍼민트맛) : 분홍색의 구멍이 뚫린 원형 트로키제 미놀에프트로키(오렌지맛) : 오렌지 향이 나는 연한 주황색의 구멍이 뚫린 원형 트로키제 미놀에프트로키(모과맛) : 미황색의 구멍이 뚫린 원형 트로키제",
+			"drug_shape": "기타",
+			"thick": 4.9,
+			"leng_long": 18.2,
+			"leng_short": 18.2,
+			"print_front": "MINOL·FT·",
+			"print_back": "MINOL·FT·",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20200316",
+			"form_code_name": "트로키제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200303",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 186399,
+			"iscrowd": 0,
+			"bbox": [
+				218,
+				309,
+				447,
+				417
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

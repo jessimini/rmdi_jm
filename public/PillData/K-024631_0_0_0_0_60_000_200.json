@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-024631_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-024631_0_0_0_0_60_000_200.png",
+			"drug_N": "K-024631",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200809402",
+			"leng_long": "19.55",
+			"leng_short": "10.50",
+			"thick": "7.06",
+			"id": 1,
+			"dl_idx": "24630",
+			"dl_mapping_code": "K-024631",
+			"dl_name": "리피논정 80mg",
+			"dl_name_en": "Lipinon Tab. 80mg",
+			"img_key": "http://connectdi.com/design/img/drug/147426403087300161.jpg",
+			"dl_material": "무수아토르바스타틴칼슘",
+			"dl_material_en": "Atorvastatin Calcium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20080910",
+			"di_class_no": "[02180]동맥경화용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642506260",
+			"chart": "이 약은 흰색의 타원형 필름코팅정이다.",
+			"drug_shape": "타원형",
+			"print_front": "LPT",
+			"print_back": "80",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160824",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210224"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 143100,
+			"iscrowd": 0,
+			"bbox": [
+				303,
+				395,
+				450,
+				318
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

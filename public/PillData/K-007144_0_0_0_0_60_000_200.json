@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-007144_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-007144_0_0_0_0_60_000_200.png",
+			"drug_N": "K-007144",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "7143",
+			"dl_mapping_code": "K-007144",
+			"dl_name": "레가론캡슐140(카르두스마리아누스엑스산)",
+			"dl_name_en": "Legalon Cap. 140",
+			"img_key": "http://connectdi.com/design/img/drug/1NXA-1cMBch.jpg",
+			"dl_material": "밀크시슬건조엑스산",
+			"dl_material_en": "Milk-thistle Dried Ext. Powder",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "부광약품(주)",
+			"dl_company_en": "Bukwang Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 199801576,
+			"di_item_permit_date": "19980804",
+			"di_class_no": "[03910]간장질환용제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642200220,A13102601",
+			"chart": "황색 분말이 든 적갈색 경질캅셀",
+			"drug_shape": "장방형",
+			"thick": 6.7,
+			"leng_long": 18.8,
+			"leng_short": 6.7,
+			"print_front": "레가론140 레가론140",
+			"print_back": "",
+			"color_class1": "갈색",
+			"color_class2": "갈색",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041126",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180622",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 109395,
+			"iscrowd": 0,
+			"bbox": [
+				218,
+				433,
+				495,
+				221
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

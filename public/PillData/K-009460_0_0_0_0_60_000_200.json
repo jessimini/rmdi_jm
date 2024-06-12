@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-009460_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-009460_0_0_0_0_60_000_200.png",
+			"drug_N": "K-009460",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "9459",
+			"dl_mapping_code": "K-009460",
+			"dl_name": "이트라정 100mg",
+			"dl_name_en": "Itra Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6Dd7.jpg",
+			"dl_material": "이트라코나졸",
+			"dl_material_en": "Itraconazole",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한미약품(주)",
+			"dl_company_en": "Hanmi Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200003111,
+			"di_item_permit_date": "20000410",
+			"di_class_no": "[06290]기타의 화학요법제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643502200,A21403361",
+			"chart": "흰색 또는 흐린 흰색의 장방형 필름코팅정제",
+			"drug_shape": "장방형",
+			"thick": 5.94,
+			"leng_long": 14.42,
+			"leng_short": 7.98,
+			"print_front": "HanmiITRA",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041222",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200907",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 96369,
+			"iscrowd": 0,
+			"bbox": [
+				362,
+				480,
+				353,
+				273
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

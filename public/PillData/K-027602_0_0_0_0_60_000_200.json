@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-027602_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-027602_0_0_0_0_60_000_200.png",
+			"drug_N": "K-027602",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "27601",
+			"dl_mapping_code": "K-027602",
+			"dl_name": "비리어드정(테노포비르디소프록실푸마르산염)",
+			"dl_name_en": "Viread Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147426502377200099.jpg",
+			"dl_material": "테노포비르디소프록실푸마르산염",
+			"dl_material_en": "Tenofovir Disoproxil Fumarate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "길리어드사이언스코리아(유)",
+			"dl_company_en": "Gilead Sciences Korea",
+			"di_company_mf": "Gilead Sciences Ireland UC",
+			"di_company_mf_en": "",
+			"item_seq": 201004172,
+			"di_item_permit_date": "20100623",
+			"di_class_no": "[06290]기타의 화학요법제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "625900040,642103930",
+			"chart": "연한 청색의 아몬드 모양의 필름코팅정",
+			"drug_shape": "기타",
+			"thick": 5.2,
+			"leng_long": 17,
+			"leng_short": 10.4,
+			"print_front": "GILEAD4331",
+			"print_back": "300",
+			"color_class1": "파랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120120",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200813",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 135168,
+			"iscrowd": 0,
+			"bbox": [
+				314,
+				411,
+				384,
+				352
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

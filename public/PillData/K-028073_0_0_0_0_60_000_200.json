@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-028073_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-028073_0_0_0_0_60_000_200.png",
+			"drug_N": "K-028073",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "28072",
+			"dl_mapping_code": "K-028073",
+			"dl_name": "온글라이자정 5mg",
+			"dl_name_en": "Onglyza Tablet 5mg",
+			"img_key": "http://connectdi.com/design/img/drug/147426528014500158.jpg",
+			"dl_material": "삭사글립틴수화물",
+			"dl_material_en": "Saxagliptin Monohydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한국아스트라제네카(주)",
+			"dl_company_en": "Astrazeneca Korea",
+			"di_company_mf": "AstraZeneca Pharmaceuticals LP",
+			"di_company_mf_en": "",
+			"item_seq": 201100373,
+			"di_item_permit_date": "20110124",
+			"di_class_no": "[03960]당뇨병용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "650700880,658700500",
+			"chart": "분홍색의 양면이 볼록한 원형의 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 4,
+			"leng_long": 8,
+			"leng_short": 8,
+			"print_front": "5",
+			"print_back": "4215",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20120210",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210601",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 47089,
+			"iscrowd": 0,
+			"bbox": [
+				353,
+				523,
+				217,
+				217
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

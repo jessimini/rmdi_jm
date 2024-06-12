@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005073_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005073_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005073",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199500959",
+			"leng_long": "8",
+			"leng_short": "8",
+			"thick": "2.7",
+			"id": 1,
+			"dl_idx": "5072",
+			"dl_mapping_code": "K-005073",
+			"dl_name": "환인그란닥신정(토피소팜)",
+			"dl_name_en": "Grandaxin Tab. Whanin",
+			"img_key": "http://connectdi.com/design/img/drug/148609551813100045.jpg",
+			"dl_material": "토피소팜",
+			"dl_material_en": "Tofisopam",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "환인제약(주)",
+			"dl_company_en": "Whan In Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19950628",
+			"di_class_no": "[01230]자율신경제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "657201010,A09703351",
+			"chart": "백색의 원형정제  ",
+			"drug_shape": "원형",
+			"print_front": "GR",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120128"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 43890,
+			"iscrowd": 0,
+			"bbox": [
+				373,
+				533,
+				210,
+				209
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

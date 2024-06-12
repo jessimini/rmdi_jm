@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-002049_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-002049_0_0_0_0_60_000_200.png",
+			"drug_N": "K-002049",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "2048",
+			"dl_mapping_code": "K-002049",
+			"dl_name": "크라운소브레롤캅셀",
+			"dl_name_en": "Sobrerol Cap. Crown",
+			"img_key": "http://connectdi.com/design/img/drug/1MoApPycZXY.jpg",
+			"dl_material": "소브레롤",
+			"dl_material_en": "Sobrerol",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "지엘파마(주)",
+			"dl_company_en": "Glpharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198701672,
+			"di_item_permit_date": "19870804",
+			"di_class_no": "[02220]진해거담제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "649700660,A31000771",
+			"chart": "백색 내지 미황색의 내용물이 든 상:녹색,하:백색의 경질캡슐제",
+			"drug_shape": "장방형",
+			"thick": 6.35,
+			"leng_long": 17.6,
+			"leng_short": 6.07,
+			"print_front": "Crw Sob-100",
+			"print_back": "",
+			"color_class1": "초록",
+			"color_class2": "하양",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041217",
+			"form_code_name": "경질캡슐제, 과립제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190325",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 80920,
+			"iscrowd": 0,
+			"bbox": [
+				179,
+				481,
+				476,
+				170
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

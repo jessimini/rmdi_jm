@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-038855_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-038855_0_0_0_0_60_000_200.png",
+			"drug_N": "K-038855",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "38854",
+			"dl_mapping_code": "K-038855",
+			"dl_name": "콘트라브서방정 90mg/병",
+			"dl_name_en": "Contrav ER Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427232964000144.jpg",
+			"dl_material": "부프로피온염산염|날트렉손염산염",
+			"dl_material_en": "Bupropion Hydrochloride| Naltrexone Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "광동제약(주)",
+			"dl_company_en": "Kwang Dong Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201602430,
+			"di_item_permit_date": "20160429",
+			"di_class_no": "[01230]자율신경제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641806060",
+			"chart": "파란색 원형의 서방성 필름코팅정",
+			"drug_shape": "원형",
+			"thick": 6.2,
+			"leng_long": 12,
+			"leng_short": 12,
+			"print_front": "NB-890",
+			"print_back": "",
+			"color_class1": "파랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20160513",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210515",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 94855,
+			"iscrowd": 0,
+			"bbox": [
+				294,
+				423,
+				311,
+				305
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

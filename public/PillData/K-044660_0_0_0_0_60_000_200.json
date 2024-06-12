@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-044660_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-044660_0_0_0_0_60_000_200.png",
+			"drug_N": "K-044660",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "44659",
+			"dl_mapping_code": "K-044660",
+			"dl_name": "카베진코와알파정 25mg/PTP",
+			"dl_name_en": "Cabagin Kowa Alpha Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/154151882208400062.jpg",
+			"dl_material": "메틸메티오닌설포늄염화물|스코폴리아엑스3배산|당약가루|비오디아스타제2000|리파제AP12|자소엽건조엑스|탄산마그네슘|탄산수소나트륨|침강탄산칼슘",
+			"dl_material_en": "",
+			"dl_custom_shape": "",
+			"dl_company": "한국코와(주)",
+			"dl_company_en": "Kowa Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201803907,
+			"di_item_permit_date": "20181004",
+			"di_class_no": "[02330]건위소화제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": null,
+			"chart": "담황갈색 원형의 유핵정",
+			"drug_shape": "원형",
+			"thick": 5.3,
+			"leng_long": 11,
+			"leng_short": 11,
+			"print_front": "KOWA α",
+			"print_back": "",
+			"color_class1": "회색",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20181102",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": null,
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 75858,
+			"iscrowd": 0,
+			"bbox": [
+				369,
+				448,
+				282,
+				269
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

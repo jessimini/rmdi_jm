@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-039135_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-039135_0_0_0_0_60_000_200.png",
+			"drug_N": "K-039135",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "39134",
+			"dl_mapping_code": "K-039135",
+			"dl_name": "루키오츄정4밀리그램(몬테루카스트나트륨)",
+			"dl_name_en": "Lukio Chewable Tab. 4mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NearEtoZrm.jpg",
+			"dl_material": "몬테루카스트나트륨",
+			"dl_material_en": "Montelukast Sodium",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "에이치케이이노엔(주)",
+			"dl_company_en": "Hk Inno.N",
+			"di_company_mf": "보령제약(주)",
+			"di_company_mf_en": "Boryung",
+			"item_seq": 201603057,
+			"di_item_permit_date": "20160530",
+			"di_class_no": "[01490]기타의 알레르기용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "640007010",
+			"chart": "양면이 볼록한 타원형의 씹어먹는 분홍색 정제",
+			"drug_shape": "타원형",
+			"thick": 3.7,
+			"leng_long": 10.9,
+			"leng_short": 7.9,
+			"print_front": "INO",
+			"print_back": "4C",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20210618",
+			"form_code_name": "추어블정(저작정)",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20170629",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 52993,
+			"iscrowd": 0,
+			"bbox": [
+				355,
+				518,
+				269,
+				197
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

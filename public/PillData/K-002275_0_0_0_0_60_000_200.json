@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-002275_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-002275_0_0_0_0_60_000_200.png",
+			"drug_N": "K-002275",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "2274",
+			"dl_mapping_code": "K-002275",
+			"dl_name": "오스테민캡슐(결정글루코사민황산염)",
+			"dl_name_en": "Ostemin Cap.",
+			"img_key": "http://connectdi.com/design/img/drug/151317992996500148.jpg",
+			"dl_material": "결정글루코사민황산염",
+			"dl_material_en": "Crystallized Glucosamine Sulfate　",
+			"dl_custom_shape": "경질캡슐제",
+			"dl_company": "삼진제약(주)",
+			"dl_company_en": "Samjinpharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 198801103,
+			"di_item_permit_date": "19880227",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "647801830,A12701421",
+			"chart": "백색내지 담황갈색의 가루 또는 과립상이든 상부 적색, 하부 미황색의 캅셀",
+			"drug_shape": "장방형",
+			"thick": 7,
+			"leng_long": 19.3,
+			"leng_short": 6.7,
+			"print_front": "SAMJIN OSTEMIN",
+			"print_back": "",
+			"color_class1": "빨강",
+			"color_class2": "노랑",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20041126",
+			"form_code_name": "경질캡슐제, 산제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20130501",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 124260,
+			"iscrowd": 0,
+			"bbox": [
+				208,
+				440,
+				436,
+				285
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

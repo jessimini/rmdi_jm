@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-030008_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-030008_0_0_0_0_60_000_200.png",
+			"drug_N": "K-030008",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "30007",
+			"dl_mapping_code": "K-030008",
+			"dl_name": "튜비스정",
+			"dl_name_en": "Tubes Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147426628044100027.jpg",
+			"dl_material": "리팜피신|이소니아지드|피라진아미드|에탐부톨염산염",
+			"dl_material_en": "Ethambutol hydrochloride| pyrazinamide| isoniazid| rifampicin",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)비씨월드제약",
+			"dl_company_en": "Bcworld Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 201206793,
+			"di_item_permit_date": "20120914",
+			"di_class_no": "[06130]주로 항산성균에 작용하는 것",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "653102670",
+			"chart": "타원형의 양쪽이 볼록한 오렌지색의 필름코팅정",
+			"drug_shape": "타원형",
+			"thick": 6,
+			"leng_long": 22.5,
+			"leng_short": 11.2,
+			"print_front": "BCWP",
+			"print_back": "분할선",
+			"color_class1": "주황",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20140110",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201217",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 202825,
+			"iscrowd": 0,
+			"bbox": [
+				246,
+				324,
+				475,
+				427
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

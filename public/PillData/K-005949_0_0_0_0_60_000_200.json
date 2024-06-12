@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-005949_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-005949_0_0_0_0_60_000_200.png",
+			"drug_N": "K-005949",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "5948",
+			"dl_mapping_code": "K-005949",
+			"dl_name": "이미그란정 50mg",
+			"dl_name_en": "Imigran Tab. 50mg",
+			"img_key": "http://connectdi.com/design/img/drug/1NOwp2F6CqC.jpg",
+			"dl_material": "수마트립탄숙신산염",
+			"dl_material_en": "Sumatriptan Succinate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)글락소스미스클라인",
+			"dl_company_en": "Gsk",
+			"di_company_mf": "GlaxoSmithKline Pharmaceuticals SA",
+			"di_company_mf_en": "",
+			"item_seq": 199604657,
+			"di_item_permit_date": "19960903",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "650000990,E00890291",
+			"chart": "분홍색의 양쪽이 볼록한 장방형의 필름코팅 정제",
+			"drug_shape": "장방형",
+			"thick": 4.21,
+			"leng_long": 12.15,
+			"leng_short": 6.64,
+			"print_front": "50",
+			"print_back": "",
+			"color_class1": "분홍",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20161121",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20140828",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 55016,
+			"iscrowd": 0,
+			"bbox": [
+				338,
+				471,
+				299,
+				184
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

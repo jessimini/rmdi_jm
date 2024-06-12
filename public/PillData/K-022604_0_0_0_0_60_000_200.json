@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-022604_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-022604_0_0_0_0_60_000_200.png",
+			"drug_N": "K-022604",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "22603",
+			"dl_mapping_code": "K-022604",
+			"dl_name": "보령모사프리드시트르산염수화물정 ",
+			"dl_name_en": "Mosacan Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1Ml1y5tPLzy.jpg",
+			"dl_material": "모사프리드시트르산염수화물",
+			"dl_material_en": "Mosapride Citrate Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "보령제약(주)",
+			"dl_company_en": "Boryung",
+			"di_company_mf": "(주)테라젠이텍스",
+			"di_company_mf_en": "Theragen Etex",
+			"item_seq": 200712252,
+			"di_item_permit_date": "20071109",
+			"di_class_no": "[02390]기타의 소화기관용약",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "641904760,A09306271",
+			"chart": "분할선을 가진 흰색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 2,
+			"leng_long": 9.1,
+			"leng_short": 5,
+			"print_front": "BR",
+			"print_back": "분할선",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20100202",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200623",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 33033,
+			"iscrowd": 0,
+			"bbox": [
+				371,
+				532,
+				231,
+				143
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

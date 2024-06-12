@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-037366_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-037366_0_0_0_0_60_000_200.png",
+			"drug_N": "K-037366",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201506481",
+			"leng_long": "9.9",
+			"leng_short": "9.9",
+			"thick": "5.9",
+			"id": 1,
+			"dl_idx": "37365",
+			"dl_mapping_code": "K-037366",
+			"dl_name": "파라마셋이알세미서방정",
+			"dl_name_en": "Paramacet ER Semi Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/1NW8BJ049Uc.jpg",
+			"dl_material": "아세트아미노펜|트라마돌염산염",
+			"dl_material_en": "Acetaminophen| Tramadol Hydrochloride",
+			"dl_custom_shape": "서방형정제",
+			"dl_company": "동아에스티(주)",
+			"dl_company_en": "Dong-A St",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20150909",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "642507270",
+			"chart": "연한 노란색의 원형 서방성 필름코팅정",
+			"drug_shape": "원형",
+			"print_front": "DASE",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20210303",
+			"form_code_name": "서방성필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201115"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 61750,
+			"iscrowd": 0,
+			"bbox": [
+				364,
+				451,
+				247,
+				250
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

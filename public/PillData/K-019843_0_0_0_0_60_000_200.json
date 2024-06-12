@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-019843_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-019843_0_0_0_0_60_000_200.png",
+			"drug_N": "K-019843",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "19842",
+			"dl_mapping_code": "K-019843",
+			"dl_name": "사리돈에이정 250mg/PTP",
+			"dl_name_en": "Saridon-A Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147800419473500177.jpg",
+			"dl_material": "아세트아미노펜|이소프로필안티피린|카페인무수물",
+			"dl_material_en": "Acetaminophen| Caffeine Anhydrous| Isopropylantipyrine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "바이엘코리아(주)",
+			"dl_company_en": "Bayer Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200610627,
+			"di_item_permit_date": "20060804",
+			"di_class_no": "[01140]해열.진통.소염제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "641100110",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"thick": 4.58,
+			"leng_long": 13.2,
+			"leng_short": 13.2,
+			"print_front": "Saridon",
+			"print_back": "Saridon",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20070125",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20150709",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 107583,
+			"iscrowd": 0,
+			"bbox": [
+				374,
+				509,
+				329,
+				327
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

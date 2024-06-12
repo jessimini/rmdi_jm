@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-011833_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-011833_0_0_0_0_60_000_200.png",
+			"drug_N": "K-011833",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "11832",
+			"dl_mapping_code": "K-011833",
+			"dl_name": "아목시클정(아목시실린수화물·클라불란산칼륨(7:1))",
+			"dl_name_en": "Amoxicle Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150834121591100011.jpg",
+			"dl_material": "아목시실린수화물|희석클라불란산칼륨",
+			"dl_material_en": "Amoxicillin Sodium| Potassium Clavulanate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "대원제약(주)",
+			"dl_company_en": "Daewon Pharmaceutical",
+			"di_company_mf": "(주)펜믹스",
+			"di_company_mf_en": "Penmix",
+			"item_seq": 200201406,
+			"di_item_permit_date": "20021116",
+			"di_class_no": "[06180]주로 그람양성, 음성균에 작용하는 것",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "671802040,A12804061",
+			"chart": "백색 또는 거의 백색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"thick": 7.3,
+			"leng_long": 22,
+			"leng_short": 10.5,
+			"print_front": "DWP",
+			"print_back": "Λ분할선X",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20060119",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20180101",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 206625,
+			"iscrowd": 0,
+			"bbox": [
+				288,
+				355,
+				475,
+				435
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

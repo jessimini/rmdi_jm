@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-006323_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-006323_0_0_0_0_60_000_200.png",
+			"drug_N": "K-006323",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "199701398",
+			"leng_long": "10.3",
+			"leng_short": "4.2",
+			"thick": "2.9",
+			"id": 1,
+			"dl_idx": "6322",
+			"dl_mapping_code": "K-006323",
+			"dl_name": "아루텍정(염산세티리진)",
+			"dl_name_en": "Arutec Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147427493847200020.jpg",
+			"dl_material": "세티리진염산염",
+			"dl_material_en": "Ceftibuten Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)메디카코리아",
+			"dl_company_en": "Medica Korea",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19970711",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "646001670,A10000331",
+			"chart": "백색의 장방형 필름코팅정",
+			"drug_shape": "장방형",
+			"print_front": "M분할선K",
+			"print_back": "AT",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20050203",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20210212"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 41452,
+			"iscrowd": 0,
+			"bbox": [
+				428,
+				527,
+				172,
+				241
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

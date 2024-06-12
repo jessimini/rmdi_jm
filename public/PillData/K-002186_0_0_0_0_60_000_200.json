@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-002186_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-002186_0_0_0_0_60_000_200.png",
+			"drug_N": "K-002186",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "198800316",
+			"leng_long": "9.6",
+			"leng_short": "9.6",
+			"thick": "4.1",
+			"id": 1,
+			"dl_idx": "2185",
+			"dl_mapping_code": "K-002186",
+			"dl_name": "타라부틴정 200mg",
+			"dl_name_en": "Tarabutine Tab. 200mg",
+			"img_key": "http://connectdi.com/design/img/drug/147427343933600024.jpg",
+			"dl_material": "트리메부틴말레산염",
+			"dl_material_en": "Trimebutine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "국제약품(주)",
+			"dl_company_en": "Kukje Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "19880518",
+			"di_class_no": "[02390]기타의 소화기관용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "643702240,A03003341",
+			"chart": "백색의 원형정제",
+			"drug_shape": "원형",
+			"print_front": "TB2KJ",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20060127",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20200930"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 65024,
+			"iscrowd": 0,
+			"bbox": [
+				396,
+				503,
+				256,
+				254
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

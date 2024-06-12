@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-012207_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-012207_0_0_0_0_60_000_200.png",
+			"drug_N": "K-012207",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"dl_idx": "12206",
+			"dl_mapping_code": "K-012207",
+			"dl_name": "데놀정(비스무트시트르산염칼륨)",
+			"dl_name_en": "Denol Tab. 300mg",
+			"img_key": "http://connectdi.com/design/img/drug/147765859194400140.jpg",
+			"dl_material": "비스무트시트르산염칼륨",
+			"dl_material_en": "Tripotassium Bismuth Dicitrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "(주)녹십자",
+			"dl_company_en": "Green Cross Corp",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"item_seq": 200202791,
+			"di_item_permit_date": "20021010",
+			"di_class_no": "[02320]소화성궤양용제",
+			"di_etc_otc_code": "전문의약품",
+			"di_edi_code": "643600900,A35551851",
+			"chart": "원형의 백색 필름 코팅정",
+			"drug_shape": "원형",
+			"thick": 4.7,
+			"leng_long": 10.3,
+			"leng_short": 10.3,
+			"print_front": "DNT",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20050715",
+			"form_code_name": "필름코팅정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20120803",
+			"id": 1
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 59436,
+			"iscrowd": 0,
+			"bbox": [
+				367,
+				493,
+				254,
+				234
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

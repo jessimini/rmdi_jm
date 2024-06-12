@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-010995_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-010995_0_0_0_0_60_000_200.png",
+			"drug_N": "K-010995",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200102905",
+			"leng_long": "7.6",
+			"leng_short": "5.2",
+			"thick": "2.7",
+			"id": 1,
+			"dl_idx": "10994",
+			"dl_mapping_code": "K-010995",
+			"dl_name": "구주로라타딘정 10mg",
+			"dl_name_en": "Loratadine Tab. GuJu",
+			"img_key": "http://connectdi.com/design/img/drug/1Mxwka5v1g7.jpg",
+			"dl_material": "로라타딘",
+			"dl_material_en": "Loratadine",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "구주제약(주)",
+			"dl_company_en": "Guju",
+			"di_company_mf": "(주)테라젠이텍스",
+			"di_company_mf_en": "Theragen Etex",
+			"di_item_permit_date": "20010423",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "669800100,A27803341",
+			"chart": "흰색의 타원형 정제",
+			"drug_shape": "타원형",
+			"print_front": "G분할선10",
+			"print_back": "",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "-",
+			"line_back": "",
+			"img_regist_ts": "20051229",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20190918"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 31862,
+			"iscrowd": 0,
+			"bbox": [
+				392,
+				519,
+				179,
+				178
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

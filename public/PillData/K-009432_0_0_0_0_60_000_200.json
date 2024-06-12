@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-009432_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-009432_0_0_0_0_60_000_200.png",
+			"drug_N": "K-009432",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200002985",
+			"leng_long": "8.0",
+			"leng_short": "8.0",
+			"thick": "3.2",
+			"id": 1,
+			"dl_idx": "9431",
+			"dl_mapping_code": "K-009432",
+			"dl_name": "액소도스정 60mg/PTP (수출용)",
+			"dl_name_en": "Exodos Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/150903246627300082.jpg",
+			"dl_material": "트리프롤리딘염산염수화물|수도에페드린염산염",
+			"dl_material_en": "Pseudoephedrine Hydrochloride| Triprolidine Hydrochloride Hydrate",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "신일제약(주)",
+			"dl_company_en": "Sinil Pharmaceutical",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20000211",
+			"di_class_no": "[01410]항히스타민제",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "653802050",
+			"chart": "흰색의 원형 정제",
+			"drug_shape": "원형",
+			"print_front": "T.S",
+			"print_back": "S분할선I",
+			"color_class1": "하양",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "-",
+			"img_regist_ts": "20041222",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20201217"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 46870,
+			"iscrowd": 0,
+			"bbox": [
+				448,
+				568,
+				215,
+				218
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

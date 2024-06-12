@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-026788_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-026788_0_0_0_0_60_000_200.png",
+			"drug_N": "K-026788",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "200907385",
+			"leng_long": "12.11",
+			"leng_short": "12.11",
+			"thick": "5.95",
+			"id": 1,
+			"dl_idx": "26787",
+			"dl_mapping_code": "K-026788",
+			"dl_name": "에키나포스프로텍트정 1140mg",
+			"dl_name_en": "Echinaforce Protect Tab.",
+			"img_key": "http://connectdi.com/design/img/drug/147426455627900065.jpg",
+			"dl_material": "에키나시아푸르푸레아 허바팅크|에키나시아푸르푸레아 뿌리팅크",
+			"dl_material_en": "Echinacea Purpurea Herba Tinc.| Echinacea Purpurea Root Tinc.",
+			"dl_custom_shape": "정제, 저작정",
+			"dl_company": "한화제약(주)",
+			"dl_company_en": "Hanwha Pharma",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20091012",
+			"di_class_no": "[02290]기타의 호흡기관용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "651601440",
+			"chart": "녹색빛을 띤 유백색의 원형정제",
+			"drug_shape": "원형",
+			"print_front": "ECP",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20100428",
+			"form_code_name": "나정",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": "20111024"
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 93942,
+			"iscrowd": 0,
+			"bbox": [
+				379,
+				476,
+				306,
+				307
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}

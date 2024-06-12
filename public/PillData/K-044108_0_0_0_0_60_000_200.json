@@ -1,0 +1,81 @@
+{
+	"images": [
+		{
+			"file_name": "K-044108_0_0_0_0_60_000_200.png",
+			"width": 976,
+			"height": 1280,
+			"imgfile": "K-044108_0_0_0_0_60_000_200.png",
+			"drug_N": "K-044108",
+			"drug_S": "정상알약",
+			"back_color": "검은색 배경",
+			"drug_dir": "앞면",
+			"light_color": "전구색",
+			"camera_la": 60,
+			"camera_lo": 0,
+			"size": 200,
+			"item_seq": "201802617",
+			"leng_long": "16.1",
+			"leng_short": "16.1",
+			"thick": "5.9",
+			"id": 1,
+			"dl_idx": "44107",
+			"dl_mapping_code": "K-044108",
+			"dl_name": "모가프텐트로키 8.75mg/PTP",
+			"dl_name_en": "Mogaften Troche",
+			"img_key": "http://connectdi.com/design/img/drug/154367884505000042.jpg",
+			"dl_material": "플루르비프로펜",
+			"dl_material_en": "",
+			"dl_custom_shape": "트로키제",
+			"dl_company": "동화약품(주)",
+			"dl_company_en": "Dong Wha Pharm",
+			"di_company_mf": "",
+			"di_company_mf_en": "",
+			"di_item_permit_date": "20180622",
+			"di_class_no": "[02310]치과구강용약",
+			"di_etc_otc_code": "일반의약품",
+			"di_edi_code": "642706580",
+			"chart": "레몬향이 나는 연한 노랑색의 원형 트로키제",
+			"drug_shape": "원형",
+			"print_front": "D-W FLB",
+			"print_back": "",
+			"color_class1": "노랑",
+			"color_class2": "",
+			"line_front": "",
+			"line_back": "",
+			"img_regist_ts": "20181129",
+			"form_code_name": "트로키제",
+			"mark_code_front_anal": "",
+			"mark_code_back_anal": "",
+			"mark_code_front_img": "",
+			"mark_code_back_img": "",
+			"mark_code_front": "",
+			"mark_code_back": "",
+			"change_date": null
+		}
+	],
+	"type": "instances",
+	"annotations": [
+		{
+			"area": 159856,
+			"iscrowd": 0,
+			"bbox": [
+				344,
+				425,
+				388,
+				412
+			],
+			"category_id": 1,
+			"ignore": 0,
+			"segmentation": [],
+			"id": 1,
+			"image_id": 1
+		}
+	],
+	"categories": [
+		{
+			"supercategory": "pill",
+			"id": 1,
+			"name": "Drug"
+		}
+	]
+}
